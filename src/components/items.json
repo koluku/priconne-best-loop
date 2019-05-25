@@ -49,8 +49,7 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "アルテミスボウ",
+          "id": "606078d0-1fab-4352-a829-76c40ea16d62",
           "amount": 1
         },
         {
@@ -153,13 +152,11 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "紫龍斧",
+          "id": "9a5e1018-1802-43a1-b96a-252ca5a22081",
           "amount": 1
         },
         {
-          "id": "",
-          "name": "ネクロマンサーブーツ",
+          "id": "8a25e319-71a8-4ab4-95dd-429389e72dee",
           "amount": 1
         }
       ]
@@ -178,21 +175,25 @@
       "name": "ムーンセスタス",
       "requirements": [
         {
-          "id": "",
-          "name": "ムーンセスタスの設計図",
+          "id": "19841bc8-51f3-4161-8d78-1127b492a4c6",
           "amount": 25
         },
         {
-          "id": "",
-          "name": "獅子王のガントレット",
+          "id": "a8f81f0b-cd73-4b4e-b96d-7208f6369c47",
           "amount": 1
         },
         {
-          "id": "",
-          "name": "月のブレスレット",
+          "id": "cecced25-f08a-48d3-9028-74fa6614e939",
           "amount": 1
         }
       ]
+    },
+    {
+      "id": "19841bc8-51f3-4161-8d78-1127b492a4c6",
+      "rank": 5,
+      "type": "material",
+      "name": "ムーンセスタスの設計図",
+      "requirements": []
     },
     {
       "id": "8df352ef-0e07-476b-85f8-f23ce4baca03",
@@ -262,8 +263,7 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "クルセイダープレート",
+          "id": "80573e36-8df6-42ba-bc59-e2d96d61fa98",
           "amount": 1
         },
         {
@@ -291,13 +291,12 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "福音のティアラ",
+          "id": "860b7a35-519f-4cb6-ac01-df19536293a2",
           "amount": 1
         },
         {
           "id": "",
-          "name": "忘哭の冠の設計図",
+          "name": "デビルズホーン",
           "amount": 1
         }
       ]
@@ -320,8 +319,7 @@
           "amount": 1
         },
         {
-          "id": "",
-          "name": "ガーディアンシールド",
+          "id": "c8df30ea-387c-45c0-b2e6-f25edb8723b7",
           "amount": 1
         },
         {
@@ -354,13 +352,11 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "バイオレットアーマー",
+          "id": "38590d00-8c66-47ff-82eb-2b16385315d1",
           "amount": 1
         },
         {
-          "id": "",
-          "name": "パラディングリーブ",
+          "id": "77c4adc9-5308-4628-a4f4-8903097352c7",
           "amount": 1
         }
       ]
@@ -383,13 +379,11 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "蒼天のローブ",
+          "id": "14a32ed2-4c22-446d-845d-2a75850c366e",
           "amount": 1
         },
         {
-          "id": "",
-          "name": "フェザーワルツ",
+          "id": "274539f1-c321-4f37-9488-63071cce46a0",
           "amount": 1
         }
       ]
@@ -412,13 +406,11 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "太陽のアミュレット",
+          "id": "1749eb1d-6bb1-4646-8de2-70c83b7ac146",
           "amount": 1
         },
         {
-          "id": "",
-          "name": "聖者のローブ",
+          "id": "2500798e-8f1c-4401-843e-7f830fa3c120",
           "amount": 1
         }
       ]
@@ -441,13 +433,11 @@
           "amount": 1
         },
         {
-          "id": "",
-          "name": "太陽剣",
+          "id": "5ecd6447-67c9-4fbd-849a-d1168e24b2d3",
           "amount": 1
         },
         {
-          "id": "",
-          "name": "エンジェルブレード",
+          "id": "15af0024-2325-4694-b694-6e98d5a9407f",
           "amount": 1
         }
       ]
@@ -508,13 +498,11 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "プレシャスナイフ",
+          "id": "0f54b667-55d0-4f51-bbbe-f0129f25b13f",
           "amount": 1
         },
         {
-          "id": "",
-          "name": "エレメンタルハート",
+          "id": "3de59a15-8f16-4541-9fb1-5bd4afa0f71f",
           "amount": 1
         },
         {
@@ -580,8 +568,7 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "クイーンビースピア",
+          "id": "a0a9156f-b23c-41f4-bb89-f74ce7629498",
           "amount": 1
         },
         {
@@ -609,8 +596,7 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "生命のロッド",
+          "id": "96f66dca-ad13-4794-9592-79ae7d2c7972",
           "amount": 1
         },
         {
@@ -714,8 +700,7 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "法王のフード",
+          "id": "266338bf-0514-4a40-b5d7-94ef5f051f6c",
           "amount": 1
         },
         {
@@ -743,8 +728,7 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "エンジェルブーツ",
+          "id": "57909c84-7514-47a1-9f86-193256741e2e",
           "amount": 1
         },
         {
@@ -772,8 +756,7 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "ミスリルプレート",
+          "id": "491c8438-9c16-45b6-b929-35fd1dc749bd",
           "amount": 1
         },
         {
@@ -801,8 +784,7 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "ハーミットクロース",
+          "id": "8dbbf2e5-c2ee-4670-acb7-8f524434dfba",
           "amount": 1
         },
         {
@@ -830,8 +812,7 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "三日月の嘆き",
+          "id": "4d299fc7-f07e-40f2-84cc-0f4f70c7d4c5",
           "amount": 1
         },
         {
@@ -859,8 +840,7 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "エンジェルアーマー",
+          "id": "d095f0b2-b764-46d6-8abf-c94bc25aeba9",
           "amount": 1
         },
         {
@@ -888,13 +868,11 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "紫龍斧",
+          "id": "9a5e1018-1802-43a1-b96a-252ca5a22081",
           "amount": 1
         },
         {
-          "id": "",
-          "name": "光輝の剣",
+          "id": "aaa7d846-3a84-463f-9a50-d88204ffcda1",
           "amount": 1
         }
       ]
@@ -955,8 +933,7 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "パラディングリーブ",
+          "id": "77c4adc9-5308-4628-a4f4-8903097352c7",
           "amount": 1
         },
         {
@@ -984,13 +961,11 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "太陽のロッド",
+          "id": "df874cf8-f52e-438d-ac1a-844d5c071b94",
           "amount": 1
         },
         {
-          "id": "",
-          "name": "雷光弓",
+          "id": "25f28940-cf95-409c-b031-3e125f210a5b",
           "amount": 1
         }
       ]
@@ -1013,8 +988,7 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "ヘルファイアアックス",
+          "id": "490b3add-5d8b-4a57-8849-b7c8a8c98949",
           "amount": 1
         },
         {
@@ -1047,8 +1021,7 @@
           "amount": 1
         },
         {
-          "id": "",
-          "name": "アイスクレイモア",
+          "id": "be67aab6-f7c0-47cf-9486-56a1e7eb46ed",
           "amount": 1
         }
       ]
@@ -1071,13 +1044,11 @@
           "amount": 25
         },
         {
-          "id": "",
-          "name": "生命のロッド",
+          "id": "96f66dca-ad13-4794-9592-79ae7d2c7972",
           "amount": 1
         },
         {
-          "id": "",
-          "name": "三日月の嘆き",
+          "id": "4d299fc7-f07e-40f2-84cc-0f4f70c7d4c5",
           "amount": 1
         }
       ]
@@ -1185,7 +1156,7 @@
       "requirements": []
     },
     {
-      "id": "",
+      "id": "3e4cfcb2-9e28-41bf-83c1-5fe6efc06c6a",
       "rank": 4,
       "type": "equipment",
       "name": "月下の法衣",
@@ -1301,7 +1272,7 @@
       "name": "雷光弓",
       "requirements": [
         {
-          "id": "",
+          "id": "c89a76c8-3b14-48c4-8f2c-69b9aa617768",
           "amount": 20
         },
         {
@@ -1317,7 +1288,7 @@
       ]
     },
     {
-      "id": "25f28940-cf95-409c-b031-3e125f210a5b",
+      "id": "c89a76c8-3b14-48c4-8f2c-69b9aa617768",
       "rank": 4,
       "type": "material",
       "name": "雷光弓の設計図",
@@ -1374,7 +1345,6 @@
       "requirements": [
         {
           "id": "0f77435f-3d30-436b-942c-df128df91ff3",
-          "name": "エンジェルブレード(欠片)",
           "amount": 20
         }
       ]
@@ -1546,744 +1516,899 @@
       "requirements": []
     },
     {
-      "id": "",
+      "id": "9a5e1018-1802-43a1-b96a-252ca5a22081",
       "rank": 4,
       "type": "equipment",
       "name": "紫龍斧",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "796b6a27-90aa-439e-8ae2-39f1826fe5fc",
+          "amount": 20
         }
       ]
     },
     {
-      "id": "",
+      "id": "796b6a27-90aa-439e-8ae2-39f1826fe5fc",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "紫龍斧(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "7444e25a-bc90-4cd0-8d4f-a4003ec34bb7",
       "rank": 4,
       "type": "equipment",
       "name": "ウィザードフード",
       "requirements": [
         {
+          "id": "092ede0b-cdd1-42a0-a94e-b4e2714e2823",
+          "amount": 20
+        },
+        {
           "id": "",
-          "amount":
+          "name": "月桂樹の哀しみ",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "092ede0b-cdd1-42a0-a94e-b4e2714e2823",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "ウィザードフードの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "5ecd6447-67c9-4fbd-849a-d1168e24b2d3",
       "rank": 4,
       "type": "equipment",
       "name": "太陽剣",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "903e6f28-b623-42b4-b5b4-215ea14e8ce9",
+          "amount": 20
         }
       ]
     },
     {
-      "id": "",
+      "id": "903e6f28-b623-42b4-b5b4-215ea14e8ce9",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "太陽剣(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "aaa7d846-3a84-463f-9a50-d88204ffcda1",
       "rank": 4,
       "type": "equipment",
       "name": "光輝の剣",
       "requirements": [
         {
+          "id": "616d51a3-82cc-4c9c-9639-165e2a7636c4",
+          "amount": 20
+        },
+        {
           "id": "",
-          "amount":
+          "name": "フェザーブレード",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "616d51a3-82cc-4c9c-9639-165e2a7636c4",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "光輝の剣の設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "a0a9156f-b23c-41f4-bb89-f74ce7629498",
       "rank": 4,
       "type": "equipment",
       "name": "クイーンビースピア",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "49753c57-fe45-4fbb-9247-02df370a618c",
+          "amount": 20
         }
       ]
     },
     {
-      "id": "",
+      "id": "49753c57-fe45-4fbb-9247-02df370a618c",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "クイーンビースピア(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "96f66dca-ad13-4794-9592-79ae7d2c7972",
       "rank": 4,
       "type": "equipment",
       "name": "生命のロッド",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "18ef5536-d058-4fdd-b32a-95a16f5ae2e5",
+          "amount": 20
         }
       ]
     },
     {
-      "id": "",
+      "id": "18ef5536-d058-4fdd-b32a-95a16f5ae2e5",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "生命のロッド(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "d72905de-329f-4464-9f96-0e803aaace53",
       "rank": 4,
       "type": "equipment",
       "name": "エンジェルボウ",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "7bbb6f71-b07a-43b8-805f-ee39694614ff",
+          "amount": 20
         }
       ]
     },
     {
-      "id": "",
+      "id": "7bbb6f71-b07a-43b8-805f-ee39694614ff",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "エンジェルボウ(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "df874cf8-f52e-438d-ac1a-844d5c071b94",
       "rank": 4,
       "type": "equipment",
       "name": "太陽のロッド",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "16414dbe-262c-4915-a793-ccda4bbb4a07",
+          "amount": 20
         }
       ]
     },
     {
-      "id": "",
+      "id": "16414dbe-262c-4915-a793-ccda4bbb4a07",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "太陽のロッド(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "e64a3bb7-4bb0-4125-bf9d-3cc205768067",
       "rank": 4,
       "type": "equipment",
       "name": "プリンセスの懐剣",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "201fd6fa-3eb0-4e45-aab5-255fb19a1586",
+          "amount": 20
         }
       ]
     },
     {
-      "id": "",
+      "id": "201fd6fa-3eb0-4e45-aab5-255fb19a1586",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "プリンセスの懐剣(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "490b3add-5d8b-4a57-8849-b7c8a8c98949",
       "rank": 4,
       "type": "equipment",
       "name": "ヘルファイアアックス",
       "requirements": [
         {
+          "id": "ec159251-1a3c-4711-b113-eba2c8c175b6",
+          "amount": 20
+        },
+        {
           "id": "",
-          "amount":
+          "name": "スカーレットダイヤ",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "ec159251-1a3c-4711-b113-eba2c8c175b6",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "ヘルファイアアックスの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "a8f81f0b-cd73-4b4e-b96d-7208f6369c47",
       "rank": 4,
       "type": "equipment",
       "name": "獅子王のガントレット",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "028a7867-bbca-4568-9c31-0885f9f76282",
+          "amount": 20
         }
       ]
     },
     {
-      "id": "",
+      "id": "028a7867-bbca-4568-9c31-0885f9f76282",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "獅子王のガントレット(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "8dbbf2e5-c2ee-4670-acb7-8f524434dfba",
       "rank": 4,
       "type": "equipment",
       "name": "ハーミットクロース",
       "requirements": [
         {
+          "id": "d0e06239-0392-4ffb-9c6b-9f42ce1ded2f",
+          "amount": 20
+        },
+        {
           "id": "",
-          "amount":
+          "name": "ヴァンパイアダガー",
+          "amount": 1
+        },
+        {
+          "id": "",
+          "name": "オパールイヤリング",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "d0e06239-0392-4ffb-9c6b-9f42ce1ded2f",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "ハーミットクロースの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "266338bf-0514-4a40-b5d7-94ef5f051f6c",
       "rank": 4,
       "type": "equipment",
       "name": "法王のフード",
       "requirements": [
         {
+          "id": "a6c4769e-b58d-4fb6-bd52-c01acb662333",
+          "amount": 20
+        },
+        {
           "id": "",
-          "amount":
+          "name": "獅子王の守護",
+          "amount": 1
+        },
+        {
+          "id": "",
+          "name": "ウィッチハット",
+          "amount": 1
+        },
+        {
+          "id": "",
+          "name": "キューピッドのローブ",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "a6c4769e-b58d-4fb6-bd52-c01acb662333",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "法王のフードの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "ecd39723-30fd-42bc-be53-4d3d863f4dd2",
       "rank": 4,
       "type": "equipment",
       "name": "身代わりのバングル",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "fba51908-5f80-4265-8bb6-a86a163f3ffb",
+          "amount": 20
         }
       ]
     },
     {
-      "id": "",
+      "id": "fba51908-5f80-4265-8bb6-a86a163f3ffb",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "身代わりのバングル(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "2500798e-8f1c-4401-843e-7f830fa3c120",
       "rank": 4,
       "type": "equipment",
       "name": "聖者のローブ",
       "requirements": [
         {
+          "id": "f8c3948d-51dc-4cec-b617-a252df13f5b5",
+          "amount": 20
+        },
+        {
           "id": "",
-          "amount":
+          "name": "月桂樹の哀しみ",
+          "amount": 1
+        },
+        {
+          "id": "",
+          "name": "パールイヤリング",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "f8c3948d-51dc-4cec-b617-a252df13f5b5",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "聖者のローブの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "f0dccfac-738a-47b8-b76a-c1d05c3fe3e1",
       "rank": 4,
       "type": "equipment",
       "name": "バーミリオンメイル",
       "requirements": [
         {
+          "id": "0c9576d5-2331-4c75-ad57-01ef1b02df97",
+          "amount": 20
+        },
+        {
           "id": "",
-          "amount":
+          "name": "ヘビーメタルアーマー",
+          "amount": 1
+        },
+        {
+          "id": "",
+          "name": "アブソリュートスピア",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "0c9576d5-2331-4c75-ad57-01ef1b02df97",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "バーミリオンメイルの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "4d299fc7-f07e-40f2-84cc-0f4f70c7d4c5",
       "rank": 4,
       "type": "equipment",
       "name": "三日月の嘆き",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "c137e468-467b-4887-91b9-61b81a90aa2d",
+          "amount": 20
         }
       ]
     },
     {
-      "id": "",
+      "id": "c137e468-467b-4887-91b9-61b81a90aa2d",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "三日月の嘆き(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "3de59a15-8f16-4541-9fb1-5bd4afa0f71f",
       "rank": 4,
       "type": "equipment",
       "name": "エレメンタルハート",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "f7ae5836-016a-4034-980d-fd6f6cfe75b9",
+          "amount": 20
         }
       ]
     },
     {
-      "id": "",
+      "id": "f7ae5836-016a-4034-980d-fd6f6cfe75b9",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "エレメンタルハート(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "491c8438-9c16-45b6-b929-35fd1dc749bd",
       "rank": 4,
       "type": "equipment",
       "name": "ミスリルプレート",
       "requirements": [
         {
+          "id": "59f7344a-a621-4dd0-a478-db26ad693303",
+          "amount": 20
+        },
+        {
           "id": "",
-          "amount":
+          "name": "バトリングドレス",
+          "amount": 1
+        },
+        {
+          "id": "",
+          "name": "ガーネットシールド",
+          "amount": 1
+        },
+        {
+          "id": "",
+          "name": "鷲獅子の羽飾り",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "59f7344a-a621-4dd0-a478-db26ad693303",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "ミスリルプレートの設計図×",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "57909c84-7514-47a1-9f86-193256741e2e",
       "rank": 4,
       "type": "equipment",
       "name": "エンジェルブーツ",
       "requirements": [
         {
+          "id": "732f8f3f-c24a-425a-b844-53bdcbfb4101",
+          "amount": 20
+        },
+        {
           "id": "",
-          "amount":
+          "name": "オクタグラムペンダント",
+          "amount": 1
+        },
+        {
+          "id": "",
+          "name": "フェザーブレード",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "732f8f3f-c24a-425a-b844-53bdcbfb4101",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "エンジェルブーツの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "be67aab6-f7c0-47cf-9486-56a1e7eb46ed",
       "rank": 4,
       "type": "equipment",
       "name": "アイスクレイモア",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "9fcdb8dd-31fd-4635-a8b9-5bf114473441",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "9fcdb8dd-31fd-4635-a8b9-5bf114473441",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "アイスクレイモア(欠片)",
       "requirements": []
     },
     {
-      "id": "司法神の錫杖",
+      "id": "e66d1229-863a-4d39-9e5e-c1f632a49990",
       "rank": 4,
       "type": "equipment",
-      "name": "",
+      "name": "司法神の錫杖",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "4940bbbc-3633-45f4-8afb-07cf2261436f",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "4940bbbc-3633-45f4-8afb-07cf2261436f",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "司法神の錫杖(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "606078d0-1fab-4352-a829-76c40ea16d62",
       "rank": 4,
       "type": "equipment",
       "name": "アルテミスボウ",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "3522d8e6-d575-46e4-bd23-aeec955fecc1",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "3522d8e6-d575-46e4-bd23-aeec955fecc1",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "アルテミスボウ(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "1bdd3018-29eb-4274-aab4-6ddac8347a0d",
       "rank": 4,
       "type": "equipment",
       "name": "鷹神の煌剣",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "c1ce4da0-cf7f-4ab0-a485-e561e5b42716",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "c1ce4da0-cf7f-4ab0-a485-e561e5b42716",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "鷹神の煌剣(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "b9746a95-382f-4553-bbca-91cbe256245f",
       "rank": 4,
       "type": "equipment",
       "name": "ストームブリンガー",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "4e6050a0-6bc3-41a5-aaea-09b2a3c20933",
+          "amount": 20
+        },
+        {
+          "id": "441941bc-48be-4476-abca-331aca07b78f",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "4e6050a0-6bc3-41a5-aaea-09b2a3c20933",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "ストームブリンガーの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "1e78b048-e718-40e3-af03-80f612fa3e6c",
       "rank": 4,
       "type": "equipment",
       "name": "フェニックスロッド",
       "requirements": [
         {
+          "id": "24b34e34-47cf-4a91-af21-dee0f1aa38dd",
+          "amount": 20
+        },
+        {
+          "id": "e4d9aaff-f04a-4d64-8f81-7ffd2cb2a28a",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount":
+          "name": "月桂樹の哀しみ",
+          "amount": 1
+        },
+        {
+          "id": "",
+          "name": "スカーレットダイヤ",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "24b34e34-47cf-4a91-af21-dee0f1aa38dd",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "フェニックスロッドの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "b069709e-1541-4a5a-be97-0d9db8a90f88",
       "rank": 4,
       "type": "equipment",
       "name": "ブリザードクロー",
       "requirements": [
         {
-          "id": "",
-          "amount":
-        }
-      ]
-    },
-    {
-      "id": "",
-      "rank": 4,
-      "type": "material",
-      "name": "",
-      "requirements": []
-    },
-    {
-      "id": "ダークマターエッジ",
-      "rank": 4,
-      "type": "equipment",
-      "name": "",
-      "requirements": [
+          "id": "8b380fe7-0c02-43d8-aa7a-9ce52e9e6556",
+          "amount": 20
+        },
+        {
+          "id": "d4177829-8bbd-4fd3-b4c6-0dd4528f654e",
+          "amount": 1
+        },
         {
           "id": "",
-          "amount":
+          "name": "ターコイズイヤリング",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "8b380fe7-0c02-43d8-aa7a-9ce52e9e6556",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "ブリザードクローの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "1a1280e1-513d-4b24-9b94-0f526d78e8d3",
+      "rank": 4,
+      "type": "equipment",
+      "name": "ダークマターエッジ",
+      "requirements": [
+        {
+          "id": "d7ca73ee-de02-476d-98c5-f30bbba1f4be",
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "id": "d7ca73ee-de02-476d-98c5-f30bbba1f4be",
+      "rank": 4,
+      "type": "material",
+      "name": "ダークマターエッジ(欠片)",
+      "requirements": []
+    },
+    {
+      "id": "4a9aadad-bf15-41ff-a066-8fc9977fb094",
       "rank": 4,
       "type": "equipment",
       "name": "戦女王の烈斧",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "62bd044e-17b9-45c7-9e79-0dfe521afb81",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "62bd044e-17b9-45c7-9e79-0dfe521afb81",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "戦女王の烈斧(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "38590d00-8c66-47ff-82eb-2b16385315d1",
       "rank": 4,
       "type": "equipment",
       "name": "バイオレットアーマー",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "fa54f78a-2764-4317-ac7a-8e4bccf785a8",
+          "amount": 20
+        },
+        {
+          "id": "491c8438-9c16-45b6-b929-35fd1dc749bd",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "fa54f78a-2764-4317-ac7a-8e4bccf785a8",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "バイオレットアーマーの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "8a25e319-71a8-4ab4-95dd-429389e72dee",
       "rank": 4,
       "type": "equipment",
       "name": "ネクロマンサーブーツ",
       "requirements": [
         {
+          "id": "b798e434-db7b-43b5-9133-959f0e390441",
+          "amount": 20
+        },
+        {
+          "id": "5bebecd9-29a8-4e06-890b-a3246e0dbe4e",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount":
+          "name": "デビルズホーン",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "b798e434-db7b-43b5-9133-959f0e390441",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "ネクロマンサーブーツの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "14a32ed2-4c22-446d-845d-2a75850c366e",
       "rank": 4,
       "type": "equipment",
       "name": "蒼天のローブ",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "18cc7616-79d4-4819-bee5-c139f5fa4938",
+          "amount": 20
+        },
+        {
+          "id": "3e4cfcb2-9e28-41bf-83c1-5fe6efc06c6a",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "18cc7616-79d4-4819-bee5-c139f5fa4938",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "蒼天のローブの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "80573e36-8df6-42ba-bc59-e2d96d61fa98",
       "rank": 4,
       "type": "equipment",
       "name": "クルセイダープレート",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "0359a77f-d696-4be6-8f7a-8327040e5764",
+          "amount": 20
+        },
+        {
+          "id": "36a4a908-9527-488e-a40e-d6cf1831a563",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "0359a77f-d696-4be6-8f7a-8327040e5764",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "クルセイダープレートの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "c8df30ea-387c-45c0-b2e6-f25edb8723b7",
       "rank": 4,
       "type": "equipment",
       "name": "ガーディアンシールド",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "1d669040-94d2-41eb-950d-41d5a05aec48",
+          "amount": 20
+        },
+        {
+          "id": "6f7b243a-8a7e-4570-b8bc-682bdb6d59d6",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "1d669040-94d2-41eb-950d-41d5a05aec48",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "ガーディアンシールドの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "860b7a35-519f-4cb6-ac01-df19536293a2",
       "rank": 4,
       "type": "equipment",
       "name": "福音のティアラ",
       "requirements": [
         {
+          "id": "169960b1-8d15-4d8b-bd0a-7771f8384f1e",
+          "amount": 20
+        },
+        {
+          "id": "7444e25a-bc90-4cd0-8d4f-a4003ec34bb7",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount":
+          "name": "月桂樹の哀しみ",
+          "amount": 1
+        },
+        {
+          "id": "",
+          "name": "パールイヤリング",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "169960b1-8d15-4d8b-bd0a-7771f8384f1e",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "福音のティアラの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "ae913249-bc32-4482-a23f-3d1786e21c10",
       "rank": 4,
       "type": "equipment",
       "name": "竜の涙",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "f7aaa389-f86b-4a72-ac47-cd05d7844031",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "f7aaa389-f86b-4a72-ac47-cd05d7844031",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "竜の涙(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "1749eb1d-6bb1-4646-8de2-70c83b7ac146",
       "rank": 4,
       "type": "equipment",
       "name": "太陽のアミュレット",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "9b4888d1-dc2e-4bd8-a702-d90edacff75b",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "9b4888d1-dc2e-4bd8-a702-d90edacff75b",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "太陽のアミュレット(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "cecced25-f08a-48d3-9028-74fa6614e939",
       "rank": 4,
       "type": "equipment",
       "name": "月のブレスレット",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "549cfd6e-8b18-47b9-901e-708154aa5e86",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "549cfd6e-8b18-47b9-901e-708154aa5e86",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "月のブレスレット(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "7285d3c4-1f77-4100-bfe5-fe6b036ac8cc",
       "rank": 4,
       "type": "equipment",
       "name": "ユニコーンナイフ",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "c530f52e-8db1-492a-b108-0654f3492a20",
+          "amount": 20
+        },
+        {
+          "id": "e64a3bb7-4bb0-4125-bf9d-3cc205768067",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "c530f52e-8db1-492a-b108-0654f3492a20",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "ユニコーンナイフの設計図",
       "requirements": []
     },
     {
@@ -2293,339 +2418,405 @@
       "name": "ガイアバルディッシュ",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "e93d3287-2121-4765-8565-631e489d64ef",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "e93d3287-2121-4765-8565-631e489d64ef",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "ガイアバルディッシュ(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "8203d126-79ac-4cb0-a288-502462a01c5f",
       "rank": 4,
       "type": "equipment",
       "name": "ハイエンジェルロッド",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "75291f96-325d-455e-93ea-e1aa7336175c",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "75291f96-325d-455e-93ea-e1aa7336175c",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "ハイエンジェルロッド(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "33afa4ef-44f0-4a0f-b0fa-9013065cf6d4",
       "rank": 4,
       "type": "equipment",
       "name": "カオスブレード",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "0d8cfea8-d020-4afc-b0bf-686e2b28beb2",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "0d8cfea8-d020-4afc-b0bf-686e2b28beb2",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "カオスブレード(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "834b40c3-0da3-422d-a02b-ebcad913a5a2",
       "rank": 4,
       "type": "equipment",
       "name": "アクアスラッシャー",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "f8d18af6-6143-49f5-97d0-a89b09f9e09f",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "f8d18af6-6143-49f5-97d0-a89b09f9e09f",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "アクアスラッシャー(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "edf4ca5a-b9fe-4d1b-8ee0-afed1d4e7e0d",
       "rank": 4,
       "type": "equipment",
       "name": "ハイデビルズワンド",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "0a0152e8-2141-48d3-9be5-5b889be61d06",
+          "amount": 20
+        },
+        {
+          "id": "3a58baf1-8fec-42e7-9d09-4224aeccc0b4",
+          "amount": 1
+        },
+        {
+          "id": "4d299fc7-f07e-40f2-84cc-0f4f70c7d4c5",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "0a0152e8-2141-48d3-9be5-5b889be61d06",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "ハイデビルズワンドの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "85ee03a0-4b33-4ec2-a917-a1d91e57c06a",
       "rank": 4,
       "type": "equipment",
       "name": "蒼雷拳",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "9bfca78b-2753-4bd1-9406-6f2721b05fad",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "9bfca78b-2753-4bd1-9406-6f2721b05fad",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "蒼雷拳(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "0c5f704b-12d1-49fe-9ea5-9a84af9fd753",
       "rank": 4,
       "type": "equipment",
       "name": "精霊樹の弓",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "0fde71f4-d997-4277-b17e-4ea5bf33c90f",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "0fde71f4-d997-4277-b17e-4ea5bf33c90f",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "精霊樹の弓(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "199a8103-10f8-4b88-aa61-6bac85494480",
       "rank": 4,
       "type": "equipment",
       "name": "鳳凰刀",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "77a6a49e-ce2b-4f6e-91af-18945f7b661e",
+          "amount": 20
+        },
+        {
+          "id": "b7965e86-f5cd-4721-9344-783b75dc61db",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "77a6a49e-ce2b-4f6e-91af-18945f7b661e",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "鳳凰刀の設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "1241f774-573d-4c8f-8dc4-d3c54354b057",
       "rank": 4,
       "type": "equipment",
       "name": "猫神のペンダント",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "f3c9b1de-17c2-4e8a-90c4-93b3156b918b",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "f3c9b1de-17c2-4e8a-90c4-93b3156b918b",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "猫神のペンダント(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "d644e44c-5663-461a-b217-65d06126ba4c",
       "rank": 4,
       "type": "equipment",
       "name": "聖信徒のペンダント",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "c50f6643-97a8-447e-ab68-80a68eef6b19",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "c50f6643-97a8-447e-ab68-80a68eef6b19",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "聖信徒のペンダント(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "8d1f7608-e6a4-4610-a6d4-425e2ec7700b",
       "rank": 4,
       "type": "equipment",
       "name": "焔帝の指輪",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "369d6ee2-da21-4f87-812d-8ba7fb2ea8fc",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "369d6ee2-da21-4f87-812d-8ba7fb2ea8fc",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "焔帝の指輪(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "917a5dcd-390d-492c-9601-73af6e9c0e14",
       "rank": 4,
       "type": "equipment",
       "name": "大賢者の宝珠",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "ef5d60cc-5cb9-479f-89e4-5824b269f65e",
+          "amount": 30
         }
       ]
     },
     {
-      "id": "",
+      "id": "ef5d60cc-5cb9-479f-89e4-5824b269f65e",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "大賢者の宝珠(欠片)",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "c9655e83-6231-486e-bd3e-2f2a6274b2ec",
       "rank": 4,
       "type": "equipment",
       "name": "スカーレットメイル",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "416fcde2-e9a1-45c7-bd9a-a3523c7c9130",
+          "amount": 20
+        },
+        {
+          "id": "36a4a908-9527-488e-a40e-d6cf1831a563",
+          "amount": 1
+        },
+        {
+          "id": "3de59a15-8f16-4541-9fb1-5bd4afa0f71f",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "416fcde2-e9a1-45c7-bd9a-a3523c7c9130",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "スカーレットメイルの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "8744080c-1d9b-4e47-84bd-04098bafb7b0",
       "rank": 4,
       "type": "equipment",
       "name": "フェアリアルブーツ",
       "requirements": [
         {
+          "id": "21452e82-15d0-4023-aac1-15fc8e1c31ef",
+          "amount": 30
+        },
+        {
+          "id": "57909c84-7514-47a1-9f86-193256741e2e",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount":
+          "name": "月桂樹の哀しみ",
+          "amount": 1
+        },
+        {
+          "id": "",
+          "name": "獅子王の守護",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "21452e82-15d0-4023-aac1-15fc8e1c31ef",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "フェアリアルブーツの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "a4952ffe-4bde-4c50-862a-a7ddb74349e5",
       "rank": 4,
       "type": "equipment",
       "name": "翠緑の霊衣",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "646e038e-076c-48a4-abd5-48d930cda2a6",
+          "amount": 20
+        },
+        {
+          "id": "2500798e-8f1c-4401-843e-7f830fa3c120",
+          "amount": 1
+        },
+        {
+          "id": "e4d9aaff-f04a-4d64-8f81-7ffd2cb2a28a",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "646e038e-076c-48a4-abd5-48d930cda2a6",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "翠緑の霊衣の設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "ef55de27-d48e-4917-82d4-ba055da20a6a",
       "rank": 4,
       "type": "equipment",
       "name": "アクエリアスブーツ",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "050c2462-1dcf-4e88-957d-af8f6b01ae0a",
+          "amount": 20
+        },
+        {
+          "id": "5bebecd9-29a8-4e06-890b-a3246e0dbe4e",
+          "amount": 1
+        },
+        {
+          "id": "ecd39723-30fd-42bc-be53-4d3d863f4dd2",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "050c2462-1dcf-4e88-957d-af8f6b01ae0a",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "アクエリアスブーツの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "c3254c03-d783-424e-904c-d89bdcd23694",
       "rank": 4,
       "type": "equipment",
       "name": "ダークテラードレス",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "45d4fdf8-7c7f-4bbf-9403-85fe68688025",
+          "amount": 20
+        },
+        {
+          "id": "8dbbf2e5-c2ee-4670-acb7-8f524434dfba",
+          "amount": 1
+        },
+        {
+          "id": "9a5e1018-1802-43a1-b96a-252ca5a22081",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "45d4fdf8-7c7f-4bbf-9403-85fe68688025",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "ダークテラードレスの設計図",
       "requirements": []
     },
     {
-      "id": "",
+      "id": "ef915d10-676f-4975-92d8-72f2bbfa8398",
       "rank": 4,
       "type": "equipment",
       "name": "ドラゴニックアーマー",
       "requirements": [
         {
-          "id": "",
-          "amount":
+          "id": "70ccb7c0-8eb8-4d59-8da6-3bd2ce6a48c7",
+          "amount": 20
+        },
+        {
+          "id": "f0dccfac-738a-47b8-b76a-c1d05c3fe3e1",
+          "amount": 1
+        },
+        {
+          "id": "441941bc-48be-4476-abca-331aca07b78f",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
+      "id": "70ccb7c0-8eb8-4d59-8da6-3bd2ce6a48c7",
       "rank": 4,
       "type": "material",
-      "name": "",
+      "name": "ドラゴニックアーマーの設計図",
       "requirements": []
     }
   ]
