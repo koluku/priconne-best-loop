@@ -3745,8 +3745,7 @@
           "amount": 1
         },
         {
-          "id": "",
-          "name": "気合のブレスレット",
+          "id": "ee10f2ee-d8d5-4da4-a6d0-05a9977b9721",
           "amount": 1
         }
       ]
@@ -3857,8 +3856,7 @@
           "amount": 1
         },
         {
-          "id": "",
-          "name": "おしゃれなベレー",
+          "id": "f6d885b0-037a-400a-bb43-ad1b89e835ed",
           "amount": 1
         }
       ]
@@ -3972,8 +3970,7 @@
           "amount": 1
         },
         {
-          "id": "",
-          "name": "旅立ちのローブ",
+          "id": "4eecc901-8ccd-4c75-96ef-9e411a5f883b",
           "amount": 1
         }
       ]
@@ -4019,8 +4016,7 @@
           "amount": 1
         },
         {
-          "id": "",
-          "name": "御守りペンダント",
+          "id": "5574e0c1-5a30-4938-9a03-d634f37a71e8",
           "amount": 1
         }
       ]
@@ -4066,8 +4062,7 @@
           "amount": 1
         },
         {
-          "id": "",
-          "name": "革のサロペット",
+          "id": "3a9ff0b0-1d2c-4753-a50e-5a39721d43f5",
           "amount": 1
         }
       ]
@@ -4212,6 +4207,111 @@
       "rank": 2,
       "type": "equipment",
       "name": "ギアブレード",
+      "requirements": []
+    },
+    {
+      "id": "ee10f2ee-d8d5-4da4-a6d0-05a9977b9721",
+      "rank": 1,
+      "type": "equipment",
+      "name": "気合のブレスレット",
+      "requirements": []
+    },
+    {
+      "id": "5574e0c1-5a30-4938-9a03-d634f37a71e8",
+      "rank": 1,
+      "type": "equipment",
+      "name": "御守りペンダント",
+      "requirements": []
+    },
+    {
+      "id": "950e2091-f73f-4b9b-b031-88a96863ace6",
+      "rank": 1,
+      "type": "equipment",
+      "name": "やる気のブレスレット",
+      "requirements": []
+    },
+    {
+      "id": "f6d885b0-037a-400a-bb43-ad1b89e835ed",
+      "rank": 1,
+      "type": "equipment",
+      "name": "おしゃれなベレー",
+      "requirements": []
+    },
+    {
+      "id": "b1db4ef6-054e-4547-8755-212a2f325f03",
+      "rank": 1,
+      "type": "equipment",
+      "name": "革のブーツ",
+      "requirements": []
+    },
+    {
+      "id": "8789a935-968f-4480-8c5a-5448c91aefd6",
+      "rank": 1,
+      "type": "equipment",
+      "name": "木の盾",
+      "requirements": []
+    },
+    {
+      "id": "4eecc901-8ccd-4c75-96ef-9e411a5f883b",
+      "rank": 1,
+      "type": "equipment",
+      "name": "旅立ちのローブ",
+      "requirements": []
+    },
+    {
+      "id": "3a9ff0b0-1d2c-4753-a50e-5a39721d43f5",
+      "rank": 1,
+      "type": "equipment",
+      "name": "革のサロペット",
+      "requirements": []
+    },
+    {
+      "id": "07a87b17-a195-4b67-9dfa-a71fb9adab12",
+      "rank": 1,
+      "type": "equipment",
+      "name": "香木の杖",
+      "requirements": []
+    },
+    {
+      "id": "7f98b1ab-5e88-403f-9002-f981f35b5fb5",
+      "rank": 1,
+      "type": "equipment",
+      "name": "片手斧",
+      "requirements": []
+    },
+    {
+      "id": "2ff9946f-fcce-44c5-90ed-f35cbc9f7674",
+      "rank": 1,
+      "type": "equipment",
+      "name": "鋼の槍",
+      "requirements": []
+    },
+    {
+      "id": "b8844f6f-648a-498b-8eeb-4475b013073c",
+      "rank": 1,
+      "type": "equipment",
+      "name": "狩人の弓",
+      "requirements": []
+    },
+    {
+      "id": "b1152a4b-cda7-4bf7-95fa-ac60b7fb45f8",
+      "rank": 1,
+      "type": "equipment",
+      "name": "ウッドグリップ",
+      "requirements": []
+    },
+    {
+      "id": "d31c0a0f-b2a0-4dea-93a9-04f63e01032a",
+      "rank": 1,
+      "type": "equipment",
+      "name": "キラーペンシル",
+      "requirements": []
+    },
+    {
+      "id": "8a98a43a-305c-49e3-8b3d-d73db30b1b15",
+      "rank": 1,
+      "type": "equipment",
+      "name": "アイアンブレード",
       "requirements": []
     }
   ]
