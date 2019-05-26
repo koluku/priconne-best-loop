@@ -3726,436 +3726,515 @@
       "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "7dcd9bb7-3783-47d3-a14b-8daf1b447514",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
+      "name": "文様の腕輪",
       "requirements": [
         {
+          "id": "00d335d7-0139-453c-9a07-f807d8f8ca9e",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount": 5
+          "name": "智慧の宝珠",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "00d335d7-0139-453c-9a07-f807d8f8ca9e",
+      "rank": 2,
+      "type": "material",
+      "name": "文様の腕輪の設計図",
+      "requirements": []
+    },
+    {
+      "id": "249f3f86-7802-4682-8861-08d73e5ec39f",
+      "rank": 2,
       "type": "equipment",
       "name": "",
       "requirements": [
         {
+          "id": "55e8aa92-4ae5-4e31-84d8-03ee24adecc5",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount": 5
+          "name": "気合のブレスレット",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "55e8aa92-4ae5-4e31-84d8-03ee24adecc5",
+      "rank": 2,
+      "type": "material",
+      "name": "マジックモノクルの設計図",
+      "requirements": []
+    },
+    {
+      "id": "29e39f4b-8dd9-40fc-9d48-ed64a51057c5",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
+      "name": "智慧の宝珠",
+      "requirements": []
+    },
+    {
+      "id": "662d0a0d-bd2c-4961-bf49-77f7aa2b5a82",
+      "rank": 2,
+      "type": "equipment",
+      "name": "マジックグラス",
+      "requirements": []
+    },
+    {
+      "id": "0715d6bd-aab9-416c-a65f-a0e2b232f8e8",
+      "rank": 2,
+      "type": "equipment",
+      "name": "勝利のミサンガ",
+      "requirements": []
+    },
+    {
+      "id": "5adba3fc-8f6d-479f-ac88-dee65248590d",
+      "rank": 2,
+      "type": "equipment",
+      "name": "仁愛の宝珠",
+      "requirements": []
+    },
+    {
+      "id": "69dcba21-fb62-4eb6-a3d8-d1ad8f33c545",
+      "rank": 2,
+      "type": "equipment",
+      "name": "スパイクバングル",
+      "requirements": []
+    },
+    {
+      "id": "c08e0505-e336-49db-9d39-b977ac56a90a",
+      "rank": 2,
+      "type": "equipment",
+      "name": "勇気の宝珠",
+      "requirements": []
+    },
+    {
+      "id": "77bfd17e-2aee-4b4e-9934-38b06038c476",
+      "rank": 2,
+      "type": "equipment",
+      "name": "修道女のフード",
       "requirements": [
         {
+          "id": "b042e7a8-c7dc-4116-abde-2b0c48271a64",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount": 5
+          "name": "医者いらずの杖",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "b042e7a8-c7dc-4116-abde-2b0c48271a64",
+      "rank": 2,
+      "type": "material",
+      "name": "修道女のフードの設計図",
+      "requirements": []
+    },
+    {
+      "id": "7ce2254c-4d1e-49a5-b52d-ea12f8413fdc",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
+      "name": "レギオンヘルム",
       "requirements": [
         {
+          "id": "8fb4ffa0-4a8f-4317-a1a1-9973e8c862d2",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount": 5
+          "name": "",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "8fb4ffa0-4a8f-4317-a1a1-9973e8c862d2",
+      "rank": 2,
+      "type": "material",
+      "name": "レギオンヘルムの設計図",
+      "requirements": []
+    },
+    {
+      "id": "35fc95ba-8ca7-4284-8044-1314771ec141",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
+      "name": "かわいいキャスケット",
       "requirements": [
         {
+          "id": "113e7e54-de4e-4d5a-acfb-c2b8f1ed98c6",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount": 5
+          "name": "おしゃれなベレー",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "113e7e54-de4e-4d5a-acfb-c2b8f1ed98c6",
+      "rank": 2,
+      "type": "material",
+      "name": "かわいいキャスケットの設計図",
+      "requirements": []
+    },
+    {
+      "id": "811a10ff-e762-44ee-a094-96a4104130d4",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
+      "name": "ウィッチブーツ",
+      "requirements": []
+    },
+    {
+      "id": "609af06f-edaf-45c5-a0e3-00224a373951",
+      "rank": 2,
+      "type": "equipment",
+      "name": "ハンティングブーツ",
       "requirements": [
         {
+          "id": "cfd7f179-b6aa-4597-adf2-132c41609160",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount": 5
+          "name": "クラウンブーツ",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "cfd7f179-b6aa-4597-adf2-132c41609160",
+      "rank": 2,
+      "type": "material",
+      "name": "ハンティングブーツの設計図",
+      "requirements": []
+    },
+    {
+      "id": "ece05355-6dff-488d-8b46-9dc48ffd3bfb",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
+      "name": "クラウンブーツ",
       "requirements": [
         {
-          "id": "",
-          "amount": 5
+          "id": "d10bda66-acfc-4e29-95cd-4c38803756a0",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "d10bda66-acfc-4e29-95cd-4c38803756a0",
+      "rank": 2,
+      "type": "material",
+      "name": "クラウンブーツの設計図",
+      "requirements": []
+    },
+    {
+      "id": "92228309-0b55-4c33-b6a1-04c008a913da",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
+      "name": "タワーシールド",
       "requirements": [
         {
-          "id": "",
-          "amount": 5
+          "id": "c1e10541-1fd9-42fd-b9ff-2d89ab7060f1",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "c1e10541-1fd9-42fd-b9ff-2d89ab7060f1",
+      "rank": 2,
+      "type": "material",
+      "name": "タワーシールドの設計図",
+      "requirements": []
+    },
+    {
+      "id": "f882abd9-80a8-4817-9e2d-302618eec8ca",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
+      "name": "ノルディックローブ",
       "requirements": [
         {
+          "id": "bdd0bbd0-e2aa-4964-b8d1-ca29ee28ea95",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount": 5
+          "name": "春色ローブ",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "bdd0bbd0-e2aa-4964-b8d1-ca29ee28ea95",
+      "rank": 2,
+      "type": "material",
+      "name": "ノルディックローブの設計図",
+      "requirements": []
+    },
+    {
+      "id": "162464a6-a693-484b-b069-7e80e47799f9",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
+      "name": "春色ローブ",
       "requirements": [
         {
+          "id": "ba778ea5-8334-4144-a04c-e014f2c3484f",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount": 5
+          "name": "旅立ちのローブ",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "ba778ea5-8334-4144-a04c-e014f2c3484f",
+      "rank": 2,
+      "type": "material",
+      "name": "春色ローブの設計図",
+      "requirements": []
+    },
+    {
+      "id": "2180e7b1-c2f1-49e5-b834-7b78a57efaea",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
+      "name": "忍び装束",
       "requirements": [
         {
+          "id": "c501ab10-fc1f-434c-9c39-62605989da42",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount": 5
+          "name": "フォークロアクロース",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "c501ab10-fc1f-434c-9c39-62605989da42",
+      "rank": 2,
+      "type": "material",
+      "name": "忍び装束の設計図",
+      "requirements": []
+    },
+    {
+      "id": "0658c6b9-ca8d-4c19-9cfb-2fce27266640",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
+      "name": "フォークロアクロース",
       "requirements": [
         {
+          "id": "db5906ac-b181-4de8-b1e6-60e805413bdc",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount": 5
+          "name": "御守りペンダント",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "db5906ac-b181-4de8-b1e6-60e805413bdc",
+      "rank": 2,
+      "type": "material",
+      "name": "フォークロアクロースの設計図",
+      "requirements": []
+    },
+    {
+      "id": "fbfffab7-073c-4dbb-8455-247ddf345bfa",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
+      "name": "ハイメタルプレート",
       "requirements": [
         {
+          "id": "a01bc34f-873f-4793-b5d4-5284e20e4f1f",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount": 5
+          "name": "スケイルメイル",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "a01bc34f-873f-4793-b5d4-5284e20e4f1f",
+      "rank": 2,
+      "type": "material",
+      "name": "ハイメタルプレートの設計図",
+      "requirements": []
+    },
+    {
+      "id": "115eef3d-87ef-44fc-8658-89aed8734894",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
+      "name": "スケイルメイル",
       "requirements": [
         {
+          "id": "629f94b4-8f3e-4bd4-9cb7-2bdb333278d2",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount": 5
+          "name": "革のサロペット",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "629f94b4-8f3e-4bd4-9cb7-2bdb333278d2",
+      "rank": 2,
+      "type": "material",
+      "name": "スケイルメイルの設計図",
+      "requirements": []
+    },
+    {
+      "id": "03893d3d-0b37-4616-b162-ccd8cbed18e6",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
+      "name": "ライトプレート",
       "requirements": [
         {
+          "id": "19953fca-efb6-441a-8164-c300b416de11",
+          "amount": 1
+        },
+        {
           "id": "",
-          "amount": 5
+          "name": "智慧の衣",
+          "amount": 1
         }
       ]
     },
     {
-      "id": "",
-      "rank": 3,
-      "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "id": "19953fca-efb6-441a-8164-c300b416de11",
+      "rank": 2,
+      "type": "material",
+      "name": "ライトプレートの設計図",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "581decc4-dab9-4c43-9ab9-93c6e3e4aa7e",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "智慧の衣",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "d88df438-4068-4e7e-bfba-21e059b089ea",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "ユニコーンの慈愛",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "6f9a9ad2-dcf2-48af-a939-2ccf851440f7",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "医者いらずの杖",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "ac560823-07d2-4de8-8419-c236e6b24ad6",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "リトルドラゴンロッド",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "0a138591-3e8e-4754-b3b7-c576729a19e0",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "グリーンロッド",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "8703a61a-5fbf-4d89-9278-c05a49593d00",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "ハイメタルアックス",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "61325e7b-9338-444e-88e2-88b64765f987",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "メタルアックス",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "f4afa16c-cf8f-4f1f-a437-68a14e6468d5",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "フレイムスピア",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "2d4acb62-34e8-4a15-9ab2-f189bf3a0a4e",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "トライデント",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "4bf6cffb-d104-4dd3-b489-1f1ab8d04a76",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "クリスタルボウ",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "52e16d1a-da26-4542-bbd0-65a499b45ab6",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "レザーナックル",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "25e0cbaf-1145-4791-ae03-8681759d5453",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "コマンドナイフ",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "59d3859e-51af-4e9c-895f-fc75fd296b76",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "クレセントソード",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "37b375e7-6930-4393-9371-ea37a0da4b2d",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "オーロラの剣",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "5b593485-16c5-4117-9696-dabab9a997c3",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "ブルーブラッド",
+      "requirements": []
     },
     {
-      "id": "",
-      "rank": 3,
+      "id": "06420c5b-b9d5-4453-bebc-3f696005448b",
+      "rank": 2,
       "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
-    },
-    {
-      "id": "",
-      "rank": 3,
-      "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
-    },
-    {
-      "id": "",
-      "rank": 3,
-      "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
-    },
-    {
-      "id": "",
-      "rank": 3,
-      "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
-    },
-    {
-      "id": "",
-      "rank": 3,
-      "type": "equipment",
-      "name": "",
-      "requirements": [
-        {
-          "id": "",
-          "amount": 5
-        }
-      ]
+      "name": "ギアブレード",
+      "requirements": []
     }
   ]
 }
