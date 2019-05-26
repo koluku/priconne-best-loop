@@ -3724,6 +3724,438 @@
       "type": "material",
       "name": "ドラゴンズクロー(欠片)",
       "requirements": []
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": "",
+      "rank": 3,
+      "type": "equipment",
+      "name": "",
+      "requirements": [
+        {
+          "id": "",
+          "amount": 5
+        }
+      ]
     }
   ]
 }
