@@ -417,6 +417,234 @@
           "id": "0a138591-3e8e-4754-b3b7-c576729a19e0"
         }
       ]
+    },
+    {
+      "area": 3,
+      "stage": 1,
+      "name": "ヘーベ丘陵 3-1",
+      "drop": [
+        {
+          "dropRate": "High",
+          "id": "8fb4ffa0-4a8f-4317-a1a1-9973e8c862d2"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c08e0505-e336-49db-9d39-b977ac56a90a"
+        },
+        {
+          "dropRate": "Low",
+          "id": "25e0cbaf-1145-4791-ae03-8681759d5453"
+        }
+      ]
+    },
+    {
+      "area": 3,
+      "stage": 2,
+      "name": "ヘーベ丘陵 3-2",
+      "drop": [
+        {
+          "dropRate": "High",
+          "id": "113e7e54-de4e-4d5a-acfb-c2b8f1ed98c6"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "29e39f4b-8dd9-40fc-9d48-ed64a51057c5"
+        },
+        {
+          "dropRate": "Low",
+          "id": "6f9a9ad2-dcf2-48af-a939-2ccf851440f7"
+        }
+      ]
+    },
+    {
+      "area": 3,
+      "stage": 3,
+      "name": "ヘーベ丘陵 3-3",
+      "drop": [
+        {
+          "dropRate": "High",
+          "id": "f4afa16c-cf8f-4f1f-a437-68a14e6468d5"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d88df438-4068-4e7e-bfba-21e059b089ea"
+        },
+        {
+          "dropRate": "Low",
+          "id": "06420c5b-b9d5-4453-bebc-3f696005448b"
+        }
+      ]
+    },
+    {
+      "area": 3,
+      "stage": 4,
+      "name": "ヘーベ丘陵 3-4",
+      "drop": [
+        {
+          "dropRate": "High",
+          "id": "ac560823-07d2-4de8-8419-c236e6b24ad6"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "8703a61a-5fbf-4d89-9278-c05a49593d00"
+        },
+        {
+          "dropRate": "Low",
+          "id": "61325e7b-9338-444e-88e2-88b64765f987"
+        }
+      ]
+    },
+    {
+      "area": 3,
+      "stage": 5,
+      "name": "ヘーベ丘陵 3-5",
+      "drop": [
+        {
+          "dropRate": "High",
+          "id": "5b593485-16c5-4117-9696-dabab9a997c3"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "4bf6cffb-d104-4dd3-b489-1f1ab8d04a76"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0a138591-3e8e-4754-b3b7-c576729a19e0"
+        }
+      ]
+    },
+    {
+      "area": 3,
+      "stage": 6,
+      "name": "ヘーベ丘陵 3-6",
+      "drop": [
+        {
+          "dropRate": "High",
+          "id": "37b375e7-6930-4393-9371-ea37a0da4b2d"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "52e16d1a-da26-4542-bbd0-65a499b45ab6"
+        },
+        {
+          "dropRate": "Low",
+          "id": "629f94b4-8f3e-4bd4-9cb7-2bdb333278d2"
+        }
+      ]
+    },
+    {
+      "area": 3,
+      "stage": 7,
+      "name": "ヘーベ丘陵 3-7",
+      "drop": [
+        {
+          "dropRate": "High",
+          "id": "59d3859e-51af-4e9c-895f-fc75fd296b76"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "19953fca-efb6-441a-8164-c300b416de11"
+        },
+        {
+          "dropRate": "Low",
+          "id": "2d4acb62-34e8-4a15-9ab2-f189bf3a0a4e"
+        }
+      ]
+    },
+    {
+      "area": 3,
+      "stage": 8,
+      "name": "ヘーベ丘陵 3-8",
+      "drop": [
+        {
+          "dropRate": "High",
+          "id": "a01bc34f-873f-4793-b5d4-5284e20e4f1f"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c501ab10-fc1f-434c-9c39-62605989da42"
+        },
+        {
+          "dropRate": "Low",
+          "id": "db5906ac-b181-4de8-b1e6-60e805413bdc"
+        }
+      ]
+    },
+    {
+      "area": 3,
+      "stage": 9,
+      "name": "ヘーベ丘陵 3-9",
+      "drop": [
+        {
+          "dropRate": "High",
+          "id": "bdd0bbd0-e2aa-4964-b8d1-ca29ee28ea95"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c1e10541-1fd9-42fd-b9ff-2d89ab7060f1"
+        },
+        {
+          "dropRate": "Low",
+          "id": "ba778ea5-8334-4144-a04c-e014f2c3484f"
+        }
+      ]
+    },
+    {
+      "area": 3,
+      "stage": 10,
+      "name": "ヘーベ丘陵 3-10",
+      "drop": [
+        {
+          "dropRate": "High",
+          "id": "cfd7f179-b6aa-4597-adf2-132c41609160"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "b042e7a8-c7dc-4116-abde-2b0c48271a64"
+        },
+        {
+          "dropRate": "Low",
+          "id": "581decc4-dab9-4c43-9ab9-93c6e3e4aa7e"
+        }
+      ]
+    },
+    {
+      "area": 3,
+      "stage": 11,
+      "name": "ヘーベ丘陵 3-11",
+      "drop": [
+        {
+          "dropRate": "High",
+          "id": "69dcba21-fb62-4eb6-a3d8-d1ad8f33c545"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "0715d6bd-aab9-416c-a65f-a0e2b232f8e8"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d10bda66-acfc-4e29-95cd-4c38803756a0"
+        }
+      ]
+    },
+    {
+      "area": 3,
+      "stage": 12,
+      "name": "ヘーベ丘陵 3-12",
+      "drop": [
+        {
+          "dropRate": "High",
+          "id": "00d335d7-0139-453c-9a07-f807d8f8ca9e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "55e8aa92-4ae5-4e31-84d8-03ee24adecc5"
+        },
+        {
+          "dropRate": "Low",
+          "id": "5adba3fc-8f6d-479f-ac88-dee65248590d"
+        }
+      ]
     }
   ]
 }
