@@ -422,7 +422,7 @@
       "area": 3,
       "stage": 1,
       "name": "ヘーベ丘陵 3-1",
-      "drop": [
+      "drops": [
         {
           "dropRate": "High",
           "id": "8fb4ffa0-4a8f-4317-a1a1-9973e8c862d2"
@@ -441,7 +441,7 @@
       "area": 3,
       "stage": 2,
       "name": "ヘーベ丘陵 3-2",
-      "drop": [
+      "drops": [
         {
           "dropRate": "High",
           "id": "113e7e54-de4e-4d5a-acfb-c2b8f1ed98c6"
@@ -460,7 +460,7 @@
       "area": 3,
       "stage": 3,
       "name": "ヘーベ丘陵 3-3",
-      "drop": [
+      "drops": [
         {
           "dropRate": "High",
           "id": "f4afa16c-cf8f-4f1f-a437-68a14e6468d5"
@@ -479,7 +479,7 @@
       "area": 3,
       "stage": 4,
       "name": "ヘーベ丘陵 3-4",
-      "drop": [
+      "drops": [
         {
           "dropRate": "High",
           "id": "ac560823-07d2-4de8-8419-c236e6b24ad6"
@@ -498,7 +498,7 @@
       "area": 3,
       "stage": 5,
       "name": "ヘーベ丘陵 3-5",
-      "drop": [
+      "drops": [
         {
           "dropRate": "High",
           "id": "5b593485-16c5-4117-9696-dabab9a997c3"
@@ -517,7 +517,7 @@
       "area": 3,
       "stage": 6,
       "name": "ヘーベ丘陵 3-6",
-      "drop": [
+      "drops": [
         {
           "dropRate": "High",
           "id": "37b375e7-6930-4393-9371-ea37a0da4b2d"
@@ -536,7 +536,7 @@
       "area": 3,
       "stage": 7,
       "name": "ヘーベ丘陵 3-7",
-      "drop": [
+      "drops": [
         {
           "dropRate": "High",
           "id": "59d3859e-51af-4e9c-895f-fc75fd296b76"
@@ -555,7 +555,7 @@
       "area": 3,
       "stage": 8,
       "name": "ヘーベ丘陵 3-8",
-      "drop": [
+      "drops": [
         {
           "dropRate": "High",
           "id": "a01bc34f-873f-4793-b5d4-5284e20e4f1f"
@@ -574,7 +574,7 @@
       "area": 3,
       "stage": 9,
       "name": "ヘーベ丘陵 3-9",
-      "drop": [
+      "drops": [
         {
           "dropRate": "High",
           "id": "bdd0bbd0-e2aa-4964-b8d1-ca29ee28ea95"
@@ -593,7 +593,7 @@
       "area": 3,
       "stage": 10,
       "name": "ヘーベ丘陵 3-10",
-      "drop": [
+      "drops": [
         {
           "dropRate": "High",
           "id": "cfd7f179-b6aa-4597-adf2-132c41609160"
@@ -612,7 +612,7 @@
       "area": 3,
       "stage": 11,
       "name": "ヘーベ丘陵 3-11",
-      "drop": [
+      "drops": [
         {
           "dropRate": "High",
           "id": "69dcba21-fb62-4eb6-a3d8-d1ad8f33c545"
@@ -631,7 +631,7 @@
       "area": 3,
       "stage": 12,
       "name": "ヘーベ丘陵 3-12",
-      "drop": [
+      "drops": [
         {
           "dropRate": "High",
           "id": "00d335d7-0139-453c-9a07-f807d8f8ca9e"
