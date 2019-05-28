@@ -645,6 +645,1032 @@
           "id": "5adba3fc-8f6d-479f-ac88-dee65248590d"
         }
       ]
+    },
+    {
+      "area": 4,
+      "stage": 1,
+      "name": "ベスタ渓谷 4-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "52e16d1a-da26-4542-bbd0-65a499b45ab6"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d88df438-4068-4e7e-bfba-21e059b089ea"
+        },
+        {
+          "dropRate": "Low",
+          "id": "4bf6cffb-d104-4dd3-b489-1f1ab8d04a76"
+        }
+      ]
+    },
+    {
+      "area": 4,
+      "stage": 2,
+      "name": "ベスタ渓谷 4-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "37b375e7-6930-4393-9371-ea37a0da4b2d"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "8703a61a-5fbf-4d89-9278-c05a49593d00"
+        },
+        {
+          "dropRate": "Low",
+          "id": "ac560823-07d2-4de8-8419-c236e6b24ad6"
+        }
+      ]
+    },
+    {
+      "area": 4,
+      "stage": 3,
+      "name": "ベスタ渓谷 4-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "671e3e5a-6c01-42b3-922a-12fcdd84c48e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "5b593485-16c5-4117-9696-dabab9a997c3"
+        },
+        {
+          "dropRate": "Low",
+          "id": "59d3859e-51af-4e9c-895f-fc75fd296b76"
+        }
+      ]
+    },
+    {
+      "area": 4,
+      "stage": 4,
+      "name": "ベスタ渓谷 4-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "020f5f99-32c1-4360-9106-c32c81278682"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f4afa16c-cf8f-4f1f-a437-68a14e6468d5"
+        },
+        {
+          "dropRate": "Low",
+          "id": "19953fca-efb6-441a-8164-c300b416de11"
+        }
+      ]
+    },
+    {
+      "area": 4,
+      "stage": 5,
+      "name": "ベスタ渓谷 4-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "315e62e6-af21-456b-b383-16ba45b7ed3e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f2e2d4e3-bd1a-4c4c-aebf-80c039281f28"
+        },
+        {
+          "dropRate": "Low",
+          "id": "b042e7a8-c7dc-4116-abde-2b0c48271a64"
+        }
+      ]
+    },
+    {
+      "area": 4,
+      "stage": 6,
+      "name": "ベスタ渓谷 4-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0f19d779-f49c-4ec7-9c85-2568b511485b"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "953a630d-55d3-4172-ad1d-a31387df5ec9"
+        },
+        {
+          "dropRate": "Low",
+          "id": "c501ab10-fc1f-434c-9c39-62605989da42"
+        }
+      ]
+    },
+    {
+      "area": 4,
+      "stage": 7,
+      "name": "ベスタ渓谷 4-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "230cb8c7-59d2-4f1a-984b-b5369bfa44cd"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "69dcba21-fb62-4eb6-a3d8-d1ad8f33c545"
+        },
+        {
+          "dropRate": "Low",
+          "id": "a01bc34f-873f-4793-b5d4-5284e20e4f1f"
+        }
+      ]
+    },
+    {
+      "area": 4,
+      "stage": 8,
+      "name": "ベスタ渓谷 4-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "c93b96b8-ec61-4516-badd-6f309336e472"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "0715d6bd-aab9-416c-a65f-a0e2b232f8e8"
+        },
+        {
+          "dropRate": "Low",
+          "id": "bdd0bbd0-e2aa-4964-b8d1-ca29ee28ea95"
+        }
+      ]
+    },
+    {
+      "area": 4,
+      "stage": 9,
+      "name": "ベスタ渓谷 4-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "e8b84b5c-7e0d-4a8b-a737-63587e3d6582"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "00d335d7-0139-453c-9a07-f807d8f8ca9e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "c1e10541-1fd9-42fd-b9ff-2d89ab7060f1"
+        }
+      ]
+    },
+    {
+      "area": 4,
+      "stage": 10,
+      "name": "ベスタ渓谷 4-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "822aabc3-778e-457a-911f-563d576d416f"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "1836f6e7-8ebe-450e-9744-0303a33be68c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "cfd7f179-b6aa-4597-adf2-132c41609160"
+        }
+      ]
+    },
+    {
+      "area": 4,
+      "stage": 11,
+      "name": "ベスタ渓谷 4-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "bf4bf451-0c63-4171-b785-64289c14e617"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "6da1a2a9-0b20-4bbc-86f3-466dd501841f"
+        },
+        {
+          "dropRate": "Low",
+          "id": "55e8aa92-4ae5-4e31-84d8-03ee24adecc5"
+        }
+      ]
+    },
+    {
+      "area": 4,
+      "stage": 12,
+      "name": "ベスタ渓谷 4-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "76ce0f36-ae3c-4dc3-8ae1-59a01aae71c7"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "e85bdd0e-f0b0-4fa4-a8a0-6cfda9854291"
+        },
+        {
+          "dropRate": "Low",
+          "id": "020f5f99-32c1-4360-9106-c32c81278682"
+        }
+      ]
+    },
+    {
+      "area": 4,
+      "stage": 13,
+      "name": "ベスタ渓谷 4-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "feba6a79-61e1-4ff6-b74d-d261d02fadb0"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "40b676a1-7ddd-490b-9fb2-2e8e1f1b7fef"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0f19d779-f49c-4ec7-9c85-2568b511485b"
+        }
+      ]
+    },
+    {
+      "area": 5,
+      "stage": 1,
+      "name": "ケレス森林 5-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "315e62e6-af21-456b-b383-16ba45b7ed3e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "953a630d-55d3-4172-ad1d-a31387df5ec9"
+        },
+        {
+          "dropRate": "Low",
+          "id": "671e3e5a-6c01-42b3-922a-12fcdd84c48e"
+        }
+      ]
+    },
+    {
+      "area": 5,
+      "stage": 2,
+      "name": "ケレス森林 5-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0f19d779-f49c-4ec7-9c85-2568b511485b"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "671e3e5a-6c01-42b3-922a-12fcdd84c48e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "e8b84b5c-7e0d-4a8b-a737-63587e3d6582"
+        }
+      ]
+    },
+    {
+      "area": 5,
+      "stage": 3,
+      "name": "ケレス森林 5-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "feba6a79-61e1-4ff6-b74d-d261d02fadb0"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f2e2d4e3-bd1a-4c4c-aebf-80c039281f28"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1836f6e7-8ebe-450e-9744-0303a33be68c"
+        }
+      ]
+    },
+    {
+      "area": 5,
+      "stage": 4,
+      "name": "ケレス森林 5-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "246e8435-eeb8-47c1-9920-14ad2a506519"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "2b32fc6e-ebe8-41a2-bc23-2a71841d6f3c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "c93b96b8-ec61-4516-badd-6f309336e472"
+        }
+      ]
+    },
+    {
+      "area": 5,
+      "stage": 5,
+      "name": "ケレス森林 5-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "b339e8b3-b365-42f9-9477-a677c96a38c0"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "40b676a1-7ddd-490b-9fb2-2e8e1f1b7fef"
+        },
+        {
+          "dropRate": "Low",
+          "id": "230cb8c7-59d2-4f1a-984b-b5369bfa44cd"
+        }
+      ]
+    },
+    {
+      "area": 5,
+      "stage": 6,
+      "name": "ケレス森林 5-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "bc04d891-3a4c-4259-8f99-2594208d1914"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d44b4f92-3732-422a-b349-5f581b8761da"
+        },
+        {
+          "dropRate": "Low",
+          "id": "822aabc3-778e-457a-911f-563d576d416f"
+        }
+      ]
+    },
+    {
+      "area": 5,
+      "stage": 7,
+      "name": "ケレス森林 5-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "33d4bc71-524b-47cb-9ba1-2c13dfe019c8"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "40cc3466-39e4-4ca9-b70b-840d06ffcac0"
+        },
+        {
+          "dropRate": "Low",
+          "id": "6da1a2a9-0b20-4bbc-86f3-466dd501841f"
+        }
+      ]
+    },
+    {
+      "area": 5,
+      "stage": 8,
+      "name": "ケレス森林 5-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "7e51fbe0-1fba-4a3e-ba07-16b0e2834426"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "426ec542-f4a8-4c5a-a035-2e78a888ca0d"
+        },
+        {
+          "dropRate": "Low",
+          "id": "bf4bf451-0c63-4171-b785-64289c14e617"
+        }
+      ]
+    },
+    {
+      "area": 5,
+      "stage": 9,
+      "name": "ケレス森林 5-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "fdfef0e6-f897-4de9-a780-f2f81312b914"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "ff31aad9-5d09-481f-af8d-7542cc882439"
+        },
+        {
+          "dropRate": "Low",
+          "id": "76ce0f36-ae3c-4dc3-8ae1-59a01aae71c7"
+        }
+      ]
+    },
+    {
+      "area": 5,
+      "stage": 10,
+      "name": "ケレス森林 5-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "7f13a843-a420-498a-a249-e4b2c825fde3"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "5a3422c1-b396-40a6-8343-8eecd1fac84e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "e85bdd0e-f0b0-4fa4-a8a0-6cfda9854291"
+        }
+      ]
+    },
+    {
+      "area": 5,
+      "stage": 11,
+      "name": "ケレス森林 5-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "119487ae-6273-43fa-983b-e7e3ccfd5db8"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "b339e8b3-b365-42f9-9477-a677c96a38c0"
+        },
+        {
+          "dropRate": "Low",
+          "id": "2b32fc6e-ebe8-41a2-bc23-2a71841d6f3c"
+        }
+      ]
+    },
+    {
+      "area": 5,
+      "stage": 12,
+      "name": "ケレス森林 5-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "8d9fb724-2f70-45f2-98f3-8338b62a38ef"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "246e8435-eeb8-47c1-9920-14ad2a506519"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d44b4f92-3732-422a-b349-5f581b8761da"
+        }
+      ]
+    },
+    {
+      "area": 5,
+      "stage": 13,
+      "name": "ケレス森林 5-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "2ecce3c9-c521-4e3c-bfcb-4027cce21fba"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "bfcc6635-aaf3-40e9-8998-d1e8a68810c7"
+        },
+        {
+          "dropRate": "Low",
+          "id": "bc04d891-3a4c-4259-8f99-2594208d1914"
+        }
+      ]
+    },
+    {
+      "area": 6,
+      "stage": 1,
+      "name": "フローラ湖畔 6-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "2b32fc6e-ebe8-41a2-bc23-2a71841d6f3c"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d44b4f92-3732-422a-b349-5f581b8761da"
+        },
+        {
+          "dropRate": "Low",
+          "id": "fdfef0e6-f897-4de9-a780-f2f81312b914"
+        }
+      ]
+    },
+    {
+      "area": 6,
+      "stage": 2,
+      "name": "フローラ湖畔 6-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "b339e8b3-b365-42f9-9477-a677c96a38c0"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "feba6a79-61e1-4ff6-b74d-d261d02fadb0"
+        },
+        {
+          "dropRate": "Low",
+          "id": "33d4bc71-524b-47cb-9ba1-2c13dfe019c8"
+        }
+      ]
+    },
+    {
+      "area": 6,
+      "stage": 3,
+      "name": "フローラ湖畔 6-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "e8ba3d73-b8b6-456c-a449-688b6c8dc66b"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "40b676a1-7ddd-490b-9fb2-2e8e1f1b7fef"
+        },
+        {
+          "dropRate": "Low",
+          "id": "e85bdd0e-f0b0-4fa4-a8a0-6cfda9854291"
+        }
+      ]
+    },
+    {
+      "area": 6,
+      "stage": 4,
+      "name": "フローラ湖畔 6-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1429f363-5f8a-4679-8516-435a33776366"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "246e8435-eeb8-47c1-9920-14ad2a506519"
+        },
+        {
+          "dropRate": "Low",
+          "id": "7e51fbe0-1fba-4a3e-ba07-16b0e2834426"
+        }
+      ]
+    },
+    {
+      "area": 6,
+      "stage": 5,
+      "name": "フローラ湖畔 6-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1c805340-ebf4-4a0e-b416-667c1ef29c5a"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "2ecce3c9-c521-4e3c-bfcb-4027cce21fba"
+        },
+        {
+          "dropRate": "Low",
+          "id": "76ce0f36-ae3c-4dc3-8ae1-59a01aae71c7"
+        }
+      ]
+    },
+    {
+      "area": 6,
+      "stage": 6,
+      "name": "フローラ湖畔 6-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "951db15a-5965-4e93-9f1f-79d1749b1fbb"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "bfcc6635-aaf3-40e9-8998-d1e8a68810c7"
+        },
+        {
+          "dropRate": "Low",
+          "id": "7f13a843-a420-498a-a249-e4b2c825fde3"
+        }
+      ]
+    },
+    {
+      "area": 6,
+      "stage": 7,
+      "name": "フローラ湖畔 6-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "56f3e20f-7ae2-4f30-b285-863c0d8f56ac"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "bc04d891-3a4c-4259-8f99-2594208d1914"
+        },
+        {
+          "dropRate": "Low",
+          "id": "bf4bf451-0c63-4171-b785-64289c14e617"
+        }
+      ]
+    },
+    {
+      "area": 6,
+      "stage": 8,
+      "name": "フローラ湖畔 6-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "150ab487-f929-48fb-9b91-7ee8850e97d7"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "40cc3466-39e4-4ca9-b70b-840d06ffcac0"
+        },
+        {
+          "dropRate": "Low",
+          "id": "426ec542-f4a8-4c5a-a035-2e78a888ca0d"
+        }
+      ]
+    },
+    {
+      "area": 6,
+      "stage": 9,
+      "name": "フローラ湖畔 6-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "55fdd059-d1e1-435f-b2b2-100feeff618d"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "119487ae-6273-43fa-983b-e7e3ccfd5db8"
+        },
+        {
+          "dropRate": "Low",
+          "id": "6da1a2a9-0b20-4bbc-86f3-466dd501841f"
+        }
+      ]
+    },
+    {
+      "area": 6,
+      "stage": 10,
+      "name": "フローラ湖畔 6-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "43ded0a9-e0dc-4ae1-9e94-af52c3868582"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "8d9fb724-2f70-45f2-98f3-8338b62a38ef"
+        },
+        {
+          "dropRate": "Low",
+          "id": "ff31aad9-5d09-481f-af8d-7542cc882439"
+        }
+      ]
+    },
+    {
+      "area": 6,
+      "stage": 11,
+      "name": "フローラ湖畔 6-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "959129f7-58da-4371-ad62-4b3e55be3134"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "1c805340-ebf4-4a0e-b416-667c1ef29c5a"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1429f363-5f8a-4679-8516-435a33776366"
+        }
+      ]
+    },
+    {
+      "area": 6,
+      "stage": 12,
+      "name": "フローラ湖畔 6-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1e415bb7-488a-476c-b689-95e43d7b763c"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "e8ba3d73-b8b6-456c-a449-688b6c8dc66b"
+        },
+        {
+          "dropRate": "Low",
+          "id": "5a3422c1-b396-40a6-8343-8eecd1fac84e"
+        }
+      ]
+    },
+    {
+      "area": 6,
+      "stage": 13,
+      "name": "フローラ湖畔 6-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "c89a76c8-3b14-48c4-8f2c-69b9aa617768"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "951db15a-5965-4e93-9f1f-79d1749b1fbb"
+        },
+        {
+          "dropRate": "Low",
+          "id": "2ecce3c9-c521-4e3c-bfcb-4027cce21fba"
+        }
+      ]
+    },
+    {
+      "area": 6,
+      "stage": 14,
+      "name": "フローラ湖畔 6-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "8bbcd743-8882-4bd0-b8da-d451d117b9de"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "e4d9aaff-f04a-4d64-8f81-7ffd2cb2a28a"
+        },
+        {
+          "dropRate": "Low",
+          "id": "76ce0f36-ae3c-4dc3-8ae1-59a01aae71c7"
+        }
+      ]
+    },
+    {
+      "area": 7,
+      "stage": 1,
+      "name": "メティス大瀑布 7-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "bfcc6635-aaf3-40e9-8998-d1e8a68810c7"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "426ec542-f4a8-4c5a-a035-2e78a888ca0d"
+        },
+        {
+          "dropRate": "Low",
+          "id": "7f13a843-a420-498a-a249-e4b2c825fde3"
+        }
+      ]
+    },
+    {
+      "area": 7,
+      "stage": 2,
+      "name": "メティス大瀑布 7-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1c805340-ebf4-4a0e-b416-667c1ef29c5a"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "2ecce3c9-c521-4e3c-bfcb-4027cce21fba"
+        },
+        {
+          "dropRate": "Low",
+          "id": "ff31aad9-5d09-481f-af8d-7542cc882439"
+        }
+      ]
+    },
+    {
+      "area": 7,
+      "stage": 3,
+      "name": "メティス大瀑布 7-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "8a6fe7df-07e9-4632-8334-f2631df0148e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "1429f363-5f8a-4679-8516-435a33776366"
+        },
+        {
+          "dropRate": "Low",
+          "id": "5a3422c1-b396-40a6-8343-8eecd1fac84e"
+        }
+      ]
+    },
+    {
+      "area": 7,
+      "stage": 4,
+      "name": "メティス大瀑布 7-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0f77435f-3d30-436b-942c-df128df91ff3"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c89a76c8-3b14-48c4-8f2c-69b9aa617768"
+        },
+        {
+          "dropRate": "Low",
+          "id": "e8ba3d73-b8b6-456c-a449-688b6c8dc66b"
+        }
+      ]
+    },
+    {
+      "area": 7,
+      "stage": 5,
+      "name": "メティス大瀑布 7-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "8bbcd743-8882-4bd0-b8da-d451d117b9de"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "796b6a27-90aa-439e-8ae2-39f1826fe5fc"
+        },
+        {
+          "dropRate": "Low",
+          "id": "40cc3466-39e4-4ca9-b70b-840d06ffcac0"
+        }
+      ]
+    },
+    {
+      "area": 7,
+      "stage": 6,
+      "name": "メティス大瀑布 7-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "94abf4be-f6b7-4ee9-b779-3b1ada931131"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "e07367db-8655-4405-bda6-a2ec9cce69e2"
+        },
+        {
+          "dropRate": "Low",
+          "id": "951db15a-5965-4e93-9f1f-79d1749b1fbb"
+        }
+      ]
+    },
+    {
+      "area": 7,
+      "stage": 7,
+      "name": "メティス大瀑布 7-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d4725207-e6de-4911-b99e-b51a163516b7"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "75ec169f-9af5-480c-b8dc-119d86fdf27e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "119487ae-6273-43fa-983b-e7e3ccfd5db8"
+        }
+      ]
+    },
+    {
+      "area": 7,
+      "stage": 8,
+      "name": "メティス大瀑布 7-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0f77435f-3d30-436b-942c-df128df91ff3"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "8a6fe7df-07e9-4632-8334-f2631df0148e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "56f3e20f-7ae2-4f30-b285-863c0d8f56ac"
+        }
+      ]
+    },
+    {
+      "area": 7,
+      "stage": 9,
+      "name": "メティス大瀑布 7-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "feb6c015-a63b-4a41-bf00-c6d0579a9a2b"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "8bbcd743-8882-4bd0-b8da-d451d117b9de"
+        },
+        {
+          "dropRate": "Low",
+          "id": "028a7867-bbca-4568-9c31-0885f9f76282"
+        }
+      ]
+    },
+    {
+      "area": 7,
+      "stage": 10,
+      "name": "メティス大瀑布 7-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "75ec169f-9af5-480c-b8dc-119d86fdf27e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "94abf4be-f6b7-4ee9-b779-3b1ada931131"
+        },
+        {
+          "dropRate": "Low",
+          "id": "150ab487-f929-48fb-9b91-7ee8850e97d7"
+        }
+      ]
+    },
+    {
+      "area": 7,
+      "stage": 11,
+      "name": "メティス大瀑布 7-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "742c7b65-7e3d-484d-8edf-acebbf375059"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d4725207-e6de-4911-b99e-b51a163516b7"
+        },
+        {
+          "dropRate": "Low",
+          "id": "959129f7-58da-4371-ad62-4b3e55be3134"
+        }
+      ]
+    },
+    {
+      "area": 7,
+      "stage": 12,
+      "name": "メティス大瀑布 7-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "31b8d1b2-5544-48d2-88b2-a02da7f29e04"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "e07367db-8655-4405-bda6-a2ec9cce69e2"
+        },
+        {
+          "dropRate": "Low",
+          "id": "55fdd059-d1e1-435f-b2b2-100feeff618d"
+        }
+      ]
+    },
+    {
+      "area": 7,
+      "stage": 13,
+      "name": "メティス大瀑布 7-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "042ee669-9e6b-4772-8306-b058c82eef22"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "796b6a27-90aa-439e-8ae2-39f1826fe5fc"
+        },
+        {
+          "dropRate": "Low",
+          "id": "43ded0a9-e0dc-4ae1-9e94-af52c3868582"
+        }
+      ]
+    },
+    {
+      "area": 7,
+      "stage": 14,
+      "name": "メティス大瀑布 7-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "a62fbace-e597-4dbd-b688-6b70d2ed476a"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c89a76c8-3b14-48c4-8f2c-69b9aa617768"
+        },
+        {
+          "dropRate": "Low",
+          "id": "8d9fb724-2f70-45f2-98f3-8338b62a38ef"
+        }
+      ]
     }
   ]
 }
