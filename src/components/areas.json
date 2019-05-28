@@ -1671,6 +1671,4528 @@
           "id": "8d9fb724-2f70-45f2-98f3-8338b62a38ef"
         }
       ]
+    },
+    {
+      "area": 8,
+      "stage": 1,
+      "name": "イリス樹海 8-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d4725207-e6de-4911-b99e-b51a163516b7"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "0f77435f-3d30-436b-942c-df128df91ff3"
+        },
+        {
+          "dropRate": "Low",
+          "id": "56f3e20f-7ae2-4f30-b285-863c0d8f56ac"
+        }
+      ]
+    },
+    {
+      "area": 8,
+      "stage": 2,
+      "name": "イリス樹海 8-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "c89a76c8-3b14-48c4-8f2c-69b9aa617768"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "94abf4be-f6b7-4ee9-b779-3b1ada931131"
+        },
+        {
+          "dropRate": "Low",
+          "id": "43ded0a9-e0dc-4ae1-9e94-af52c3868582"
+        }
+      ]
+    },
+    {
+      "area": 8,
+      "stage": 3,
+      "name": "イリス樹海 8-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "8bbcd743-8882-4bd0-b8da-d451d117b9de"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "e07367db-8655-4405-bda6-a2ec9cce69e2"
+        },
+        {
+          "dropRate": "Low",
+          "id": "150ab487-f929-48fb-9b91-7ee8850e97d7"
+        }
+      ]
+    },
+    {
+      "area": 8,
+      "stage": 4,
+      "name": "イリス樹海 8-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "796b6a27-90aa-439e-8ae2-39f1826fe5fc"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "75ec169f-9af5-480c-b8dc-119d86fdf27e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1e415bb7-488a-476c-b689-95e43d7b763c"
+        }
+      ]
+    },
+    {
+      "area": 8,
+      "stage": 5,
+      "name": "イリス樹海 8-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "feb6c015-a63b-4a41-bf00-c6d0579a9a2b"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "0f77435f-3d30-436b-942c-df128df91ff3"
+        },
+        {
+          "dropRate": "Low",
+          "id": "55fdd059-d1e1-435f-b2b2-100feeff618d"
+        }
+      ]
+    },
+    {
+      "area": 8,
+      "stage": 6,
+      "name": "イリス樹海 8-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "742c7b65-7e3d-484d-8edf-acebbf375059"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d4725207-e6de-4911-b99e-b51a163516b7"
+        },
+        {
+          "dropRate": "Low",
+          "id": "959129f7-58da-4371-ad62-4b3e55be3134"
+        }
+      ]
+    },
+    {
+      "area": 8,
+      "stage": 7,
+      "name": "イリス樹海 8-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "31b8d1b2-5544-48d2-88b2-a02da7f29e04"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "75ec169f-9af5-480c-b8dc-119d86fdf27e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "43ded0a9-e0dc-4ae1-9e94-af52c3868582"
+        }
+      ]
+    },
+    {
+      "area": 8,
+      "stage": 8,
+      "name": "イリス樹海 8-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "c9feb307-fc28-4c1b-8665-47f4e5c7df96"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "796b6a27-90aa-439e-8ae2-39f1826fe5fc"
+        },
+        {
+          "dropRate": "Low",
+          "id": "55fdd059-d1e1-435f-b2b2-100feeff618d"
+        }
+      ]
+    },
+    {
+      "area": 8,
+      "stage": 9,
+      "name": "イリス樹海 8-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "092ede0b-cdd1-42a0-a94e-b4e2714e2823"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c89a76c8-3b14-48c4-8f2c-69b9aa617768"
+        },
+        {
+          "dropRate": "Low",
+          "id": "56f3e20f-7ae2-4f30-b285-863c0d8f56ac"
+        }
+      ]
+    },
+    {
+      "area": 8,
+      "stage": 10,
+      "name": "イリス樹海 8-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "a62fbace-e597-4dbd-b688-6b70d2ed476a"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "0f77435f-3d30-436b-942c-df128df91ff3"
+        },
+        {
+          "dropRate": "Low",
+          "id": "43ded0a9-e0dc-4ae1-9e94-af52c3868582"
+        }
+      ]
+    },
+    {
+      "area": 8,
+      "stage": 11,
+      "name": "イリス樹海 8-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "042ee669-9e6b-4772-8306-b058c82eef22"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "8bbcd743-8882-4bd0-b8da-d451d117b9de"
+        },
+        {
+          "dropRate": "Low",
+          "id": "150ab487-f929-48fb-9b91-7ee8850e97d7"
+        }
+      ]
+    },
+    {
+      "area": 8,
+      "stage": 12,
+      "name": "イリス樹海 8-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "31b8d1b2-5544-48d2-88b2-a02da7f29e04"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "8a6fe7df-07e9-4632-8334-f2631df0148e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "959129f7-58da-4371-ad62-4b3e55be3134"
+        }
+      ]
+    },
+    {
+      "area": 8,
+      "stage": 13,
+      "name": "イリス樹海 8-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "f39227f7-3be5-4158-8b39-23c84bb0470d"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "e07367db-8655-4405-bda6-a2ec9cce69e2"
+        },
+        {
+          "dropRate": "Low",
+          "id": "43ded0a9-e0dc-4ae1-9e94-af52c3868582"
+        }
+      ]
+    },
+    {
+      "area": 8,
+      "stage": 14,
+      "name": "イリス樹海 8-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "8fb5f6d5-4e22-49e4-8bea-17aa9070bf9e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "75ec169f-9af5-480c-b8dc-119d86fdf27e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1e415bb7-488a-476c-b689-95e43d7b763c"
+        }
+      ]
+    },
+    {
+      "area": 8,
+      "stage": 15,
+      "name": "イリス樹海 8-15",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "042ee669-9e6b-4772-8306-b058c82eef22"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "94abf4be-f6b7-4ee9-b779-3b1ada931131"
+        },
+        {
+          "dropRate": "Low",
+          "id": "55fdd059-d1e1-435f-b2b2-100feeff618d"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 1,
+      "name": "フリガ雪原 9-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "8a6fe7df-07e9-4632-8334-f2631df0148e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "e07367db-8655-4405-bda6-a2ec9cce69e2"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d4725207-e6de-4911-b99e-b51a163516b7"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 2,
+      "name": "フリガ雪原 9-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0f77435f-3d30-436b-942c-df128df91ff3"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "75ec169f-9af5-480c-b8dc-119d86fdf27e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "8bbcd743-8882-4bd0-b8da-d451d117b9de"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 3,
+      "name": "フリガ雪原 9-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "796b6a27-90aa-439e-8ae2-39f1826fe5fc"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "94abf4be-f6b7-4ee9-b779-3b1ada931131"
+        },
+        {
+          "dropRate": "Low",
+          "id": "c89a76c8-3b14-48c4-8f2c-69b9aa617768"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 4,
+      "name": "フリガ雪原 9-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "49753c57-fe45-4fbb-9247-02df370a618c"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "742c7b65-7e3d-484d-8edf-acebbf375059"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1e415bb7-488a-476c-b689-95e43d7b763c"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 5,
+      "name": "フリガ雪原 9-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "903e6f28-b623-42b4-b5b4-215ea14e8ce9"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "201fd6fa-3eb0-4e45-aab5-255fb19a1586"
+        },
+        {
+          "dropRate": "Low",
+          "id": "092ede0b-cdd1-42a0-a94e-b4e2714e2823"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 6,
+      "name": "フリガ雪原 9-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "ec159251-1a3c-4711-b113-eba2c8c175b6"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "028a7867-bbca-4568-9c31-0885f9f76282"
+        },
+        {
+          "dropRate": "Low",
+          "id": "43ded0a9-e0dc-4ae1-9e94-af52c3868582"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 7,
+      "name": "フリガ雪原 9-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "7bbb6f71-b07a-43b8-805f-ee39694614ff"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "18ef5536-d058-4fdd-b32a-95a16f5ae2e5"
+        },
+        {
+          "dropRate": "Low",
+          "id": "feb6c015-a63b-4a41-bf00-c6d0579a9a2b"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 8,
+      "name": "フリガ雪原 9-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "16414dbe-262c-4915-a793-ccda4bbb4a07"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "616d51a3-82cc-4c9c-9639-165e2a7636c4"
+        },
+        {
+          "dropRate": "Low",
+          "id": "959129f7-58da-4371-ad62-4b3e55be3134"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 9,
+      "name": "フリガ雪原 9-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "201fd6fa-3eb0-4e45-aab5-255fb19a1586"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "8fb5f6d5-4e22-49e4-8bea-17aa9070bf9e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "150ab487-f929-48fb-9b91-7ee8850e97d7"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 10,
+      "name": "フリガ雪原 9-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "49753c57-fe45-4fbb-9247-02df370a618c"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "7bbb6f71-b07a-43b8-805f-ee39694614ff"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1e415bb7-488a-476c-b689-95e43d7b763c"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 11,
+      "name": "フリガ雪原 9-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "903e6f28-b623-42b4-b5b4-215ea14e8ce9"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c9feb307-fc28-4c1b-8665-47f4e5c7df96"
+        },
+        {
+          "dropRate": "Low",
+          "id": "55fdd059-d1e1-435f-b2b2-100feeff618d"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 12,
+      "name": "フリガ雪原 9-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "028a7867-bbca-4568-9c31-0885f9f76282"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "ec159251-1a3c-4711-b113-eba2c8c175b6"
+        },
+        {
+          "dropRate": "Low",
+          "id": "43ded0a9-e0dc-4ae1-9e94-af52c3868582"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 13,
+      "name": "フリガ雪原 9-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "18ef5536-d058-4fdd-b32a-95a16f5ae2e5"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f39227f7-3be5-4158-8b39-23c84bb0470d"
+        },
+        {
+          "dropRate": "Low",
+          "id": "56f3e20f-7ae2-4f30-b285-863c0d8f56ac"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 14,
+      "name": "フリガ雪原 9-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "616d51a3-82cc-4c9c-9639-165e2a7636c4"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "16414dbe-262c-4915-a793-ccda4bbb4a07"
+        },
+        {
+          "dropRate": "Low",
+          "id": "959129f7-58da-4371-ad62-4b3e55be3134"
+        }
+      ]
+    },
+    {
+      "area": 9,
+      "stage": 15,
+      "name": "フリガ雪原 9-15",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "903e6f28-b623-42b4-b5b4-215ea14e8ce9"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "18ef5536-d058-4fdd-b32a-95a16f5ae2e5"
+        },
+        {
+          "dropRate": "Low",
+          "id": "a62fbace-e597-4dbd-b688-6b70d2ed476a"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 1,
+      "name": "ロレッタ海岸 10-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "ec159251-1a3c-4711-b113-eba2c8c175b6"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "903e6f28-b623-42b4-b5b4-215ea14e8ce9"
+        },
+        {
+          "dropRate": "Low",
+          "id": "c9feb307-fc28-4c1b-8665-47f4e5c7df96"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 2,
+      "name": "ロレッタ海岸 10-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "16414dbe-262c-4915-a793-ccda4bbb4a07"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "49753c57-fe45-4fbb-9247-02df370a618c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "028a7867-bbca-4568-9c31-0885f9f76282"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 3,
+      "name": "ロレッタ海岸 10-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "18ef5536-d058-4fdd-b32a-95a16f5ae2e5"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "7bbb6f71-b07a-43b8-805f-ee39694614ff"
+        },
+        {
+          "dropRate": "Low",
+          "id": "616d51a3-82cc-4c9c-9639-165e2a7636c4"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 4,
+      "name": "ロレッタ海岸 10-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "59f7344a-a621-4dd0-a478-db26ad693303"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "201fd6fa-3eb0-4e45-aab5-255fb19a1586"
+        },
+        {
+          "dropRate": "Low",
+          "id": "8fb5f6d5-4e22-49e4-8bea-17aa9070bf9e"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 5,
+      "name": "ロレッタ海岸 10-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "f8c3948d-51dc-4cec-b617-a252df13f5b5"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d0e06239-0392-4ffb-9c6b-9f42ce1ded2f"
+        },
+        {
+          "dropRate": "Low",
+          "id": "a62fbace-e597-4dbd-b688-6b70d2ed476a"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 6,
+      "name": "ロレッタ海岸 10-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0c9576d5-2331-4c75-ad57-01ef1b02df97"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c137e468-467b-4887-91b9-61b81a90aa2d"
+        },
+        {
+          "dropRate": "Low",
+          "id": "092ede0b-cdd1-42a0-a94e-b4e2714e2823"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 7,
+      "name": "ロレッタ海岸 10-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "a6c4769e-b58d-4fb6-bd52-c01acb662333"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "fba51908-5f80-4265-8bb6-a86a163f3ffb"
+        },
+        {
+          "dropRate": "Low",
+          "id": "f39227f7-3be5-4158-8b39-23c84bb0470d"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 8,
+      "name": "ロレッタ海岸 10-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "732f8f3f-c24a-425a-b844-53bdcbfb4101"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f7ae5836-016a-4034-980d-fd6f6cfe75b9"
+        },
+        {
+          "dropRate": "Low",
+          "id": "903e6f28-b623-42b4-b5b4-215ea14e8ce9"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 9,
+      "name": "ロレッタ海岸 10-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d0e06239-0392-4ffb-9c6b-9f42ce1ded2f"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "fba51908-5f80-4265-8bb6-a86a163f3ffb"
+        },
+        {
+          "dropRate": "Low",
+          "id": "18ef5536-d058-4fdd-b32a-95a16f5ae2e5"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 10,
+      "name": "ロレッタ海岸 10-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "f8c3948d-51dc-4cec-b617-a252df13f5b5"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c137e468-467b-4887-91b9-61b81a90aa2d"
+        },
+        {
+          "dropRate": "Low",
+          "id": "16414dbe-262c-4915-a793-ccda4bbb4a07"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 11,
+      "name": "ロレッタ海岸 10-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0c9576d5-2331-4c75-ad57-01ef1b02df97"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f7ae5836-016a-4034-980d-fd6f6cfe75b9"
+        },
+        {
+          "dropRate": "Low",
+          "id": "49753c57-fe45-4fbb-9247-02df370a618c"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 12,
+      "name": "ロレッタ海岸 10-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d0e06239-0392-4ffb-9c6b-9f42ce1ded2f"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "fba51908-5f80-4265-8bb6-a86a163f3ffb"
+        },
+        {
+          "dropRate": "Low",
+          "id": "ec159251-1a3c-4711-b113-eba2c8c175b6"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 13,
+      "name": "ロレッタ海岸 10-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "a6c4769e-b58d-4fb6-bd52-c01acb662333"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f7ae5836-016a-4034-980d-fd6f6cfe75b9"
+        },
+        {
+          "dropRate": "Low",
+          "id": "7bbb6f71-b07a-43b8-805f-ee39694614ff"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 14,
+      "name": "ロレッタ海岸 10-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "732f8f3f-c24a-425a-b844-53bdcbfb4101"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c137e468-467b-4887-91b9-61b81a90aa2d"
+        },
+        {
+          "dropRate": "Low",
+          "id": "201fd6fa-3eb0-4e45-aab5-255fb19a1586"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 15,
+      "name": "ロレッタ海岸 10-15",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "59f7344a-a621-4dd0-a478-db26ad693303"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f7ae5836-016a-4034-980d-fd6f6cfe75b9"
+        },
+        {
+          "dropRate": "Low",
+          "id": "028a7867-bbca-4568-9c31-0885f9f76282"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 16,
+      "name": "ロレッタ海岸 10-16",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d0e06239-0392-4ffb-9c6b-9f42ce1ded2f"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "732f8f3f-c24a-425a-b844-53bdcbfb4101"
+        },
+        {
+          "dropRate": "Low",
+          "id": "fba51908-5f80-4265-8bb6-a86a163f3ffb"
+        }
+      ]
+    },
+    {
+      "area": 10,
+      "stage": 17,
+      "name": "ロレッタ海岸 10-17",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0c9576d5-2331-4c75-ad57-01ef1b02df97"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "59f7344a-a621-4dd0-a478-db26ad693303"
+        },
+        {
+          "dropRate": "Low",
+          "id": "f7ae5836-016a-4034-980d-fd6f6cfe75b9"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 1,
+      "name": "ゲアヌ砂漠 11-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "59f7344a-a621-4dd0-a478-db26ad693303"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "0c9576d5-2331-4c75-ad57-01ef1b02df97"
+        },
+        {
+          "dropRate": "Low",
+          "id": "f7ae5836-016a-4034-980d-fd6f6cfe75b9"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 2,
+      "name": "ゲアヌ砂漠 11-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "f8c3948d-51dc-4cec-b617-a252df13f5b5"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "a6c4769e-b58d-4fb6-bd52-c01acb662333"
+        },
+        {
+          "dropRate": "Low",
+          "id": "c137e468-467b-4887-91b9-61b81a90aa2d"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 3,
+      "name": "ゲアヌ砂漠 11-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d0e06239-0392-4ffb-9c6b-9f42ce1ded2f"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "732f8f3f-c24a-425a-b844-53bdcbfb4101"
+        },
+        {
+          "dropRate": "Low",
+          "id": "fba51908-5f80-4265-8bb6-a86a163f3ffb"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 4,
+      "name": "ゲアヌ砂漠 11-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d7ca73ee-de02-476d-98c5-f30bbba1f4be"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "0c9576d5-2331-4c75-ad57-01ef1b02df97"
+        },
+        {
+          "dropRate": "Low",
+          "id": "a6c4769e-b58d-4fb6-bd52-c01acb662333"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 5,
+      "name": "ゲアヌ砂漠 11-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "4e6050a0-6bc3-41a5-aaea-09b2a3c20933"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "24b34e34-47cf-4a91-af21-dee0f1aa38dd"
+        },
+        {
+          "dropRate": "Low",
+          "id": "59f7344a-a621-4dd0-a478-db26ad693303"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 6,
+      "name": "ゲアヌ砂漠 11-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "9fcdb8dd-31fd-4635-a8b9-5bf114473441"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "62bd044e-17b9-45c7-9e79-0dfe521afb81"
+        },
+        {
+          "dropRate": "Low",
+          "id": "f8c3948d-51dc-4cec-b617-a252df13f5b5"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 7,
+      "name": "ゲアヌ砂漠 11-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "4940bbbc-3633-45f4-8afb-07cf2261436f"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "8b380fe7-0c02-43d8-aa7a-9ce52e9e6556"
+        },
+        {
+          "dropRate": "Low",
+          "id": "f7ae5836-016a-4034-980d-fd6f6cfe75b9"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 8,
+      "name": "ゲアヌ砂漠 11-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "3522d8e6-d575-46e4-bd23-aeec955fecc1"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c1ce4da0-cf7f-4ab0-a485-e561e5b42716"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d0e06239-0392-4ffb-9c6b-9f42ce1ded2f"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 9,
+      "name": "ゲアヌ砂漠 11-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d7ca73ee-de02-476d-98c5-f30bbba1f4be"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "59f7344a-a621-4dd0-a478-db26ad693303"
+        },
+        {
+          "dropRate": "Low",
+          "id": "c137e468-467b-4887-91b9-61b81a90aa2d"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 10,
+      "name": "ゲアヌ砂漠 11-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "4e6050a0-6bc3-41a5-aaea-09b2a3c20933"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "a6c4769e-b58d-4fb6-bd52-c01acb662333"
+        },
+        {
+          "dropRate": "Low",
+          "id": "732f8f3f-c24a-425a-b844-53bdcbfb4101"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 11,
+      "name": "ゲアヌ砂漠 11-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "24b34e34-47cf-4a91-af21-dee0f1aa38dd"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f8c3948d-51dc-4cec-b617-a252df13f5b5"
+        },
+        {
+          "dropRate": "Low",
+          "id": "fba51908-5f80-4265-8bb6-a86a163f3ffb"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 12,
+      "name": "ゲアヌ砂漠 11-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "9fcdb8dd-31fd-4635-a8b9-5bf114473441"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f7ae5836-016a-4034-980d-fd6f6cfe75b9"
+        },
+        {
+          "dropRate": "Low",
+          "id": "59f7344a-a621-4dd0-a478-db26ad693303"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 13,
+      "name": "ゲアヌ砂漠 11-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "62bd044e-17b9-45c7-9e79-0dfe521afb81"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "732f8f3f-c24a-425a-b844-53bdcbfb4101"
+        },
+        {
+          "dropRate": "Low",
+          "id": "a6c4769e-b58d-4fb6-bd52-c01acb662333"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 14,
+      "name": "ゲアヌ砂漠 11-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "4940bbbc-3633-45f4-8afb-07cf2261436f"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c137e468-467b-4887-91b9-61b81a90aa2d"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0c9576d5-2331-4c75-ad57-01ef1b02df97"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 15,
+      "name": "ゲアヌ砂漠 11-15",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "8b380fe7-0c02-43d8-aa7a-9ce52e9e6556"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d0e06239-0392-4ffb-9c6b-9f42ce1ded2f"
+        },
+        {
+          "dropRate": "Low",
+          "id": "f7ae5836-016a-4034-980d-fd6f6cfe75b9"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 16,
+      "name": "ゲアヌ砂漠 11-16",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "3522d8e6-d575-46e4-bd23-aeec955fecc1"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "fba51908-5f80-4265-8bb6-a86a163f3ffb"
+        },
+        {
+          "dropRate": "Low",
+          "id": "f8c3948d-51dc-4cec-b617-a252df13f5b5"
+        }
+      ]
+    },
+    {
+      "area": 11,
+      "stage": 17,
+      "name": "ゲアヌ砂漠 11-17",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "c1ce4da0-cf7f-4ab0-a485-e561e5b42716"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c137e468-467b-4887-91b9-61b81a90aa2d"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d0e06239-0392-4ffb-9c6b-9f42ce1ded2f"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 1,
+      "name": "ボルニア砂丘 12-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "62bd044e-17b9-45c7-9e79-0dfe521afb81"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "9fcdb8dd-31fd-4635-a8b9-5bf114473441"
+        },
+        {
+          "dropRate": "Low",
+          "id": "59f7344a-a621-4dd0-a478-db26ad693303"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 2,
+      "name": "ボルニア砂丘 12-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "4940bbbc-3633-45f4-8afb-07cf2261436f"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "4e6050a0-6bc3-41a5-aaea-09b2a3c20933"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0c9576d5-2331-4c75-ad57-01ef1b02df97"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 3,
+      "name": "ボルニア砂丘 12-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "24b34e34-47cf-4a91-af21-dee0f1aa38dd"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "3522d8e6-d575-46e4-bd23-aeec955fecc1"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d0e06239-0392-4ffb-9c6b-9f42ce1ded2f"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 4,
+      "name": "ボルニア砂丘 12-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "fa54f78a-2764-4317-ac7a-8e4bccf785a8"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d7ca73ee-de02-476d-98c5-f30bbba1f4be"
+        },
+        {
+          "dropRate": "Low",
+          "id": "732f8f3f-c24a-425a-b844-53bdcbfb4101"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 5,
+      "name": "ボルニア砂丘 12-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "b798e434-db7b-43b5-9133-959f0e390441"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "18cc7616-79d4-4819-bee5-c139f5fa4938"
+        },
+        {
+          "dropRate": "Low",
+          "id": "f7ae5836-016a-4034-980d-fd6f6cfe75b9"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 6,
+      "name": "ボルニア砂丘 12-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0359a77f-d696-4be6-8f7a-8327040e5764"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "1d669040-94d2-41eb-950d-41d5a05aec48"
+        },
+        {
+          "dropRate": "Low",
+          "id": "fba51908-5f80-4265-8bb6-a86a163f3ffb"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 7,
+      "name": "ボルニア砂丘 12-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "169960b1-8d15-4d8b-bd0a-7771f8384f1e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "fa54f78a-2764-4317-ac7a-8e4bccf785a8"
+        },
+        {
+          "dropRate": "Low",
+          "id": "c137e468-467b-4887-91b9-61b81a90aa2d"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 8,
+      "name": "ボルニア砂丘 12-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1d669040-94d2-41eb-950d-41d5a05aec48"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "b798e434-db7b-43b5-9133-959f0e390441"
+        },
+        {
+          "dropRate": "Low",
+          "id": "8b380fe7-0c02-43d8-aa7a-9ce52e9e6556"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 9,
+      "name": "ボルニア砂丘 12-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "18cc7616-79d4-4819-bee5-c139f5fa4938"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "169960b1-8d15-4d8b-bd0a-7771f8384f1e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "c1ce4da0-cf7f-4ab0-a485-e561e5b42716"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 10,
+      "name": "ボルニア砂丘 12-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "b798e434-db7b-43b5-9133-959f0e390441"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f7aaa389-f86b-4a72-ac47-cd05d7844031"
+        },
+        {
+          "dropRate": "Low",
+          "id": "9fcdb8dd-31fd-4635-a8b9-5bf114473441"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 11,
+      "name": "ボルニア砂丘 12-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0359a77f-d696-4be6-8f7a-8327040e5764"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "9b4888d1-dc2e-4bd8-a702-d90edacff75b"
+        },
+        {
+          "dropRate": "Low",
+          "id": "24b34e34-47cf-4a91-af21-dee0f1aa38dd"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 12,
+      "name": "ボルニア砂丘 12-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "18cc7616-79d4-4819-bee5-c139f5fa4938"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "549cfd6e-8b18-47b9-901e-708154aa5e86"
+        },
+        {
+          "dropRate": "Low",
+          "id": "4940bbbc-3633-45f4-8afb-07cf2261436f"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 13,
+      "name": "ボルニア砂丘 12-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "169960b1-8d15-4d8b-bd0a-7771f8384f1e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "9b4888d1-dc2e-4bd8-a702-d90edacff75b"
+        },
+        {
+          "dropRate": "Low",
+          "id": "4e6050a0-6bc3-41a5-aaea-09b2a3c20933"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 14,
+      "name": "ボルニア砂丘 12-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1d669040-94d2-41eb-950d-41d5a05aec48"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f7aaa389-f86b-4a72-ac47-cd05d7844031"
+        },
+        {
+          "dropRate": "Low",
+          "id": "62bd044e-17b9-45c7-9e79-0dfe521afb81"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 15,
+      "name": "ボルニア砂丘 12-15",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "fa54f78a-2764-4317-ac7a-8e4bccf785a8"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "9b4888d1-dc2e-4bd8-a702-d90edacff75b"
+        },
+        {
+          "dropRate": "Low",
+          "id": "3522d8e6-d575-46e4-bd23-aeec955fecc1"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 16,
+      "name": "ボルニア砂丘 12-16",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "18cc7616-79d4-4819-bee5-c139f5fa4938"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "549cfd6e-8b18-47b9-901e-708154aa5e86"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d7ca73ee-de02-476d-98c5-f30bbba1f4be"
+        }
+      ]
+    },
+    {
+      "area": 12,
+      "stage": 17,
+      "name": "ボルニア砂丘 12-17",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0359a77f-d696-4be6-8f7a-8327040e5764"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f7aaa389-f86b-4a72-ac47-cd05d7844031"
+        },
+        {
+          "dropRate": "Low",
+          "id": "8b380fe7-0c02-43d8-aa7a-9ce52e9e6556"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 1,
+      "name": "ドロテア湿地 13-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0359a77f-d696-4be6-8f7a-8327040e5764"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "b798e434-db7b-43b5-9133-959f0e390441"
+        },
+        {
+          "dropRate": "Low",
+          "id": "9b4888d1-dc2e-4bd8-a702-d90edacff75b"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 2,
+      "name": "ドロテア湿地 13-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "169960b1-8d15-4d8b-bd0a-7771f8384f1e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "18cc7616-79d4-4819-bee5-c139f5fa4938"
+        },
+        {
+          "dropRate": "Low",
+          "id": "f7aaa389-f86b-4a72-ac47-cd05d7844031"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 3,
+      "name": "ドロテア湿地 13-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1d669040-94d2-41eb-950d-41d5a05aec48"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "fa54f78a-2764-4317-ac7a-8e4bccf785a8"
+        },
+        {
+          "dropRate": "Low",
+          "id": "549cfd6e-8b18-47b9-901e-708154aa5e86"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 4,
+      "name": "ドロテア湿地 13-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "c530f52e-8db1-492a-b108-0654f3492a20"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "b798e434-db7b-43b5-9133-959f0e390441"
+        },
+        {
+          "dropRate": "Low",
+          "id": "18cc7616-79d4-4819-bee5-c139f5fa4938"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 5,
+      "name": "ドロテア湿地 13-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "e93d3287-2121-4765-8565-631e489d64ef"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "75291f96-325d-455e-93ea-e1aa7336175c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0359a77f-d696-4be6-8f7a-8327040e5764"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 6,
+      "name": "ドロテア湿地 13-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0d8cfea8-d020-4afc-b0bf-686e2b28beb2"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f8d18af6-6143-49f5-97d0-a89b09f9e09f"
+        },
+        {
+          "dropRate": "Low",
+          "id": "169960b1-8d15-4d8b-bd0a-7771f8384f1e"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 7,
+      "name": "ドロテア湿地 13-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0a0152e8-2141-48d3-9be5-5b889be61d06"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "9bfca78b-2753-4bd1-9406-6f2721b05fad"
+        },
+        {
+          "dropRate": "Low",
+          "id": "9b4888d1-dc2e-4bd8-a702-d90edacff75b"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 8,
+      "name": "ドロテア湿地 13-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0fde71f4-d997-4277-b17e-4ea5bf33c90f"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "77a6a49e-ce2b-4f6e-91af-18945f7b661e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1d669040-94d2-41eb-950d-41d5a05aec48"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 9,
+      "name": "ドロテア湿地 13-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "c530f52e-8db1-492a-b108-0654f3492a20"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "0359a77f-d696-4be6-8f7a-8327040e5764"
+        },
+        {
+          "dropRate": "Low",
+          "id": "f7aaa389-f86b-4a72-ac47-cd05d7844031"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 10,
+      "name": "ドロテア湿地 13-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "e93d3287-2121-4765-8565-631e489d64ef"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "18cc7616-79d4-4819-bee5-c139f5fa4938"
+        },
+        {
+          "dropRate": "Low",
+          "id": "fa54f78a-2764-4317-ac7a-8e4bccf785a8"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 11,
+      "name": "ドロテア湿地 13-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "75291f96-325d-455e-93ea-e1aa7336175c"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "169960b1-8d15-4d8b-bd0a-7771f8384f1e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "549cfd6e-8b18-47b9-901e-708154aa5e86"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 12,
+      "name": "ドロテア湿地 13-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0d8cfea8-d020-4afc-b0bf-686e2b28beb2"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "9b4888d1-dc2e-4bd8-a702-d90edacff75b"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0359a77f-d696-4be6-8f7a-8327040e5764"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 13,
+      "name": "ドロテア湿地 13-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "f8d18af6-6143-49f5-97d0-a89b09f9e09f"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "fa54f78a-2764-4317-ac7a-8e4bccf785a8"
+        },
+        {
+          "dropRate": "Low",
+          "id": "18cc7616-79d4-4819-bee5-c139f5fa4938"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 14,
+      "name": "ドロテア湿地 13-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0a0152e8-2141-48d3-9be5-5b889be61d06"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f7aaa389-f86b-4a72-ac47-cd05d7844031"
+        },
+        {
+          "dropRate": "Low",
+          "id": "b798e434-db7b-43b5-9133-959f0e390441"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 15,
+      "name": "ドロテア湿地 13-15",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "9bfca78b-2753-4bd1-9406-6f2721b05fad"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "1d669040-94d2-41eb-950d-41d5a05aec48"
+        },
+        {
+          "dropRate": "Low",
+          "id": "9b4888d1-dc2e-4bd8-a702-d90edacff75b"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 16,
+      "name": "ドロテア湿地 13-16",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0fde71f4-d997-4277-b17e-4ea5bf33c90f"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "549cfd6e-8b18-47b9-901e-708154aa5e86"
+        },
+        {
+          "dropRate": "Low",
+          "id": "169960b1-8d15-4d8b-bd0a-7771f8384f1e"
+        }
+      ]
+    },
+    {
+      "area": 13,
+      "stage": 17,
+      "name": "ドロテア湿地 13-17",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "77a6a49e-ce2b-4f6e-91af-18945f7b661e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f7aaa389-f86b-4a72-ac47-cd05d7844031"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1d669040-94d2-41eb-950d-41d5a05aec48"
+        }
+      ]
+    },
+    {
+      "area": 14,
+      "stage": 1,
+      "name": "ウジュニア熱地 14-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0d8cfea8-d020-4afc-b0bf-686e2b28beb2"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "75291f96-325d-455e-93ea-e1aa7336175c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "e93d3287-2121-4765-8565-631e489d64ef"
+        }
+      ]
+    },
+    {
+      "area": 14,
+      "stage": 2,
+      "name": "ウジュニア熱地 14-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0fde71f4-d997-4277-b17e-4ea5bf33c90f"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "9bfca78b-2753-4bd1-9406-6f2721b05fad"
+        },
+        {
+          "dropRate": "Low",
+          "id": "f8d18af6-6143-49f5-97d0-a89b09f9e09f"
+        }
+      ]
+    },
+    {
+      "area": 14,
+      "stage": 3,
+      "name": "ウジュニア熱地 14-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "0a0152e8-2141-48d3-9be5-5b889be61d06"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c530f52e-8db1-492a-b108-0654f3492a20"
+        },
+        {
+          "dropRate": "Low",
+          "id": "b798e434-db7b-43b5-9133-959f0e390441"
+        }
+      ]
+    },
+    {
+      "area": 14,
+      "stage": 4,
+      "name": "ウジュニア熱地 14-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "369d6ee2-da21-4f87-812d-8ba7fb2ea8fc"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "77a6a49e-ce2b-4f6e-91af-18945f7b661e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0359a77f-d696-4be6-8f7a-8327040e5764"
+        }
+      ]
+    },
+    {
+      "area": 14,
+      "stage": 5,
+      "name": "ウジュニア熱地 14-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "ef5d60cc-5cb9-479f-89e4-5824b269f65e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "0a0152e8-2141-48d3-9be5-5b889be61d06"
+        },
+        {
+          "dropRate": "Low",
+          "id": "169960b1-8d15-4d8b-bd0a-7771f8384f1e"
+        }
+      ]
+    },
+    {
+      "area": 14,
+      "stage": 6,
+      "name": "ウジュニア熱地 14-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "c50f6643-97a8-447e-ab68-80a68eef6b19"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "e93d3287-2121-4765-8565-631e489d64ef"
+        },
+        {
+          "dropRate": "Low",
+          "id": "fa54f78a-2764-4317-ac7a-8e4bccf785a8"
+        }
+      ]
+    },
+    {
+      "area": 14,
+      "stage": 7,
+      "name": "ウジュニア熱地 14-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "f3c9b1de-17c2-4e8a-90c4-93b3156b918b"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "0fde71f4-d997-4277-b17e-4ea5bf33c90f"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1d669040-94d2-41eb-950d-41d5a05aec48"
+        }
+      ]
+    },
+    {
+      "area": 14,
+      "stage": 8,
+      "name": "ウジュニア熱地 14-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "369d6ee2-da21-4f87-812d-8ba7fb2ea8fc"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "9bfca78b-2753-4bd1-9406-6f2721b05fad"
+        },
+        {
+          "dropRate": "Low",
+          "id": "9b4888d1-dc2e-4bd8-a702-d90edacff75b"
+        }
+      ]
+    },
+    {
+      "area": 14,
+      "stage": 9,
+      "name": "ウジュニア熱地 14-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "ef5d60cc-5cb9-479f-89e4-5824b269f65e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "75291f96-325d-455e-93ea-e1aa7336175c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "f7aaa389-f86b-4a72-ac47-cd05d7844031"
+        }
+      ]
+    },
+    {
+      "area": 14,
+      "stage": 10,
+      "name": "ウジュニア熱地 14-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "c50f6643-97a8-447e-ab68-80a68eef6b19"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f8d18af6-6143-49f5-97d0-a89b09f9e09f"
+        },
+        {
+          "dropRate": "Low",
+          "id": "549cfd6e-8b18-47b9-901e-708154aa5e86"
+        }
+      ]
+    },
+    {
+      "area": 14,
+      "stage": 11,
+      "name": "ウジュニア熱地 14-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "f3c9b1de-17c2-4e8a-90c4-93b3156b918b"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c530f52e-8db1-492a-b108-0654f3492a20"
+        },
+        {
+          "dropRate": "Low",
+          "id": "9b4888d1-dc2e-4bd8-a702-d90edacff75b"
+        }
+      ]
+    },
+    {
+      "area": 14,
+      "stage": 12,
+      "name": "ウジュニア熱地 14-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "c50f6643-97a8-447e-ab68-80a68eef6b19"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "ef5d60cc-5cb9-479f-89e4-5824b269f65e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0a0152e8-2141-48d3-9be5-5b889be61d06"
+        }
+      ]
+    },
+    {
+      "area": 14,
+      "stage": 13,
+      "name": "ウジュニア熱地 14-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "f3c9b1de-17c2-4e8a-90c4-93b3156b918b"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c50f6643-97a8-447e-ab68-80a68eef6b19"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0fde71f4-d997-4277-b17e-4ea5bf33c90f"
+        }
+      ]
+    },
+    {
+      "area": 14,
+      "stage": 14,
+      "name": "ウジュニア熱地 14-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "369d6ee2-da21-4f87-812d-8ba7fb2ea8fc"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f3c9b1de-17c2-4e8a-90c4-93b3156b918b"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0d8cfea8-d020-4afc-b0bf-686e2b28beb2"
+        }
+      ]
+    },
+    {
+      "area": 15,
+      "stage": 1,
+      "name": "タリア火山 15-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "c50f6643-97a8-447e-ab68-80a68eef6b19"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "77a6a49e-ce2b-4f6e-91af-18945f7b661e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "e93d3287-2121-4765-8565-631e489d64ef"
+        }
+      ]
+    },
+    {
+      "area": 15,
+      "stage": 2,
+      "name": "タリア火山 15-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "ef5d60cc-5cb9-479f-89e4-5824b269f65e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "9bfca78b-2753-4bd1-9406-6f2721b05fad"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0a0152e8-2141-48d3-9be5-5b889be61d06"
+        }
+      ]
+    },
+    {
+      "area": 15,
+      "stage": 3,
+      "name": "タリア火山 15-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "369d6ee2-da21-4f87-812d-8ba7fb2ea8fc"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f8d18af6-6143-49f5-97d0-a89b09f9e09f"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0d8cfea8-d020-4afc-b0bf-686e2b28beb2"
+        }
+      ]
+    },
+    {
+      "area": 15,
+      "stage": 4,
+      "name": "タリア火山 15-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "416fcde2-e9a1-45c7-bd9a-a3523c7c9130"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f3c9b1de-17c2-4e8a-90c4-93b3156b918b"
+        },
+        {
+          "dropRate": "Low",
+          "id": "e93d3287-2121-4765-8565-631e489d64ef"
+        }
+      ]
+    },
+    {
+      "area": 15,
+      "stage": 5,
+      "name": "タリア火山 15-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "21452e82-15d0-4023-aac1-15fc8e1c31ef"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "c50f6643-97a8-447e-ab68-80a68eef6b19"
+        },
+        {
+          "dropRate": "Low",
+          "id": "c530f52e-8db1-492a-b108-0654f3492a20"
+        }
+      ]
+    },
+    {
+      "area": 15,
+      "stage": 6,
+      "name": "タリア火山 15-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "646e038e-076c-48a4-abd5-48d930cda2a6"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "ef5d60cc-5cb9-479f-89e4-5824b269f65e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "75291f96-325d-455e-93ea-e1aa7336175c"
+        }
+      ]
+    },
+    {
+      "area": 15,
+      "stage": 7,
+      "name": "タリア火山 15-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "70ccb7c0-8eb8-4d59-8da6-3bd2ce6a48c7"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "369d6ee2-da21-4f87-812d-8ba7fb2ea8fc"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0d8cfea8-d020-4afc-b0bf-686e2b28beb2"
+        }
+      ]
+    },
+    {
+      "area": 15,
+      "stage": 8,
+      "name": "タリア火山 15-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "45d4fdf8-7c7f-4bbf-9403-85fe68688025"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "f3c9b1de-17c2-4e8a-90c4-93b3156b918b"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0fde71f4-d997-4277-b17e-4ea5bf33c90f"
+        }
+      ]
+    },
+    {
+      "area": 15,
+      "stage": 9,
+      "name": "タリア火山 15-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "050c2462-1dcf-4e88-957d-af8f6b01ae0a"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "ef5d60cc-5cb9-479f-89e4-5824b269f65e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "0a0152e8-2141-48d3-9be5-5b889be61d06"
+        }
+      ]
+    },
+    {
+      "area": 15,
+      "stage": 10,
+      "name": "タリア火山 15-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "45d4fdf8-7c7f-4bbf-9403-85fe68688025"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "646e038e-076c-48a4-abd5-48d930cda2a6"
+        },
+        {
+          "dropRate": "Low",
+          "id": "c50f6643-97a8-447e-ab68-80a68eef6b19"
+        }
+      ]
+    },
+    {
+      "area": 15,
+      "stage": 11,
+      "name": "タリア火山 15-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "416fcde2-e9a1-45c7-bd9a-a3523c7c9130"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "21452e82-15d0-4023-aac1-15fc8e1c31ef"
+        },
+        {
+          "dropRate": "Low",
+          "id": "369d6ee2-da21-4f87-812d-8ba7fb2ea8fc"
+        }
+      ]
+    },
+    {
+      "area": 15,
+      "stage": 12,
+      "name": "タリア火山 15-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "646e038e-076c-48a4-abd5-48d930cda2a6"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "050c2462-1dcf-4e88-957d-af8f6b01ae0a"
+        },
+        {
+          "dropRate": "Low",
+          "id": "ef5d60cc-5cb9-479f-89e4-5824b269f65e"
+        }
+      ]
+    },
+    {
+      "area": 15,
+      "stage": 13,
+      "name": "タリア火山 15-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "70ccb7c0-8eb8-4d59-8da6-3bd2ce6a48c7"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "416fcde2-e9a1-45c7-bd9a-a3523c7c9130"
+        },
+        {
+          "dropRate": "Low",
+          "id": "369d6ee2-da21-4f87-812d-8ba7fb2ea8fc"
+        }
+      ]
+    },
+    {
+      "area": 15,
+      "stage": 14,
+      "name": "タリア火山 15-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "21452e82-15d0-4023-aac1-15fc8e1c31ef"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "45d4fdf8-7c7f-4bbf-9403-85fe68688025"
+        },
+        {
+          "dropRate": "Low",
+          "id": "f3c9b1de-17c2-4e8a-90c4-93b3156b918b"
+        }
+      ]
+    },
+    {
+      "area": 16,
+      "stage": 1,
+      "name": "テミス銀嶺 16-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "70ccb7c0-8eb8-4d59-8da6-3bd2ce6a48c7"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "050c2462-1dcf-4e88-957d-af8f6b01ae0a"
+        },
+        {
+          "dropRate": "Low",
+          "id": "369d6ee2-da21-4f87-812d-8ba7fb2ea8fc"
+        }
+      ]
+    },
+    {
+      "area": 16,
+      "stage": 2,
+      "name": "テミス銀嶺 16-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "646e038e-076c-48a4-abd5-48d930cda2a6"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "45d4fdf8-7c7f-4bbf-9403-85fe68688025"
+        },
+        {
+          "dropRate": "Low",
+          "id": "ef5d60cc-5cb9-479f-89e4-5824b269f65e"
+        }
+      ]
+    },
+    {
+      "area": 16,
+      "stage": 3,
+      "name": "テミス銀嶺 16-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "21452e82-15d0-4023-aac1-15fc8e1c31ef"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "70ccb7c0-8eb8-4d59-8da6-3bd2ce6a48c7"
+        },
+        {
+          "dropRate": "Low",
+          "id": "c50f6643-97a8-447e-ab68-80a68eef6b19"
+        }
+      ]
+    },
+    {
+      "area": 16,
+      "stage": 4,
+      "name": "テミス銀嶺 16-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "840a8545-f22b-4fe3-ac84-fc441efefaef"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "050c2462-1dcf-4e88-957d-af8f6b01ae0a"
+        },
+        {
+          "dropRate": "Low",
+          "id": "45d4fdf8-7c7f-4bbf-9403-85fe68688025"
+        }
+      ]
+    },
+    {
+      "area": 16,
+      "stage": 5,
+      "name": "テミス銀嶺 16-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "a9e0b4b7-9750-44d3-87ea-345911082f5c"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "90d18568-10b5-4df5-a908-fd62435fa737"
+        },
+        {
+          "dropRate": "Low",
+          "id": "416fcde2-e9a1-45c7-bd9a-a3523c7c9130"
+        }
+      ]
+    },
+    {
+      "area": 16,
+      "stage": 6,
+      "name": "テミス銀嶺 16-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "917a5fbd-9393-4ac0-82e7-d08382d358cb"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "b0f34900-0e61-4ade-bed4-d5aba6f13c5d"
+        },
+        {
+          "dropRate": "Low",
+          "id": "646e038e-076c-48a4-abd5-48d930cda2a6"
+        }
+      ]
+    },
+    {
+      "area": 16,
+      "stage": 7,
+      "name": "テミス銀嶺 16-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "917e21dc-e199-4482-932b-609cca5043be"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "19841bc8-51f3-4161-8d78-1127b492a4c6"
+        },
+        {
+          "dropRate": "Low",
+          "id": "369d6ee2-da21-4f87-812d-8ba7fb2ea8fc"
+        }
+      ]
+    },
+    {
+      "area": 16,
+      "stage": 8,
+      "name": "テミス銀嶺 16-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "cf5779f0-67d3-4f6d-b4f5-ec758aed0948"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "9921987a-0e1b-4359-b4a3-b3829362f7da"
+        },
+        {
+          "dropRate": "Low",
+          "id": "21452e82-15d0-4023-aac1-15fc8e1c31ef"
+        }
+      ]
+    },
+    {
+      "area": 16,
+      "stage": 9,
+      "name": "テミス銀嶺 16-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "840a8545-f22b-4fe3-ac84-fc441efefaef"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "416fcde2-e9a1-45c7-bd9a-a3523c7c9130"
+        },
+        {
+          "dropRate": "Low",
+          "id": "ef5d60cc-5cb9-479f-89e4-5824b269f65e"
+        }
+      ]
+    },
+    {
+      "area": 16,
+      "stage": 10,
+      "name": "テミス銀嶺 16-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "19841bc8-51f3-4161-8d78-1127b492a4c6"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "45d4fdf8-7c7f-4bbf-9403-85fe68688025"
+        },
+        {
+          "dropRate": "Low",
+          "id": "70ccb7c0-8eb8-4d59-8da6-3bd2ce6a48c7"
+        }
+      ]
+    },
+    {
+      "area": 16,
+      "stage": 11,
+      "name": "テミス銀嶺 16-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "90d18568-10b5-4df5-a908-fd62435fa737"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "646e038e-076c-48a4-abd5-48d930cda2a6"
+        },
+        {
+          "dropRate": "Low",
+          "id": "c50f6643-97a8-447e-ab68-80a68eef6b19"
+        }
+      ]
+    },
+    {
+      "area": 16,
+      "stage": 12,
+      "name": "テミス銀嶺 16-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "917a5fbd-9393-4ac0-82e7-d08382d358cb"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "369d6ee2-da21-4f87-812d-8ba7fb2ea8fc"
+        },
+        {
+          "dropRate": "Low",
+          "id": "416fcde2-e9a1-45c7-bd9a-a3523c7c9130"
+        }
+      ]
+    },
+    {
+      "area": 16,
+      "stage": 13,
+      "name": "テミス銀嶺 16-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "9921987a-0e1b-4359-b4a3-b3829362f7da"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "70ccb7c0-8eb8-4d59-8da6-3bd2ce6a48c7"
+        },
+        {
+          "dropRate": "Low",
+          "id": "45d4fdf8-7c7f-4bbf-9403-85fe68688025"
+        }
+      ]
+    },
+    {
+      "area": 16,
+      "stage": 14,
+      "name": "テミス銀嶺 16-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "917e21dc-e199-4482-932b-609cca5043be"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "ef5d60cc-5cb9-479f-89e4-5824b269f65e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "050c2462-1dcf-4e88-957d-af8f6b01ae0a"
+        }
+      ]
+    },
+    {
+      "area": 17,
+      "stage": 1,
+      "name": "フィデス氷原 17-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "a9e0b4b7-9750-44d3-87ea-345911082f5c"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "840a8545-f22b-4fe3-ac84-fc441efefaef"
+        },
+        {
+          "dropRate": "Low",
+          "id": "70ccb7c0-8eb8-4d59-8da6-3bd2ce6a48c7"
+        }
+      ]
+    },
+    {
+      "area": 17,
+      "stage": 2,
+      "name": "フィデス氷原 17-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "b0f34900-0e61-4ade-bed4-d5aba6f13c5d"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "90d18568-10b5-4df5-a908-fd62435fa737"
+        },
+        {
+          "dropRate": "Low",
+          "id": "21452e82-15d0-4023-aac1-15fc8e1c31ef"
+        }
+      ]
+    },
+    {
+      "area": 17,
+      "stage": 3,
+      "name": "フィデス氷原 17-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "cf5779f0-67d3-4f6d-b4f5-ec758aed0948"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "917e21dc-e199-4482-932b-609cca5043be"
+        },
+        {
+          "dropRate": "Low",
+          "id": "45d4fdf8-7c7f-4bbf-9403-85fe68688025"
+        }
+      ]
+    },
+    {
+      "area": 17,
+      "stage": 4,
+      "name": "フィデス氷原 17-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d3733170-68c7-4811-853d-d9f0cba0b7e4"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "917a5fbd-9393-4ac0-82e7-d08382d358cb"
+        },
+        {
+          "dropRate": "Low",
+          "id": "050c2462-1dcf-4e88-957d-af8f6b01ae0a"
+        }
+      ]
+    },
+    {
+      "area": 17,
+      "stage": 5,
+      "name": "フィデス氷原 17-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "e8b30af3-4858-4def-abaa-e0b0ecd7c228"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "19841bc8-51f3-4161-8d78-1127b492a4c6"
+        },
+        {
+          "dropRate": "Low",
+          "id": "416fcde2-e9a1-45c7-bd9a-a3523c7c9130"
+        }
+      ]
+    },
+    {
+      "area": 17,
+      "stage": 6,
+      "name": "フィデス氷原 17-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "a34180aa-ea4c-43ea-b3e3-cb2323c534ac"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "9921987a-0e1b-4359-b4a3-b3829362f7da"
+        },
+        {
+          "dropRate": "Low",
+          "id": "646e038e-076c-48a4-abd5-48d930cda2a6"
+        }
+      ]
+    },
+    {
+      "area": 17,
+      "stage": 7,
+      "name": "フィデス氷原 17-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d3733170-68c7-4811-853d-d9f0cba0b7e4"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "a9e0b4b7-9750-44d3-87ea-345911082f5c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "70ccb7c0-8eb8-4d59-8da6-3bd2ce6a48c7"
+        }
+      ]
+    },
+    {
+      "area": 17,
+      "stage": 8,
+      "name": "フィデス氷原 17-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "e8b30af3-4858-4def-abaa-e0b0ecd7c228"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "cf5779f0-67d3-4f6d-b4f5-ec758aed0948"
+        },
+        {
+          "dropRate": "Low",
+          "id": "21452e82-15d0-4023-aac1-15fc8e1c31ef"
+        }
+      ]
+    },
+    {
+      "area": 17,
+      "stage": 9,
+      "name": "フィデス氷原 17-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "a34180aa-ea4c-43ea-b3e3-cb2323c534ac"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "b0f34900-0e61-4ade-bed4-d5aba6f13c5d"
+        },
+        {
+          "dropRate": "Low",
+          "id": "45d4fdf8-7c7f-4bbf-9403-85fe68688025"
+        }
+      ]
+    },
+    {
+      "area": 17,
+      "stage": 10,
+      "name": "フィデス氷原 17-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d3733170-68c7-4811-853d-d9f0cba0b7e4"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "19841bc8-51f3-4161-8d78-1127b492a4c6"
+        },
+        {
+          "dropRate": "Low",
+          "id": "050c2462-1dcf-4e88-957d-af8f6b01ae0a"
+        }
+      ]
+    },
+    {
+      "area": 17,
+      "stage": 11,
+      "name": "フィデス氷原 17-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "e8b30af3-4858-4def-abaa-e0b0ecd7c228"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "840a8545-f22b-4fe3-ac84-fc441efefaef"
+        },
+        {
+          "dropRate": "Low",
+          "id": "21452e82-15d0-4023-aac1-15fc8e1c31ef"
+        }
+      ]
+    },
+    {
+      "area": 17,
+      "stage": 12,
+      "name": "フィデス氷原 17-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "a34180aa-ea4c-43ea-b3e3-cb2323c534ac"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d3733170-68c7-4811-853d-d9f0cba0b7e4"
+        },
+        {
+          "dropRate": "Low",
+          "id": "917a5fbd-9393-4ac0-82e7-d08382d358cb"
+        }
+      ]
+    },
+    {
+      "area": 17,
+      "stage": 13,
+      "name": "フィデス氷原 17-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d3733170-68c7-4811-853d-d9f0cba0b7e4"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "e8b30af3-4858-4def-abaa-e0b0ecd7c228"
+        },
+        {
+          "dropRate": "Low",
+          "id": "90d18568-10b5-4df5-a908-fd62435fa737"
+        }
+      ]
+    },
+    {
+      "area": 17,
+      "stage": 14,
+      "name": "フィデス氷原 17-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "e8b30af3-4858-4def-abaa-e0b0ecd7c228"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "a34180aa-ea4c-43ea-b3e3-cb2323c534ac"
+        },
+        {
+          "dropRate": "Low",
+          "id": "917e21dc-e199-4482-932b-609cca5043be"
+        }
+      ]
+    },
+    {
+      "area": 18,
+      "stage": 1,
+      "name": "ファエトン原野・北部 18-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "a34180aa-ea4c-43ea-b3e3-cb2323c534ac"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d3733170-68c7-4811-853d-d9f0cba0b7e4"
+        },
+        {
+          "dropRate": "Low",
+          "id": "9921987a-0e1b-4359-b4a3-b3829362f7da"
+        }
+      ]
+    },
+    {
+      "area": 18,
+      "stage": 2,
+      "name": "ファエトン原野・北部 18-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d3733170-68c7-4811-853d-d9f0cba0b7e4"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "e8b30af3-4858-4def-abaa-e0b0ecd7c228"
+        },
+        {
+          "dropRate": "Low",
+          "id": "19841bc8-51f3-4161-8d78-1127b492a4c6"
+        }
+      ]
+    },
+    {
+      "area": 18,
+      "stage": 3,
+      "name": "ファエトン原野・北部 18-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "e8b30af3-4858-4def-abaa-e0b0ecd7c228"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "a34180aa-ea4c-43ea-b3e3-cb2323c534ac"
+        },
+        {
+          "dropRate": "Low",
+          "id": "840a8545-f22b-4fe3-ac84-fc441efefaef"
+        }
+      ]
+    },
+    {
+      "area": 18,
+      "stage": 4,
+      "name": "ファエトン原野・北部 18-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1fdd6c71-acb2-4c5d-aba1-97f6679f8516"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "a34180aa-ea4c-43ea-b3e3-cb2323c534ac"
+        },
+        {
+          "dropRate": "Low",
+          "id": "a9e0b4b7-9750-44d3-87ea-345911082f5c"
+        }
+      ]
+    },
+    {
+      "area": 18,
+      "stage": 5,
+      "name": "ファエトン原野・北部 18-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "248f2201-f526-4acd-8e8c-76b87ecbd32b"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d3733170-68c7-4811-853d-d9f0cba0b7e4"
+        },
+        {
+          "dropRate": "Low",
+          "id": "cf5779f0-67d3-4f6d-b4f5-ec758aed0948"
+        }
+      ]
+    },
+    {
+      "area": 18,
+      "stage": 6,
+      "name": "ファエトン原野・北部 18-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "76237d14-f59c-4f8e-8662-d7fe48b94d0c"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "e8b30af3-4858-4def-abaa-e0b0ecd7c228"
+        },
+        {
+          "dropRate": "Low",
+          "id": "917e21dc-e199-4482-932b-609cca5043be"
+        }
+      ]
+    },
+    {
+      "area": 18,
+      "stage": 7,
+      "name": "ファエトン原野・北部 18-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "520cb77c-6e5f-499e-b087-164c4d8c225c"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "a34180aa-ea4c-43ea-b3e3-cb2323c534ac"
+        },
+        {
+          "dropRate": "Low",
+          "id": "b0f34900-0e61-4ade-bed4-d5aba6f13c5d"
+        }
+      ]
+    },
+    {
+      "area": 18,
+      "stage": 8,
+      "name": "ファエトン原野・北部 18-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "51853080-c058-4e62-a48a-9a32f2dfb23e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d3733170-68c7-4811-853d-d9f0cba0b7e4"
+        },
+        {
+          "dropRate": "Low",
+          "id": "90d18568-10b5-4df5-a908-fd62435fa737"
+        }
+      ]
+    },
+    {
+      "area": 18,
+      "stage": 9,
+      "name": "ファエトン原野・北部 18-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d4ee28c6-0e29-43e7-a6a7-13451055d6eb"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "e8b30af3-4858-4def-abaa-e0b0ecd7c228"
+        },
+        {
+          "dropRate": "Low",
+          "id": "9921987a-0e1b-4359-b4a3-b3829362f7da"
+        }
+      ]
+    },
+    {
+      "area": 18,
+      "stage": 10,
+      "name": "ファエトン原野・北部 18-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "248f2201-f526-4acd-8e8c-76b87ecbd32b"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "a34180aa-ea4c-43ea-b3e3-cb2323c534ac"
+        },
+        {
+          "dropRate": "Low",
+          "id": "917a5fbd-9393-4ac0-82e7-d08382d358cb"
+        }
+      ]
+    },
+    {
+      "area": 18,
+      "stage": 11,
+      "name": "ファエトン原野・北部 18-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "76237d14-f59c-4f8e-8662-d7fe48b94d0c"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d3733170-68c7-4811-853d-d9f0cba0b7e4"
+        },
+        {
+          "dropRate": "Low",
+          "id": "a9e0b4b7-9750-44d3-87ea-345911082f5c"
+        }
+      ]
+    },
+    {
+      "area": 18,
+      "stage": 12,
+      "name": "ファエトン原野・北部 18-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "51853080-c058-4e62-a48a-9a32f2dfb23e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "1fdd6c71-acb2-4c5d-aba1-97f6679f8516"
+        },
+        {
+          "dropRate": "Low",
+          "id": "a34180aa-ea4c-43ea-b3e3-cb2323c534ac"
+        }
+      ]
+    },
+    {
+      "area": 18,
+      "stage": 13,
+      "name": "ファエトン原野・北部 18-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d4ee28c6-0e29-43e7-a6a7-13451055d6eb"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "76237d14-f59c-4f8e-8662-d7fe48b94d0c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "e8b30af3-4858-4def-abaa-e0b0ecd7c228"
+        }
+      ]
+    },
+    {
+      "area": 18,
+      "stage": 14,
+      "name": "ファエトン原野・北部 18-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "520cb77c-6e5f-499e-b087-164c4d8c225c"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "248f2201-f526-4acd-8e8c-76b87ecbd32b"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d3733170-68c7-4811-853d-d9f0cba0b7e4"
+        }
+      ]
+    },
+    {
+      "area": 19,
+      "stage": 1,
+      "name": "ファエトン原野・南部 19-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d4ee28c6-0e29-43e7-a6a7-13451055d6eb"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "1fdd6c71-acb2-4c5d-aba1-97f6679f8516"
+        },
+        {
+          "dropRate": "Low",
+          "id": "a34180aa-ea4c-43ea-b3e3-cb2323c534ac"
+        }
+      ]
+    },
+    {
+      "area": 19,
+      "stage": 2,
+      "name": "ファエトン原野・南部 19-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "51853080-c058-4e62-a48a-9a32f2dfb23e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "520cb77c-6e5f-499e-b087-164c4d8c225c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d3733170-68c7-4811-853d-d9f0cba0b7e4"
+        }
+      ]
+    },
+    {
+      "area": 19,
+      "stage": 3,
+      "name": "ファエトン原野・南部 19-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "76237d14-f59c-4f8e-8662-d7fe48b94d0c"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "248f2201-f526-4acd-8e8c-76b87ecbd32b"
+        },
+        {
+          "dropRate": "Low",
+          "id": "e8b30af3-4858-4def-abaa-e0b0ecd7c228"
+        }
+      ]
+    },
+    {
+      "area": 19,
+      "stage": 4,
+      "name": "ファエトン原野・南部 19-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "7a2c8495-2e25-4949-939d-a652483d2eae"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d4ee28c6-0e29-43e7-a6a7-13451055d6eb"
+        },
+        {
+          "dropRate": "Low",
+          "id": "a34180aa-ea4c-43ea-b3e3-cb2323c534ac"
+        }
+      ]
+    },
+    {
+      "area": 19,
+      "stage": 5,
+      "name": "ファエトン原野・南部 19-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "ca13111f-c006-476a-a9db-59595c739d7d"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "1089da6c-ba95-434e-8570-4165e378058e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "76237d14-f59c-4f8e-8662-d7fe48b94d0c"
+        }
+      ]
+    },
+    {
+      "area": 19,
+      "stage": 6,
+      "name": "ファエトン原野・南部 19-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "467ea476-ddb4-4a42-b826-cec6a09b3564"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "46a1249b-fd69-4087-8fb0-0a13fce7080a"
+        },
+        {
+          "dropRate": "Low",
+          "id": "520cb77c-6e5f-499e-b087-164c4d8c225c"
+        }
+      ]
+    },
+    {
+      "area": 19,
+      "stage": 7,
+      "name": "ファエトン原野・南部 19-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1f4bef04-26ee-4205-8059-70e3bce05704"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "02ae56ed-54b8-4850-9762-6b665ca5c3ff"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d4ee28c6-0e29-43e7-a6a7-13451055d6eb"
+        }
+      ]
+    },
+    {
+      "area": 19,
+      "stage": 8,
+      "name": "ファエトン原野・南部 19-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "2b44ab2b-8e14-4cb9-9c63-c0d2920a7836"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "2f7e9c29-e4d9-4809-8cc2-e294014c4bb0"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1fdd6c71-acb2-4c5d-aba1-97f6679f8516"
+        }
+      ]
+    },
+    {
+      "area": 19,
+      "stage": 9,
+      "name": "ファエトン原野・南部 19-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "7a2c8495-2e25-4949-939d-a652483d2eae"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "520cb77c-6e5f-499e-b087-164c4d8c225c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "51853080-c058-4e62-a48a-9a32f2dfb23e"
+        }
+      ]
+    },
+    {
+      "area": 19,
+      "stage": 10,
+      "name": "ファエトン原野・南部 19-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1f4bef04-26ee-4205-8059-70e3bce05704"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "1fdd6c71-acb2-4c5d-aba1-97f6679f8516"
+        },
+        {
+          "dropRate": "Low",
+          "id": "248f2201-f526-4acd-8e8c-76b87ecbd32b"
+        }
+      ]
+    },
+    {
+      "area": 19,
+      "stage": 11,
+      "name": "ファエトン原野・南部 19-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "2b44ab2b-8e14-4cb9-9c63-c0d2920a7836"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d4ee28c6-0e29-43e7-a6a7-13451055d6eb"
+        },
+        {
+          "dropRate": "Low",
+          "id": "520cb77c-6e5f-499e-b087-164c4d8c225c"
+        }
+      ]
+    },
+    {
+      "area": 19,
+      "stage": 12,
+      "name": "ファエトン原野・南部 19-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "ca13111f-c006-476a-a9db-59595c739d7d"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "51853080-c058-4e62-a48a-9a32f2dfb23e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d3733170-68c7-4811-853d-d9f0cba0b7e4"
+        }
+      ]
+    },
+    {
+      "area": 19,
+      "stage": 13,
+      "name": "ファエトン原野・南部 19-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "02ae56ed-54b8-4850-9762-6b665ca5c3ff"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "248f2201-f526-4acd-8e8c-76b87ecbd32b"
+        },
+        {
+          "dropRate": "Low",
+          "id": "a34180aa-ea4c-43ea-b3e3-cb2323c534ac"
+        }
+      ]
+    },
+    {
+      "area": 19,
+      "stage": 14,
+      "name": "ファエトン原野・南部 19-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "467ea476-ddb4-4a42-b826-cec6a09b3564"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "76237d14-f59c-4f8e-8662-d7fe48b94d0c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "e8b30af3-4858-4def-abaa-e0b0ecd7c228"
+        }
+      ]
+    },
+    {
+      "area": 20,
+      "stage": 1,
+      "name": "カスタリア樹林・西部 20-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "46a1249b-fd69-4087-8fb0-0a13fce7080a"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "2f7e9c29-e4d9-4809-8cc2-e294014c4bb0"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1fdd6c71-acb2-4c5d-aba1-97f6679f8516"
+        }
+      ]
+    },
+    {
+      "area": 20,
+      "stage": 2,
+      "name": "カスタリア樹林・西部 20-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1089da6c-ba95-434e-8570-4165e378058e"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "2b44ab2b-8e14-4cb9-9c63-c0d2920a7836"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d4ee28c6-0e29-43e7-a6a7-13451055d6eb"
+        }
+      ]
+    },
+    {
+      "area": 20,
+      "stage": 3,
+      "name": "カスタリア樹林・西部 20-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1f4bef04-26ee-4205-8059-70e3bce05704"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "467ea476-ddb4-4a42-b826-cec6a09b3564"
+        },
+        {
+          "dropRate": "Low",
+          "id": "51853080-c058-4e62-a48a-9a32f2dfb23e"
+        }
+      ]
+    },
+    {
+      "area": 20,
+      "stage": 4,
+      "name": "カスタリア樹林・西部 20-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d1b8e5c7-c14f-4da8-8fcb-c407da09e03a"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "02ae56ed-54b8-4850-9762-6b665ca5c3ff"
+        },
+        {
+          "dropRate": "Low",
+          "id": "520cb77c-6e5f-499e-b087-164c4d8c225c"
+        }
+      ]
+    },
+    {
+      "area": 20,
+      "stage": 5,
+      "name": "カスタリア樹林・西部 20-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "31736a21-794f-4c58-b64f-932f33442d06"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "ca13111f-c006-476a-a9db-59595c739d7d"
+        },
+        {
+          "dropRate": "Low",
+          "id": "76237d14-f59c-4f8e-8662-d7fe48b94d0c"
+        }
+      ]
+    },
+    {
+      "area": 20,
+      "stage": 6,
+      "name": "カスタリア樹林・西部 20-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "baa06acf-0ef3-46f0-b847-8d920424c652"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "46a1249b-fd69-4087-8fb0-0a13fce7080a"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1fdd6c71-acb2-4c5d-aba1-97f6679f8516"
+        }
+      ]
+    },
+    {
+      "area": 20,
+      "stage": 7,
+      "name": "カスタリア樹林・西部 20-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d1b8e5c7-c14f-4da8-8fcb-c407da09e03a"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "7a2c8495-2e25-4949-939d-a652483d2eae"
+        },
+        {
+          "dropRate": "Low",
+          "id": "248f2201-f526-4acd-8e8c-76b87ecbd32b"
+        }
+      ]
+    },
+    {
+      "area": 20,
+      "stage": 8,
+      "name": "カスタリア樹林・西部 20-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "31736a21-794f-4c58-b64f-932f33442d06"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "1f4bef04-26ee-4205-8059-70e3bce05704"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d4ee28c6-0e29-43e7-a6a7-13451055d6eb"
+        }
+      ]
+    },
+    {
+      "area": 20,
+      "stage": 9,
+      "name": "カスタリア樹林・西部 20-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "baa06acf-0ef3-46f0-b847-8d920424c652"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "1089da6c-ba95-434e-8570-4165e378058e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "51853080-c058-4e62-a48a-9a32f2dfb23e"
+        }
+      ]
+    },
+    {
+      "area": 20,
+      "stage": 10,
+      "name": "カスタリア樹林・西部 20-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d1b8e5c7-c14f-4da8-8fcb-c407da09e03a"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "ca13111f-c006-476a-a9db-59595c739d7d"
+        },
+        {
+          "dropRate": "Low",
+          "id": "520cb77c-6e5f-499e-b087-164c4d8c225c"
+        }
+      ]
+    },
+    {
+      "area": 20,
+      "stage": 11,
+      "name": "カスタリア樹林・西部 20-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "31736a21-794f-4c58-b64f-932f33442d06"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "467ea476-ddb4-4a42-b826-cec6a09b3564"
+        },
+        {
+          "dropRate": "Low",
+          "id": "2f7e9c29-e4d9-4809-8cc2-e294014c4bb0"
+        }
+      ]
+    },
+    {
+      "area": 20,
+      "stage": 12,
+      "name": "カスタリア樹林・西部 20-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "baa06acf-0ef3-46f0-b847-8d920424c652"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d1b8e5c7-c14f-4da8-8fcb-c407da09e03a"
+        },
+        {
+          "dropRate": "Low",
+          "id": "7a2c8495-2e25-4949-939d-a652483d2eae"
+        }
+      ]
+    },
+    {
+      "area": 20,
+      "stage": 13,
+      "name": "カスタリア樹林・西部 20-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d1b8e5c7-c14f-4da8-8fcb-c407da09e03a"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "31736a21-794f-4c58-b64f-932f33442d06"
+        },
+        {
+          "dropRate": "Low",
+          "id": "2b44ab2b-8e14-4cb9-9c63-c0d2920a7836"
+        }
+      ]
+    },
+    {
+      "area": 20,
+      "stage": 14,
+      "name": "カスタリア樹林・西部 20-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "31736a21-794f-4c58-b64f-932f33442d06"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "baa06acf-0ef3-46f0-b847-8d920424c652"
+        },
+        {
+          "dropRate": "Low",
+          "id": "02ae56ed-54b8-4850-9762-6b665ca5c3ff"
+        }
+      ]
+    },
+    {
+      "area": 21,
+      "stage": 1,
+      "name": "カスタリア樹林・東部 21-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "baa06acf-0ef3-46f0-b847-8d920424c652"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d1b8e5c7-c14f-4da8-8fcb-c407da09e03a"
+        },
+        {
+          "dropRate": "Low",
+          "id": "02ae56ed-54b8-4850-9762-6b665ca5c3ff"
+        }
+      ]
+    },
+    {
+      "area": 21,
+      "stage": 2,
+      "name": "カスタリア樹林・東部 21-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d1b8e5c7-c14f-4da8-8fcb-c407da09e03a"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "31736a21-794f-4c58-b64f-932f33442d06"
+        },
+        {
+          "dropRate": "Low",
+          "id": "46a1249b-fd69-4087-8fb0-0a13fce7080a"
+        }
+      ]
+    },
+    {
+      "area": 21,
+      "stage": 3,
+      "name": "カスタリア樹林・東部 21-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "31736a21-794f-4c58-b64f-932f33442d06"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "baa06acf-0ef3-46f0-b847-8d920424c652"
+        },
+        {
+          "dropRate": "Low",
+          "id": "7a2c8495-2e25-4949-939d-a652483d2eae"
+        }
+      ]
+    },
+    {
+      "area": 21,
+      "stage": 4,
+      "name": "カスタリア樹林・東部 21-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "6fd31797-f787-4d1f-9cc3-23b922e6d9bc"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "baa06acf-0ef3-46f0-b847-8d920424c652"
+        },
+        {
+          "dropRate": "Low",
+          "id": "2f7e9c29-e4d9-4809-8cc2-e294014c4bb0"
+        }
+      ]
+    },
+    {
+      "area": 21,
+      "stage": 5,
+      "name": "カスタリア樹林・東部 21-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1084cee9-86f4-49b8-a351-1eb7bb8b86fb"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d1b8e5c7-c14f-4da8-8fcb-c407da09e03a"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1f4bef04-26ee-4205-8059-70e3bce05704"
+        }
+      ]
+    },
+    {
+      "area": 21,
+      "stage": 6,
+      "name": "カスタリア樹林・東部 21-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "525a1a44-7f0a-42ab-aad8-1095985ff357"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "31736a21-794f-4c58-b64f-932f33442d06"
+        },
+        {
+          "dropRate": "Low",
+          "id": "467ea476-ddb4-4a42-b826-cec6a09b3564"
+        }
+      ]
+    },
+    {
+      "area": 21,
+      "stage": 7,
+      "name": "カスタリア樹林・東部 21-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "ec655dda-7ef0-474a-b882-b18cbca33d4c"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "baa06acf-0ef3-46f0-b847-8d920424c652"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1089da6c-ba95-434e-8570-4165e378058e"
+        }
+      ]
+    },
+    {
+      "area": 21,
+      "stage": 8,
+      "name": "カスタリア樹林・東部 21-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "194a7a11-18c8-40b2-961b-0152106381e5"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d1b8e5c7-c14f-4da8-8fcb-c407da09e03a"
+        },
+        {
+          "dropRate": "Low",
+          "id": "ca13111f-c006-476a-a9db-59595c739d7d"
+        }
+      ]
+    },
+    {
+      "area": 21,
+      "stage": 9,
+      "name": "カスタリア樹林・東部 21-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "95589bb8-e4ac-4aa9-9580-2843fed6b9fd"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "31736a21-794f-4c58-b64f-932f33442d06"
+        },
+        {
+          "dropRate": "Low",
+          "id": "2b44ab2b-8e14-4cb9-9c63-c0d2920a7836"
+        }
+      ]
+    },
+    {
+      "area": 21,
+      "stage": 10,
+      "name": "カスタリア樹林・東部 21-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1084cee9-86f4-49b8-a351-1eb7bb8b86fb"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "baa06acf-0ef3-46f0-b847-8d920424c652"
+        },
+        {
+          "dropRate": "Low",
+          "id": "02ae56ed-54b8-4850-9762-6b665ca5c3ff"
+        }
+      ]
+    },
+    {
+      "area": 21,
+      "stage": 11,
+      "name": "カスタリア樹林・東部 21-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "525a1a44-7f0a-42ab-aad8-1095985ff357"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d1b8e5c7-c14f-4da8-8fcb-c407da09e03a"
+        },
+        {
+          "dropRate": "Low",
+          "id": "46a1249b-fd69-4087-8fb0-0a13fce7080a"
+        }
+      ]
+    },
+    {
+      "area": 21,
+      "stage": 12,
+      "name": "カスタリア樹林・東部 21-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "194a7a11-18c8-40b2-961b-0152106381e5"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "6fd31797-f787-4d1f-9cc3-23b922e6d9bc"
+        },
+        {
+          "dropRate": "Low",
+          "id": "baa06acf-0ef3-46f0-b847-8d920424c652"
+        }
+      ]
+    },
+    {
+      "area": 21,
+      "stage": 13,
+      "name": "カスタリア樹林・東部 21-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "95589bb8-e4ac-4aa9-9580-2843fed6b9fd"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "525a1a44-7f0a-42ab-aad8-1095985ff357"
+        },
+        {
+          "dropRate": "Low",
+          "id": "31736a21-794f-4c58-b64f-932f33442d06"
+        }
+      ]
+    },
+    {
+      "area": 21,
+      "stage": 14,
+      "name": "カスタリア樹林・東部 21-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "ec655dda-7ef0-474a-b882-b18cbca33d4c"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "1084cee9-86f4-49b8-a351-1eb7bb8b86fb"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d1b8e5c7-c14f-4da8-8fcb-c407da09e03a"
+        }
+      ]
+    },
+    {
+      "area": 22,
+      "stage": 1,
+      "name": "マティルド岩峯・南部 22-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "6fd31797-f787-4d1f-9cc3-23b922e6d9bc"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "ec655dda-7ef0-474a-b882-b18cbca33d4c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "baa06acf-0ef3-46f0-b847-8d920424c652"
+        }
+      ]
+    },
+    {
+      "area": 22,
+      "stage": 2,
+      "name": "マティルド岩峯・南部 22-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "1084cee9-86f4-49b8-a351-1eb7bb8b86fb"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "194a7a11-18c8-40b2-961b-0152106381e5"
+        },
+        {
+          "dropRate": "Low",
+          "id": "31736a21-794f-4c58-b64f-932f33442d06"
+        }
+      ]
+    },
+    {
+      "area": 22,
+      "stage": 3,
+      "name": "マティルド岩峯・南部 22-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "525a1a44-7f0a-42ab-aad8-1095985ff357"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "6fd31797-f787-4d1f-9cc3-23b922e6d9bc"
+        },
+        {
+          "dropRate": "Low",
+          "id": "d1b8e5c7-c14f-4da8-8fcb-c407da09e03a"
+        }
+      ]
+    },
+    {
+      "area": 22,
+      "stage": 4,
+      "name": "マティルド岩峯・南部 22-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "2c51453b-0988-4224-819e-74c9da470d61"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "95589bb8-e4ac-4aa9-9580-2843fed6b9fd"
+        },
+        {
+          "dropRate": "Low",
+          "id": "baa06acf-0ef3-46f0-b847-8d920424c652"
+        }
+      ]
+    },
+    {
+      "area": 22,
+      "stage": 5,
+      "name": "マティルド岩峯・南部 22-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d2ee13b4-f68c-4e4e-a56f-f9af1a2c1e3b"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "612edec3-4742-4560-a1c8-772f7948213e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "467ea476-ddb4-4a42-b826-cec6a09b3564"
+        }
+      ]
+    },
+    {
+      "area": 22,
+      "stage": 6,
+      "name": "マティルド岩峯・南部 22-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "b97c1505-a03a-4896-b20d-c7abd5be7b97"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "ccf22d50-6871-47fa-9ce3-ba764b163161"
+        },
+        {
+          "dropRate": "Low",
+          "id": "ec655dda-7ef0-474a-b882-b18cbca33d4c"
+        }
+      ]
+    },
+    {
+      "area": 22,
+      "stage": 7,
+      "name": "マティルド岩峯・南部 22-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "7089a33d-0d28-4016-9cb2-0b60cc05e0ce"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "13e9ca90-29b7-4aed-b3c9-3326f87a60da"
+        },
+        {
+          "dropRate": "Low",
+          "id": "95589bb8-e4ac-4aa9-9580-2843fed6b9fd"
+        }
+      ]
+    },
+    {
+      "area": 22,
+      "stage": 8,
+      "name": "マティルド岩峯・南部 22-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "e9f8b4a2-dfcd-4a19-99e7-cf18cb62f1c4"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "39529765-ad4c-4ee4-ac76-324536a4e83c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1084cee9-86f4-49b8-a351-1eb7bb8b86fb"
+        }
+      ]
+    },
+    {
+      "area": 22,
+      "stage": 9,
+      "name": "マティルド岩峯・南部 22-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "2c51453b-0988-4224-819e-74c9da470d61"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "194a7a11-18c8-40b2-961b-0152106381e5"
+        },
+        {
+          "dropRate": "Low",
+          "id": "95589bb8-e4ac-4aa9-9580-2843fed6b9fd"
+        }
+      ]
+    },
+    {
+      "area": 22,
+      "stage": 10,
+      "name": "マティルド岩峯・南部 22-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "7089a33d-0d28-4016-9cb2-0b60cc05e0ce"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "ec655dda-7ef0-474a-b882-b18cbca33d4c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "6fd31797-f787-4d1f-9cc3-23b922e6d9bc"
+        }
+      ]
+    },
+    {
+      "area": 22,
+      "stage": 11,
+      "name": "マティルド岩峯・南部 22-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "e9f8b4a2-dfcd-4a19-99e7-cf18cb62f1c4"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "525a1a44-7f0a-42ab-aad8-1095985ff357"
+        },
+        {
+          "dropRate": "Low",
+          "id": "95589bb8-e4ac-4aa9-9580-2843fed6b9fd"
+        }
+      ]
+    },
+    {
+      "area": 22,
+      "stage": 12,
+      "name": "マティルド岩峯・南部 22-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "d2ee13b4-f68c-4e4e-a56f-f9af1a2c1e3b"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "1084cee9-86f4-49b8-a351-1eb7bb8b86fb"
+        },
+        {
+          "dropRate": "Low",
+          "id": "31736a21-794f-4c58-b64f-932f33442d06"
+        }
+      ]
+    },
+    {
+      "area": 22,
+      "stage": 13,
+      "name": "マティルド岩峯・南部 22-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "13e9ca90-29b7-4aed-b3c9-3326f87a60da"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "6fd31797-f787-4d1f-9cc3-23b922e6d9bc"
+        },
+        {
+          "dropRate": "Low",
+          "id": "baa06acf-0ef3-46f0-b847-8d920424c652"
+        }
+      ]
+    },
+    {
+      "area": 22,
+      "stage": 14,
+      "name": "マティルド岩峯・南部 22-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "b97c1505-a03a-4896-b20d-c7abd5be7b97"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "95589bb8-e4ac-4aa9-9580-2843fed6b9fd"
+        },
+        {
+          "dropRate": "Low",
+          "id": "ca13111f-c006-476a-a9db-59595c739d7d"
+        }
+      ]
+    },
+    {
+      "area": 23,
+      "stage": 1,
+      "name": "マティルド岩峯・北部 23-1",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "ccf22d50-6871-47fa-9ce3-ba764b163161"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "7089a33d-0d28-4016-9cb2-0b60cc05e0ce"
+        },
+        {
+          "dropRate": "Low",
+          "id": "194a7a11-18c8-40b2-961b-0152106381e5"
+        }
+      ]
+    },
+    {
+      "area": 23,
+      "stage": 2,
+      "name": "マティルド岩峯・北部 23-2",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "b97c1505-a03a-4896-b20d-c7abd5be7b97"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "2c51453b-0988-4224-819e-74c9da470d61"
+        },
+        {
+          "dropRate": "Low",
+          "id": "525a1a44-7f0a-42ab-aad8-1095985ff357"
+        }
+      ]
+    },
+    {
+      "area": 23,
+      "stage": 3,
+      "name": "マティルド岩峯・北部 23-3",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "e9f8b4a2-dfcd-4a19-99e7-cf18cb62f1c4"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d2ee13b4-f68c-4e4e-a56f-f9af1a2c1e3b"
+        },
+        {
+          "dropRate": "Low",
+          "id": "6fd31797-f787-4d1f-9cc3-23b922e6d9bc"
+        }
+      ]
+    },
+    {
+      "area": 23,
+      "stage": 4,
+      "name": "マティルド岩峯・北部 23-4",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "a7d6acdd-f809-4025-a8a8-a0feb5d35233"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "13e9ca90-29b7-4aed-b3c9-3326f87a60da"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1084cee9-86f4-49b8-a351-1eb7bb8b86fb"
+        }
+      ]
+    },
+    {
+      "area": 23,
+      "stage": 5,
+      "name": "マティルド岩峯・北部 23-5",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "ba846e41-fb42-4449-b734-3d65d8a022d1"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "39529765-ad4c-4ee4-ac76-324536a4e83c"
+        },
+        {
+          "dropRate": "Low",
+          "id": "ec655dda-7ef0-474a-b882-b18cbca33d4c"
+        }
+      ]
+    },
+    {
+      "area": 23,
+      "stage": 6,
+      "name": "マティルド岩峯・北部 23-6",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "25a453d6-29f5-48d9-932b-114e562d3a19"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "612edec3-4742-4560-a1c8-772f7948213e"
+        },
+        {
+          "dropRate": "Low",
+          "id": "6fd31797-f787-4d1f-9cc3-23b922e6d9bc"
+        }
+      ]
+    },
+    {
+      "area": 23,
+      "stage": 7,
+      "name": "マティルド岩峯・北部 23-7",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "a7d6acdd-f809-4025-a8a8-a0feb5d35233"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "ccf22d50-6871-47fa-9ce3-ba764b163161"
+        },
+        {
+          "dropRate": "Low",
+          "id": "95589bb8-e4ac-4aa9-9580-2843fed6b9fd"
+        }
+      ]
+    },
+    {
+      "area": 23,
+      "stage": 8,
+      "name": "マティルド岩峯・北部 23-8",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "ba846e41-fb42-4449-b734-3d65d8a022d1"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "2c51453b-0988-4224-819e-74c9da470d61"
+        },
+        {
+          "dropRate": "Low",
+          "id": "1084cee9-86f4-49b8-a351-1eb7bb8b86fb"
+        }
+      ]
+    },
+    {
+      "area": 23,
+      "stage": 9,
+      "name": "マティルド岩峯・北部 23-9",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "25a453d6-29f5-48d9-932b-114e562d3a19"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "b97c1505-a03a-4896-b20d-c7abd5be7b97"
+        },
+        {
+          "dropRate": "Low",
+          "id": "525a1a44-7f0a-42ab-aad8-1095985ff357"
+        }
+      ]
+    },
+    {
+      "area": 23,
+      "stage": 10,
+      "name": "マティルド岩峯・北部 23-10",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "a7d6acdd-f809-4025-a8a8-a0feb5d35233"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "7089a33d-0d28-4016-9cb2-0b60cc05e0ce"
+        },
+        {
+          "dropRate": "Low",
+          "id": "6fd31797-f787-4d1f-9cc3-23b922e6d9bc"
+        }
+      ]
+    },
+    {
+      "area": 23,
+      "stage": 11,
+      "name": "マティルド岩峯・北部 23-11",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "ba846e41-fb42-4449-b734-3d65d8a022d1"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "d2ee13b4-f68c-4e4e-a56f-f9af1a2c1e3b"
+        },
+        {
+          "dropRate": "Low",
+          "id": "194a7a11-18c8-40b2-961b-0152106381e5"
+        }
+      ]
+    },
+    {
+      "area": 23,
+      "stage": 12,
+      "name": "マティルド岩峯・北部 23-12",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "a7d6acdd-f809-4025-a8a8-a0feb5d35233"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "25a453d6-29f5-48d9-932b-114e562d3a19"
+        },
+        {
+          "dropRate": "Low",
+          "id": "2c51453b-0988-4224-819e-74c9da470d61"
+        }
+      ]
+    },
+    {
+      "area": 23,
+      "stage": 13,
+      "name": "マティルド岩峯・北部 23-13",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "ba846e41-fb42-4449-b734-3d65d8a022d1"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "a7d6acdd-f809-4025-a8a8-a0feb5d35233"
+        },
+        {
+          "dropRate": "Low",
+          "id": "612edec3-4742-4560-a1c8-772f7948213e"
+        }
+      ]
+    },
+    {
+      "area": 23,
+      "stage": 14,
+      "name": "マティルド岩峯・北部 23-14",
+      "drops": [
+        {
+          "dropRate": "High",
+          "id": "25a453d6-29f5-48d9-932b-114e562d3a19"
+        },
+        {
+          "dropRate": "Medium",
+          "id": "ba846e41-fb42-4449-b734-3d65d8a022d1"
+        },
+        {
+          "dropRate": "Low",
+          "id": "b97c1505-a03a-4896-b20d-c7abd5be7b97"
+        }
+      ]
     }
   ]
 }
