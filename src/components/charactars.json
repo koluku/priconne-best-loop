@@ -1,6 +1,772 @@
 {
   "charactars": [
     {
+      "rarity": 1,
+      "name": "ラム",
+      "equipments": [
+        {
+          "rank": 1,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 11,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 12,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 13,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rarity": 3,
+      "name": "レム",
+      "equipments": [
+        {
+          "rank": 1,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 11,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 12,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 13,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
       "rarity": 3,
       "name": "ニノン(オーエド)",
       "equipments": [
@@ -356,8 +1122,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b15ee90c-7a76-4695-ab46-58e8b4a71027",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "1a3a90d4-fe7a-42b7-9970-8c87e2c89544",
@@ -731,8 +1505,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b4e050e9-42ac-4fa9-874f-c247d6665617",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "1cf5d7f5-adbc-45ba-b736-5c1e9cf3eb54",
@@ -1106,8 +1888,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "5ec8a516-955d-43e7-a276-fa898212fb16",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -1481,8 +2271,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "5ec8a516-955d-43e7-a276-fa898212fb16",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -1503,7 +2301,385 @@
     {
       "rarity": 3,
       "name": "マコト",
-      "equipments": []
+      "equipments": [
+        {
+          "rank": 1,
+          "items": [
+            {
+              "id": "8a98a43a-305c-49e3-8b3d-d73db30b1b15",
+              "amount": 1
+            },
+            {
+              "id": "8a98a43a-305c-49e3-8b3d-d73db30b1b15",
+              "amount": 1
+            },
+            {
+              "id": "3a9ff0b0-1d2c-4753-a50e-5a39721d43f5",
+              "amount": 1
+            },
+            {
+              "id": "8789a935-968f-4480-8c5a-5448c91aefd6",
+              "amount": 1
+            },
+            {
+              "id": "8a98a43a-305c-49e3-8b3d-d73db30b1b15",
+              "amount": 1
+            },
+            {
+              "id": "950e2091-f73f-4b9b-b031-88a96863ace6",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "items": [
+            {
+              "id": "59d3859e-51af-4e9c-895f-fc75fd296b76",
+              "amount": 1
+            },
+            {
+              "id": "06420c5b-b9d5-4453-bebc-3f696005448b",
+              "amount": 1
+            },
+            {
+              "id": "581decc4-dab9-4c43-9ab9-93c6e3e4aa7e",
+              "amount": 1
+            },
+            {
+              "id": "7ce2254c-4d1e-49a5-b52d-ea12f8413fdc",
+              "amount": 1
+            },
+            {
+              "id": "8a98a43a-305c-49e3-8b3d-d73db30b1b15",
+              "amount": 1
+            },
+            {
+              "id": "950e2091-f73f-4b9b-b031-88a96863ace6",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "items": [
+            {
+              "id": "65f6c5f0-fcc6-4af5-b348-5055e6f16486",
+              "amount": 1
+            },
+            {
+              "id": "59d3859e-51af-4e9c-895f-fc75fd296b76",
+              "amount": 1
+            },
+            {
+              "id": "03893d3d-0b37-4616-b162-ccd8cbed18e6",
+              "amount": 1
+            },
+            {
+              "id": "92228309-0b55-4c33-b6a1-04c008a913da",
+              "amount": 1
+            },
+            {
+              "id": "06420c5b-b9d5-4453-bebc-3f696005448b",
+              "amount": 1
+            },
+            {
+              "id": "c08e0505-e336-49db-9d39-b977ac56a90a",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "items": [
+            {
+              "id": "f86fe1f1-fbbe-4ee4-a083-82e360f0c34d",
+              "amount": 1
+            },
+            {
+              "id": "65f6c5f0-fcc6-4af5-b348-5055e6f16486",
+              "amount": 1
+            },
+            {
+              "id": "ed2f76b8-ebbe-48aa-9b92-74f9a69a3e58",
+              "amount": 1
+            },
+            {
+              "id": "ea5c6dc4-03e2-4e1c-bbbc-0ffec5b2ecc7",
+              "amount": 1
+            },
+            {
+              "id": "59d3859e-51af-4e9c-895f-fc75fd296b76",
+              "amount": 1
+            },
+            {
+              "id": "69dcba21-fb62-4eb6-a3d8-d1ad8f33c545",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "items": [
+            {
+              "id": "3ab7e400-5170-41f7-b121-812fe1525ac8",
+              "amount": 1
+            },
+            {
+              "id": "f86fe1f1-fbbe-4ee4-a083-82e360f0c34d",
+              "amount": 1
+            },
+            {
+              "id": "3859f534-a144-4356-8fee-018d3e1b80ac",
+              "amount": 1
+            },
+            {
+              "id": "65e2ed72-2e58-4995-9767-bd09702a1487",
+              "amount": 1
+            },
+            {
+              "id": "65f6c5f0-fcc6-4af5-b348-5055e6f16486",
+              "amount": 1
+            },
+            {
+              "id": "ea5c6dc4-03e2-4e1c-bbbc-0ffec5b2ecc7",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "items": [
+            {
+              "id": "b7965e86-f5cd-4721-9344-783b75dc61db",
+              "amount": 1
+            },
+            {
+              "id": "3ab7e400-5170-41f7-b121-812fe1525ac8",
+              "amount": 1
+            },
+            {
+              "id": "129095c2-d3d9-49f6-97ef-3fd2f18fbbb9",
+              "amount": 1
+            },
+            {
+              "id": "65e2ed72-2e58-4995-9767-bd09702a1487",
+              "amount": 1
+            },
+            {
+              "id": "f86fe1f1-fbbe-4ee4-a083-82e360f0c34d",
+              "amount": 1
+            },
+            {
+              "id": "af609c6c-21d3-42f9-91da-a01f43f81693",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "items": [
+            {
+              "id": "aaa7d846-3a84-463f-9a50-d88204ffcda1",
+              "amount": 1
+            },
+            {
+              "id": "b7965e86-f5cd-4721-9344-783b75dc61db",
+              "amount": 1
+            },
+            {
+              "id": "36a4a908-9527-488e-a40e-d6cf1831a563",
+              "amount": 1
+            },
+            {
+              "id": "e3530606-e664-49f1-97d1-9698976199e4",
+              "amount": 1
+            },
+            {
+              "id": "3ab7e400-5170-41f7-b121-812fe1525ac8",
+              "amount": 1
+            },
+            {
+              "id": "af609c6c-21d3-42f9-91da-a01f43f81693",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "items": [
+            {
+              "id": "1bdd3018-29eb-4274-aab4-6ddac8347a0d",
+              "amount": 1
+            },
+            {
+              "id": "aaa7d846-3a84-463f-9a50-d88204ffcda1",
+              "amount": 1
+            },
+            {
+              "id": "491c8438-9c16-45b6-b929-35fd1dc749bd",
+              "amount": 1
+            },
+            {
+              "id": "b7965e86-f5cd-4721-9344-783b75dc61db",
+              "amount": 1
+            },
+            {
+              "id": "3de59a15-8f16-4541-9fb1-5bd4afa0f71f",
+              "amount": 1
+            },
+            {
+              "id": "f93b8b6a-2888-4a3a-a1b9-2549a7a0eab8",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "items": [
+            {
+              "id": "199a8103-10f8-4b88-aa61-6bac85494480",
+              "amount": 1
+            },
+            {
+              "id": "1bdd3018-29eb-4274-aab4-6ddac8347a0d",
+              "amount": 1
+            },
+            {
+              "id": "38590d00-8c66-47ff-82eb-2b16385315d1",
+              "amount": 1
+            },
+            {
+              "id": "aaa7d846-3a84-463f-9a50-d88204ffcda1",
+              "amount": 1
+            },
+            {
+              "id": "1749eb1d-6bb1-4646-8de2-70c83b7ac146",
+              "amount": 1
+            },
+            {
+              "id": "3de59a15-8f16-4541-9fb1-5bd4afa0f71f",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "items": [
+            {
+              "id": "f3602efd-df51-4fb4-a948-a7ce200c3d5d",
+              "amount": 1
+            },
+            {
+              "id": "199a8103-10f8-4b88-aa61-6bac85494480",
+              "amount": 1
+            },
+            {
+              "id": "c3254c03-d783-424e-904c-d89bdcd23694",
+              "amount": 1
+            },
+            {
+              "id": "1bdd3018-29eb-4274-aab4-6ddac8347a0d",
+              "amount": 1
+            },
+            {
+              "id": "1241f774-573d-4c8f-8dc4-d3c54354b057",
+              "amount": 1
+            },
+            {
+              "id": "1749eb1d-6bb1-4646-8de2-70c83b7ac146",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 11,
+          "items": [
+            {
+              "id": "3aeba5ac-2b1c-47d6-ab3e-8e43c21bcd41",
+              "amount": 1
+            },
+            {
+              "id": "f3602efd-df51-4fb4-a948-a7ce200c3d5d",
+              "amount": 1
+            },
+            {
+              "id": "2378dcd1-0be7-482d-85e3-021713069ba9",
+              "amount": 1
+            },
+            {
+              "id": "199a8103-10f8-4b88-aa61-6bac85494480",
+              "amount": 1
+            },
+            {
+              "id": "8df352ef-0e07-476b-85f8-f23ce4baca03",
+              "amount": 1
+            },
+            {
+              "id": "8d1f7608-e6a4-4610-a6d4-425e2ec7700b",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 12,
+          "items": [
+            {
+              "id": "0ac6cd8d-ad04-4326-99d9-b39004116d19",
+              "amount": 1
+            },
+            {
+              "id": "3aeba5ac-2b1c-47d6-ab3e-8e43c21bcd41",
+              "amount": 1
+            },
+            {
+              "id": "1741c2fc-96ea-46db-badf-e6cba1e47e35",
+              "amount": 1
+            },
+            {
+              "id": "f3602efd-df51-4fb4-a948-a7ce200c3d5d",
+              "amount": 1
+            },
+            {
+              "id": "512758a7-699d-4036-863f-f4c4465f7aac",
+              "amount": 1
+            },
+            {
+              "id": "8df352ef-0e07-476b-85f8-f23ce4baca03",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 13,
+          "items": [
+            {
+              "id": "",
+              "amount": 0
+            },
+            {
+              "id": "0ac6cd8d-ad04-4326-99d9-b39004116d19",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
+            },
+            {
+              "id": "3aeba5ac-2b1c-47d6-ab3e-8e43c21bcd41",
+              "amount": 1
+            },
+            {
+              "id": "4de736d2-4eff-41b8-9e3d-27fccc051463",
+              "amount": 1
+            },
+            {
+              "id": "512758a7-699d-4036-863f-f4c4465f7aac",
+              "amount": 1
+            }
+          ]
+        }
+      ]
     },
     {
       "rarity": 3,
@@ -1861,8 +3037,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "5ec8a516-955d-43e7-a276-fa898212fb16",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -2236,8 +3420,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "5ec8a516-955d-43e7-a276-fa898212fb16",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "2a54b884-9353-4f1f-8266-ec11faf6ba85",
@@ -2611,8 +3803,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b15ee90c-7a76-4695-ab46-58e8b4a71027",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "1cf5d7f5-adbc-45ba-b736-5c1e9cf3eb54",
@@ -2633,7 +3833,385 @@
     {
       "rarity": 2,
       "name": "ミヤコ",
-      "equipments": []
+      "equipments": [
+        {
+          "rank": 1,
+          "items": [
+            {
+              "id": "2ff9946f-fcce-44c5-90ed-f35cbc9f7674",
+              "amount": 1
+            },
+            {
+              "id": "3a9ff0b0-1d2c-4753-a50e-5a39721d43f5",
+              "amount": 1
+            },
+            {
+              "id": "b1db4ef6-054e-4547-8755-212a2f325f03",
+              "amount": 1
+            },
+            {
+              "id": "b1db4ef6-054e-4547-8755-212a2f325f03",
+              "amount": 1
+            },
+            {
+              "id": "5574e0c1-5a30-4938-9a03-d634f37a71e8",
+              "amount": 1
+            },
+            {
+              "id": "5574e0c1-5a30-4938-9a03-d634f37a71e8",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "items": [
+            {
+              "id": "f4afa16c-cf8f-4f1f-a437-68a14e6468d5",
+              "amount": 1
+            },
+            {
+              "id": "2d4acb62-34e8-4a15-9ab2-f189bf3a0a4e",
+              "amount": 1
+            },
+            {
+              "id": "0658c6b9-ca8d-4c19-9cfb-2fce27266640",
+              "amount": 1
+            },
+            {
+              "id": "ece05355-6dff-488d-8b46-9dc48ffd3bfb",
+              "amount": 1
+            },
+            {
+              "id": "5574e0c1-5a30-4938-9a03-d634f37a71e8",
+              "amount": 1
+            },
+            {
+              "id": "5574e0c1-5a30-4938-9a03-d634f37a71e8",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "items": [
+            {
+              "id": "30e3e570-00b5-4c61-b474-f65f792aaf99",
+              "amount": 1
+            },
+            {
+              "id": "609af06f-edaf-45c5-a0e3-00224a373951",
+              "amount": 1
+            },
+            {
+              "id": "2180e7b1-c2f1-49e5-b834-7b78a57efaea",
+              "amount": 1
+            },
+            {
+              "id": "609af06f-edaf-45c5-a0e3-00224a373951",
+              "amount": 1
+            },
+            {
+              "id": "5adba3fc-8f6d-479f-ac88-dee65248590d",
+              "amount": 1
+            },
+            {
+              "id": "5adba3fc-8f6d-479f-ac88-dee65248590d",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "items": [
+            {
+              "id": "956fb1a1-c945-4dd5-afeb-76a72859c6a6",
+              "amount": 1
+            },
+            {
+              "id": "30e3e570-00b5-4c61-b474-f65f792aaf99",
+              "amount": 1
+            },
+            {
+              "id": "ce1495fe-c03f-45a9-bf5d-08e2fe7235aa",
+              "amount": 1
+            },
+            {
+              "id": "eccb6b7e-f083-45da-ae9f-667f787aec5d",
+              "amount": 1
+            },
+            {
+              "id": "0715d6bd-aab9-416c-a65f-a0e2b232f8e8",
+              "amount": 1
+            },
+            {
+              "id": "0715d6bd-aab9-416c-a65f-a0e2b232f8e8",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "items": [
+            {
+              "id": "e26c8da4-03fa-445a-a81e-d120976ab73b",
+              "amount": 1
+            },
+            {
+              "id": "956fb1a1-c945-4dd5-afeb-76a72859c6a6",
+              "amount": 1
+            },
+            {
+              "id": "ba920370-1260-482f-9255-b9fa55b58ca9",
+              "amount": 1
+            },
+            {
+              "id": "956fb1a1-c945-4dd5-afeb-76a72859c6a6",
+              "amount": 1
+            },
+            {
+              "id": "a513b3b2-0653-4668-8425-07c746159bc1",
+              "amount": 1
+            },
+            {
+              "id": "a513b3b2-0653-4668-8425-07c746159bc1",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "items": [
+            {
+              "id": "441941bc-48be-4476-abca-331aca07b78f",
+              "amount": 1
+            },
+            {
+              "id": "e3530606-e664-49f1-97d1-9698976199e4",
+              "amount": 1
+            },
+            {
+              "id": "e3530606-e664-49f1-97d1-9698976199e4",
+              "amount": 1
+            },
+            {
+              "id": "ba920370-1260-482f-9255-b9fa55b58ca9",
+              "amount": 1
+            },
+            {
+              "id": "b578f072-8bb6-40d3-be22-93b85315911d",
+              "amount": 1
+            },
+            {
+              "id": "b578f072-8bb6-40d3-be22-93b85315911d",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "items": [
+            {
+              "id": "a0a9156f-b23c-41f4-bb89-f74ce7629498",
+              "amount": 1
+            },
+            {
+              "id": "77c4adc9-5308-4628-a4f4-8903097352c7",
+              "amount": 1
+            },
+            {
+              "id": "3e4cfcb2-9e28-41bf-83c1-5fe6efc06c6a",
+              "amount": 1
+            },
+            {
+              "id": "e3530606-e664-49f1-97d1-9698976199e4",
+              "amount": 1
+            },
+            {
+              "id": "e3530606-e664-49f1-97d1-9698976199e4",
+              "amount": 1
+            },
+            {
+              "id": "ba920370-1260-482f-9255-b9fa55b58ca9",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "items": [
+            {
+              "id": "b9746a95-382f-4553-bbca-91cbe256245f",
+              "amount": 1
+            },
+            {
+              "id": "a0a9156f-b23c-41f4-bb89-f74ce7629498",
+              "amount": 1
+            },
+            {
+              "id": "8dbbf2e5-c2ee-4670-acb7-8f524434dfba",
+              "amount": 1
+            },
+            {
+              "id": "77c4adc9-5308-4628-a4f4-8903097352c7",
+              "amount": 1
+            },
+            {
+              "id": "ecd39723-30fd-42bc-be53-4d3d863f4dd2",
+              "amount": 1
+            },
+            {
+              "id": "e3530606-e664-49f1-97d1-9698976199e4",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "items": [
+            {
+              "id": "28ce466c-18ce-4a38-9422-788cfcfb3ee7",
+              "amount": 1
+            },
+            {
+              "id": "b9746a95-382f-4553-bbca-91cbe256245f",
+              "amount": 1
+            },
+            {
+              "id": "14a32ed2-4c22-446d-845d-2a75850c366e",
+              "amount": 1
+            },
+            {
+              "id": "8dbbf2e5-c2ee-4670-acb7-8f524434dfba",
+              "amount": 1
+            },
+            {
+              "id": "cecced25-f08a-48d3-9028-74fa6614e939",
+              "amount": 1
+            },
+            {
+              "id": "ecd39723-30fd-42bc-be53-4d3d863f4dd2",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "items": [
+            {
+              "id": "1815ff8c-4139-48ae-b425-c1b6944ba6f5",
+              "amount": 1
+            },
+            {
+              "id": "28ce466c-18ce-4a38-9422-788cfcfb3ee7",
+              "amount": 1
+            },
+            {
+              "id": "8744080c-1d9b-4e47-84bd-04098bafb7b0",
+              "amount": 1
+            },
+            {
+              "id": "14a32ed2-4c22-446d-845d-2a75850c366e",
+              "amount": 1
+            },
+            {
+              "id": "d644e44c-5663-461a-b217-65d06126ba4c",
+              "amount": 1
+            },
+            {
+              "id": "cecced25-f08a-48d3-9028-74fa6614e939",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 11,
+          "items": [
+            {
+              "id": "9a7e830f-ac82-4b9d-88a6-62f166602a54",
+              "amount": 1
+            },
+            {
+              "id": "1815ff8c-4139-48ae-b425-c1b6944ba6f5",
+              "amount": 1
+            },
+            {
+              "id": "ea0304be-28ba-4e56-8bfd-f714ba45a8ff",
+              "amount": 1
+            },
+            {
+              "id": "8744080c-1d9b-4e47-84bd-04098bafb7b0",
+              "amount": 1
+            },
+            {
+              "id": "036bbb6e-4407-4592-a862-f4b38fc92500",
+              "amount": 1
+            },
+            {
+              "id": "d644e44c-5663-461a-b217-65d06126ba4c",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 12,
+          "items": [
+            {
+              "id": "37c622cb-5416-4b17-b50a-df5941b16023",
+              "amount": 1
+            },
+            {
+              "id": "9a7e830f-ac82-4b9d-88a6-62f166602a54",
+              "amount": 1
+            },
+            {
+              "id": "66f3d1cc-b4b0-4e0c-94ce-6e2609873de4",
+              "amount": 1
+            },
+            {
+              "id": "ea0304be-28ba-4e56-8bfd-f714ba45a8ff",
+              "amount": 1
+            },
+            {
+              "id": "5ab8a0c5-cf47-4fcf-90ed-8066fcab6bd0",
+              "amount": 1
+            },
+            {
+              "id": "036bbb6e-4407-4592-a862-f4b38fc92500",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 13,
+          "items": [
+            {
+              "id": "",
+              "amount": 0
+            },
+            {
+              "id": "37c622cb-5416-4b17-b50a-df5941b16023",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
+            },
+            {
+              "id": "66f3d1cc-b4b0-4e0c-94ce-6e2609873de4",
+              "amount": 1
+            },
+            {
+              "id": "91889d2a-2808-4e7a-90d4-c88557a49fb9",
+              "amount": 1
+            },
+            {
+              "id": "5ab8a0c5-cf47-4fcf-90ed-8066fcab6bd0",
+              "amount": 1
+            }
+          ]
+        }
+      ]
     },
     {
       "rarity": 2,
@@ -2991,8 +4569,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "c7fc8cc7-2c3c-4dd7-9fa9-0b411d281784",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "83e07dee-b12c-4ced-8eae-68386065f9f9",
@@ -3366,8 +4952,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "a99c7e7c-f38e-4827-abd3-efdc6c6638fc",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "7daae2ec-9c7b-4bca-a276-283ba767e929",
@@ -3741,8 +5335,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b15ee90c-7a76-4695-ab46-58e8b4a71027",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "66f3d1cc-b4b0-4e0c-94ce-6e2609873de4",
@@ -4116,8 +5718,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "5ec8a516-955d-43e7-a276-fa898212fb16",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "1741c2fc-96ea-46db-badf-e6cba1e47e35",
@@ -4491,8 +6101,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "37c622cb-5416-4b17-b50a-df5941b16023",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6d0d26de-100e-4df8-9f8d-1c12f677c841",
@@ -4866,8 +6484,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "a99c7e7c-f38e-4827-abd3-efdc6c6638fc",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -5241,8 +6867,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "5ec8a516-955d-43e7-a276-fa898212fb16",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "1741c2fc-96ea-46db-badf-e6cba1e47e35",
@@ -5616,8 +7250,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "c7fc8cc7-2c3c-4dd7-9fa9-0b411d281784",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "66f3d1cc-b4b0-4e0c-94ce-6e2609873de4",
@@ -5991,8 +7633,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "c7fc8cc7-2c3c-4dd7-9fa9-0b411d281784",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -6366,8 +8016,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "009143ee-a9db-425b-b9ae-b8c1f5341ee6",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "d6c83cd7-76b4-4b80-aab6-890f11e6e49d",
@@ -6741,8 +8399,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "5ec8a516-955d-43e7-a276-fa898212fb16",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "1741c2fc-96ea-46db-badf-e6cba1e47e35",
@@ -6763,7 +8429,385 @@
     {
       "rarity": 3,
       "name": "ニノン",
-      "equipments": []
+      "equipments": [
+        {
+          "rank": 1,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 11,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 12,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "rank": 13,
+          "items": [
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 1
+            }
+          ]
+        }
+      ]
     },
     {
       "rarity": 3,
@@ -7121,8 +9165,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b15ee90c-7a76-4695-ab46-58e8b4a71027",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "66f3d1cc-b4b0-4e0c-94ce-6e2609873de4",
@@ -7496,8 +9548,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b4e050e9-42ac-4fa9-874f-c247d6665617",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6932ece8-d3c2-4cd1-891a-c30a3b14646c",
@@ -7871,8 +9931,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "a99c7e7c-f38e-4827-abd3-efdc6c6638fc",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -8246,8 +10314,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "0ac6cd8d-ad04-4326-99d9-b39004116d19",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -8621,8 +10697,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "a99c7e7c-f38e-4827-abd3-efdc6c6638fc",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "66f3d1cc-b4b0-4e0c-94ce-6e2609873de4",
@@ -8996,8 +11080,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "a99c7e7c-f38e-4827-abd3-efdc6c6638fc",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -9371,8 +11463,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "5ec8a516-955d-43e7-a276-fa898212fb16",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "1741c2fc-96ea-46db-badf-e6cba1e47e35",
@@ -9746,8 +11846,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "37c622cb-5416-4b17-b50a-df5941b16023",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -10121,8 +12229,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "5ec8a516-955d-43e7-a276-fa898212fb16",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "1741c2fc-96ea-46db-badf-e6cba1e47e35",
@@ -10496,8 +12612,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "009143ee-a9db-425b-b9ae-b8c1f5341ee6",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "d6c83cd7-76b4-4b80-aab6-890f11e6e49d",
@@ -10871,8 +12995,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "0ffe2014-622e-4445-938d-a3b3c4ec9c5a",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "4d52d3e0-2bf7-485a-a544-658f83957c9f",
@@ -11246,8 +13378,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b4e050e9-42ac-4fa9-874f-c247d6665617",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6932ece8-d3c2-4cd1-891a-c30a3b14646c",
@@ -11621,8 +13761,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "009143ee-a9db-425b-b9ae-b8c1f5341ee6",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6932ece8-d3c2-4cd1-891a-c30a3b14646c",
@@ -11996,8 +14144,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "009143ee-a9db-425b-b9ae-b8c1f5341ee6",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6932ece8-d3c2-4cd1-891a-c30a3b14646c",
@@ -12371,8 +14527,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "0ffe2014-622e-4445-938d-a3b3c4ec9c5a",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "4d52d3e0-2bf7-485a-a544-658f83957c9f",
@@ -12746,8 +14910,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b4e050e9-42ac-4fa9-874f-c247d6665617",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6932ece8-d3c2-4cd1-891a-c30a3b14646c",
@@ -13121,8 +15293,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "0ffe2014-622e-4445-938d-a3b3c4ec9c5a",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "4d52d3e0-2bf7-485a-a544-658f83957c9f",
@@ -13496,8 +15676,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b4e050e9-42ac-4fa9-874f-c247d6665617",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6932ece8-d3c2-4cd1-891a-c30a3b14646c",
@@ -13871,8 +16059,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "009143ee-a9db-425b-b9ae-b8c1f5341ee6",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "d6c83cd7-76b4-4b80-aab6-890f11e6e49d",
@@ -14246,8 +16442,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b4e050e9-42ac-4fa9-874f-c247d6665617",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "1cf5d7f5-adbc-45ba-b736-5c1e9cf3eb54",
@@ -14621,8 +16825,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "009143ee-a9db-425b-b9ae-b8c1f5341ee6",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "d6c83cd7-76b4-4b80-aab6-890f11e6e49d",
@@ -14996,8 +17208,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b4e050e9-42ac-4fa9-874f-c247d6665617",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6932ece8-d3c2-4cd1-891a-c30a3b14646c",
@@ -15371,8 +17591,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "0ffe2014-622e-4445-938d-a3b3c4ec9c5a",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "4d52d3e0-2bf7-485a-a544-658f83957c9f",
@@ -15746,8 +17974,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "0ffe2014-622e-4445-938d-a3b3c4ec9c5a",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "4d52d3e0-2bf7-485a-a544-658f83957c9f",
@@ -16121,8 +18357,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "5ec8a516-955d-43e7-a276-fa898212fb16",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -16496,8 +18740,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "c7fc8cc7-2c3c-4dd7-9fa9-0b411d281784",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "66f3d1cc-b4b0-4e0c-94ce-6e2609873de4",
@@ -16871,8 +19123,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "009143ee-a9db-425b-b9ae-b8c1f5341ee6",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "d6c83cd7-76b4-4b80-aab6-890f11e6e49d",
@@ -17246,8 +19506,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b4e050e9-42ac-4fa9-874f-c247d6665617",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6932ece8-d3c2-4cd1-891a-c30a3b14646c",
@@ -17621,8 +19889,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "009143ee-a9db-425b-b9ae-b8c1f5341ee6",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "d6c83cd7-76b4-4b80-aab6-890f11e6e49d",
@@ -17996,8 +20272,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b15ee90c-7a76-4695-ab46-58e8b4a71027",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "1741c2fc-96ea-46db-badf-e6cba1e47e35",
@@ -18371,8 +20655,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b15ee90c-7a76-4695-ab46-58e8b4a71027",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "2a54b884-9353-4f1f-8266-ec11faf6ba85",
@@ -18746,8 +21038,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "5ec8a516-955d-43e7-a276-fa898212fb16",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "2a54b884-9353-4f1f-8266-ec11faf6ba85",
@@ -19121,8 +21421,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "a99c7e7c-f38e-4827-abd3-efdc6c6638fc",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "1741c2fc-96ea-46db-badf-e6cba1e47e35",
@@ -19496,8 +21804,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b4e050e9-42ac-4fa9-874f-c247d6665617",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6932ece8-d3c2-4cd1-891a-c30a3b14646c",
@@ -19871,8 +22187,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "37c622cb-5416-4b17-b50a-df5941b16023",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "66f3d1cc-b4b0-4e0c-94ce-6e2609873de4",
@@ -20246,8 +22570,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "009143ee-a9db-425b-b9ae-b8c1f5341ee6",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6932ece8-d3c2-4cd1-891a-c30a3b14646c",
@@ -20621,8 +22953,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "37c622cb-5416-4b17-b50a-df5941b16023",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -20996,8 +23336,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "0ac6cd8d-ad04-4326-99d9-b39004116d19",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -21371,8 +23719,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "5ec8a516-955d-43e7-a276-fa898212fb16",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "2a54b884-9353-4f1f-8266-ec11faf6ba85",
@@ -21746,8 +24102,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "37c622cb-5416-4b17-b50a-df5941b16023",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "66f3d1cc-b4b0-4e0c-94ce-6e2609873de4",
@@ -22121,8 +24485,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b4e050e9-42ac-4fa9-874f-c247d6665617",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6932ece8-d3c2-4cd1-891a-c30a3b14646c",
@@ -22496,8 +24868,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b15ee90c-7a76-4695-ab46-58e8b4a71027",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "66f3d1cc-b4b0-4e0c-94ce-6e2609873de4",
@@ -22871,8 +25251,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "a99c7e7c-f38e-4827-abd3-efdc6c6638fc",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "9a7e830f-ac82-4b9d-88a6-62f166602a54",
@@ -23246,8 +25634,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "009143ee-a9db-425b-b9ae-b8c1f5341ee6",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "d6c83cd7-76b4-4b80-aab6-890f11e6e49d",
@@ -23621,8 +26017,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "0ac6cd8d-ad04-4326-99d9-b39004116d19",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -23996,8 +26400,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "c7fc8cc7-2c3c-4dd7-9fa9-0b411d281784",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "66f3d1cc-b4b0-4e0c-94ce-6e2609873de4",
@@ -24371,8 +26783,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "009143ee-a9db-425b-b9ae-b8c1f5341ee6",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6932ece8-d3c2-4cd1-891a-c30a3b14646c",
@@ -24746,8 +27166,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b4e050e9-42ac-4fa9-874f-c247d6665617",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6932ece8-d3c2-4cd1-891a-c30a3b14646c",
@@ -25121,8 +27549,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "37c622cb-5416-4b17-b50a-df5941b16023",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "7daae2ec-9c7b-4bca-a276-283ba767e929",
@@ -25496,8 +27932,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "37c622cb-5416-4b17-b50a-df5941b16023",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -25517,7 +27961,7 @@
     },
     {
       "rarity": 3,
-      "name": "正月ユイ",
+      "name": "ユイ(正月)",
       "equipments": [
         {
           "rank": 1,
@@ -25871,8 +28315,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b4e050e9-42ac-4fa9-874f-c247d6665617",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "6932ece8-d3c2-4cd1-891a-c30a3b14646c",
@@ -25892,7 +28344,7 @@
     },
     {
       "rarity": 3,
-      "name": "正月ヒヨリ",
+      "name": "ヒヨリ(正月)",
       "equipments": [
         {
           "rank": 1,
@@ -26246,8 +28698,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "c7fc8cc7-2c3c-4dd7-9fa9-0b411d281784",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "83e07dee-b12c-4ced-8eae-68386065f9f9",
@@ -26267,7 +28727,7 @@
     },
     {
       "rarity": 1,
-      "name": "正月レイ",
+      "name": "レイ(正月)",
       "equipments": [
         {
           "rank": 1,
@@ -26621,8 +29081,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "5ec8a516-955d-43e7-a276-fa898212fb16",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "26bcd015-f66b-4274-85b1-dc941eb65ec7",
@@ -26996,8 +29464,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "5ec8a516-955d-43e7-a276-fa898212fb16",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "1741c2fc-96ea-46db-badf-e6cba1e47e35",
@@ -27371,8 +29847,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "a99c7e7c-f38e-4827-abd3-efdc6c6638fc",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "7daae2ec-9c7b-4bca-a276-283ba767e929",
@@ -27746,8 +30230,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "b15ee90c-7a76-4695-ab46-58e8b4a71027",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "2a54b884-9353-4f1f-8266-ec11faf6ba85",
@@ -28121,8 +30613,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "009143ee-a9db-425b-b9ae-b8c1f5341ee6",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "d6c83cd7-76b4-4b80-aab6-890f11e6e49d",
@@ -28496,8 +30996,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "009143ee-a9db-425b-b9ae-b8c1f5341ee6",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "d6c83cd7-76b4-4b80-aab6-890f11e6e49d",
@@ -28871,8 +31379,16 @@
           "rank": 13,
           "items": [
             {
+              "id": "",
+              "amount": 0
+            },
+            {
               "id": "009143ee-a9db-425b-b9ae-b8c1f5341ee6",
               "amount": 1
+            },
+            {
+              "id": "",
+              "amount": 0
             },
             {
               "id": "d6c83cd7-76b4-4b80-aab6-890f11e6e49d",

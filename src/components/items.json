@@ -522,7 +522,7 @@
       "id": "3aeba5ac-2b1c-47d6-ab3e-8e43c21bcd41",
       "rank": 5,
       "type": "equipment",
-      "name": "流渦の蒼刃",
+      "name": "流禍の蒼刃",
       "requirements": [
         {
           "id": "1f4bef04-26ee-4205-8059-70e3bce05704",
@@ -534,7 +534,7 @@
       "id": "1f4bef04-26ee-4205-8059-70e3bce05704",
       "rank": 5,
       "type": "material",
-      "name": "流渦の蒼刃(欠片)",
+      "name": "流禍の蒼刃(欠片)",
       "requirements": []
     },
     {
