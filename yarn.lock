@@ -871,12 +871,12 @@
     eslint "^4.19.1"
     eslint-plugin-vue "^4.7.1"
 
-"@vue/cli-plugin-pwa@^3.7.0":
-  version "3.7.0"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-pwa/-/cli-plugin-pwa-3.7.0.tgz#b602dffe1b5fe459e5beb94be13115d5f64810e2"
-  integrity sha512-yu6JmLyXX+NH3F9mroBTGX9XlOAxa1aSr92574M2UE63GbVBPaznx3UAWgJn9BU/f5yR+Y1vsJFcMPqyLU4TXg==
+"@vue/cli-plugin-pwa@^3.8.0":
+  version "3.8.0"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-pwa/-/cli-plugin-pwa-3.8.0.tgz#b1cb3b0f435404a4394479542b7f0f20a500ef97"
+  integrity sha512-czAeWMUuEeU4sp+9nIF6XOBEpQ9CFwHQHQSC57/vtVTn6J9QsbcY2roU/qaCQnqOgiw4Sz9wwRG30WgmsKn6PQ==
   dependencies:
-    "@vue/cli-shared-utils" "^3.7.0"
+    "@vue/cli-shared-utils" "^3.8.0"
     webpack ">=4 < 4.29"
     workbox-webpack-plugin "^3.6.3"
 
@@ -2327,6 +2327,11 @@ core-js@^2.4.0, core-js@^2.6.5:
   version "2.6.8"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.8.tgz#dc3a1e633a04267944e0cb850d3880f340248139"
   integrity sha512-RWlREFU74TEkdXzyl1bka66O3kYp8jeTXrvJZDzVVMH8AiHUSOFpL1yfhQJ+wHocAm1m+4971W1PPzfLuCv1vg==
+
+core-js@^3.1.3:
+  version "3.1.3"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.1.3.tgz#95700bca5f248f5f78c0ec63e784eca663ec4138"
+  integrity sha512-PWZ+ZfuaKf178BIAg+CRsljwjIMRV8MY00CbZczkR6Zk5LfkSkjGoaab3+bqRQWVITNZxQB7TFYz+CFcyuamvA==
 
 core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
@@ -6920,10 +6925,10 @@ sass-loader@^7.1.0:
     pify "^3.0.0"
     semver "^5.5.0"
 
-sass@^1.18.0:
-  version "1.20.1"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.20.1.tgz#737b901fe072336da540b6d00ec155e2267420da"
-  integrity sha512-BnCawee/L5kVG3B/5Jg6BFwASqUwFVE6fj2lnkVuSXDgQ7gMAhY9a2yPeqsKhJMCN+Wgx0r2mAW7XF/aTF5qtA==
+sass@^1.20.3:
+  version "1.20.3"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.20.3.tgz#18284a7bac6eab9cbb80453288473194f29efb84"
+  integrity sha512-kvf+w5XT7FrmFrCKz1gPHqegufG+gxifC8oQesX/s8gkShdeiTqiuvP0c8TvfBwMAuI1YGOgobZQ2KIJGn//jA==
   dependencies:
     chokidar "^2.0.0"
 
