@@ -1,29 +1,8 @@
-# priconne-best-loop
+# プリコネ素材集め最適周回計算ツール
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2019/06/28時点
+- Re:ゼロから始める異世界生活コラボ未対応
+    - レム
+    - ラム
+    - エミリア
+- Rank13の5装備目の未対応
